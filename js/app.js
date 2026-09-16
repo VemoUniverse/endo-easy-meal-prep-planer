@@ -3,7 +3,7 @@
 
   // Bumped on every content/logic change so browsers can't serve a stale
   // cached copy of the JSON data files after a republish.
-  var ASSET_VERSION = "v15";
+  var ASSET_VERSION = "v16";
 
   var ENERGY_RANK = { low: 0, normal: 1, motiviert: 2 };
   var CATEGORY_ORDER = ["Gemüse & Obst", "Proteinquellen", "Getreide & Beilagen", "Kühlprodukte", "Vorrat", "Gewürze", "Sonstiges"];
@@ -469,7 +469,7 @@
     if (chosen.length === 0) return;
 
     renderShoppingList(chosen);
-    renderIngredientTips();
+    renderIngredientTips(chosen);
     renderPrepPlan(chosen);
     renderStorageNotes(chosen);
     showScreen("plan");
@@ -545,12 +545,23 @@
     els.shoppingList.innerHTML = html;
   }
 
-  function renderIngredientTips() {
-    var tips = storageNotes.zutaten_tipps || [];
+  function renderIngredientTips(chosen) {
+    var allTips = storageNotes.zutaten_tipps || [];
+    var ingredientNames = [];
+    chosen.forEach(function (r) {
+      r.ingredients.forEach(function (ing) {
+        ingredientNames.push(ing.name.toLowerCase());
+      });
+    });
+    var tips = allTips.filter(function (tip) {
+      return ingredientNames.some(function (name) {
+        return name.indexOf(tip.match) !== -1;
+      });
+    });
     if (tips.length === 0) { els.ingredientTips.innerHTML = ""; return; }
     els.ingredientTips.innerHTML =
       '<p class="hint"><strong>Kleine Zutatentipps:</strong></p>' +
-      "<ul>" + tips.map(function (t) { return "<li>" + t + "</li>"; }).join("") + "</ul>";
+      "<ul>" + tips.map(function (t) { return "<li>" + t.text + "</li>"; }).join("") + "</ul>";
   }
 
   function renderStorageNotes(chosen) {

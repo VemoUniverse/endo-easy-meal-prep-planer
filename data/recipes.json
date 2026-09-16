@@ -6654,5 +6654,393 @@
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Meeresfrüchte enthalten sind.",
     "high_protein": true,
     "sugar_free": true
+  },
+  {
+    "id": "mf16",
+    "title": "Thunfisch Bohnen Salat",
+    "short_description": "Schneller Salat aus Thunfisch, weißen Bohnen und Cherrytomaten, ganz ohne Kochen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Thunfisch (Dose)",
+        "amount": 3,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "weiße Bohnen (Dose)",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "rote Zwiebeln",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Thunfisch und Bohnen abtropfen lassen.",
+      "Tomaten halbieren, Zwiebel fein würfeln.",
+      "Alles vermengen.",
+      "Mit Zitronensaft, Olivenöl, Salz und Pfeffer abschmecken."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Thunfisch und Bohnen",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Hält sich gut vorbereitet, ideal für einen Tag mit wenig Energie.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf17",
+    "title": "Raeucherlachs Avocado Bowl",
+    "short_description": "Frische Bowl mit Räucherlachs, cremiger Avocado und knackigem Gemüse, ganz ohne Kochen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Räucherlachs",
+        "amount": 300,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Avocado",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": 120,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Avocado und Gurke würfeln.",
+      "Räucherlachs in Streifen schneiden.",
+      "Alles auf Babyspinat anrichten.",
+      "Mit Zitronensaft und Olivenöl beträufeln."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "kalt",
+    "main_protein": "Lachs",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Avocado am besten erst kurz vor dem Essen zugeben, dann bleibt sie schön frisch.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf18",
+    "title": "Schnelle Haehnchen Pfanne mit Zucchini",
+    "short_description": "Zackige Hähnchenpfanne mit Zucchini und Cherrytomaten aus nur einer Pfanne.",
+    "image": null,
+    "meal_type": [
+      "abendessen",
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 250,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Oregano",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrust in Streifen schneiden.",
+      "In einer Pfanne mit Öl scharf anbraten.",
+      "Zucchini und Knoblauch dazugeben, mitbraten.",
+      "Cherrytomaten und Oregano untermischen, kurz erhitzen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "total_time_min": 20,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Ein Pfannengericht, ideal an Tagen mit wenig Energie, kaum Abwasch.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf19",
+    "title": "Garnelen Knoblauch Pfanne",
+    "short_description": "Blitzschnelle Garnelenpfanne mit Knoblauch, Zitrone und frischer Petersilie.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Garnelen",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "frische Petersilie",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Knoblauch in Öl kurz andünsten.",
+      "Garnelen dazugeben und 3 bis 4 Minuten braten.",
+      "Mit Zitronensaft ablöschen.",
+      "Mit Petersilie bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 8,
+    "total_time_min": 18,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Garnelen",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Meeresfrüchte enthalten sind. Am liebsten frisch aus der Pfanne.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf20",
+    "title": "Thunfisch Wrap zum Mitnehmen",
+    "short_description": "Handlicher Wrap mit cremigem Thunfisch Salat, ideal für die Arbeit.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "snack"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Thunfisch (Dose)",
+        "amount": 3,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 100,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Vollkorn Wraps",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Salat",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Thunfisch abtropfen lassen und mit Joghurt und Zitronensaft verrühren.",
+      "Salat waschen.",
+      "Wraps mit Salat und Thunfischmischung füllen.",
+      "Aufrollen und in Boxen legen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Thunfisch",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Wraps am besten erst kurz vor dem Essen füllen, dann bleiben sie knackig.",
+    "high_protein": true,
+    "sugar_free": true
   }
 ]

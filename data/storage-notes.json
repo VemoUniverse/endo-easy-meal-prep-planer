@@ -8,7 +8,7 @@
   "geroestet_trocken": "Trocken und luftdicht bei Zimmertemperatur bis zu einer Woche haltbar.",
   "freezing_default": "Portionsweise einfrieren und innerhalb von ca. 2 bis 3 Monaten verbrauchen. Vor dem Verzehr vollständig auftauen und gut erhitzen.",
   "zutaten_tipps": [
-    "Zimt: Bitte immer Ceylonzimt statt Cassiazimt verwenden. Der ist bekömmlicher.",
-    "Hafermilch: Am besten eine ungesüßte Variante ohne Rapsöl oder Sonnenblumenöl wählen, z. B. die beige Biohafermilch (Barista) von Oatly."
+    { "match": "zimt", "text": "Zimt: Bitte immer Ceylonzimt statt Cassiazimt verwenden. Der ist bekömmlicher." },
+    { "match": "hafermilch", "text": "Hafermilch: Am besten eine ungesüßte Variante ohne Rapsöl oder Sonnenblumenöl wählen, am liebsten in Bioqualität." }
   ]
 }
