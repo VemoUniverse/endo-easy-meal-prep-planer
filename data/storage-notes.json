@@ -1,0 +1,14 @@
+{
+  "pflanzlich_gegart": "Im Kühlschrank aufbewahren und innerhalb von ca. 3 bis 4 Tagen verzehren. Gut verschlossen lagern.",
+  "enthaelt_ei": "Im Kühlschrank aufbewahren und innerhalb von ca. 2 bis 3 Tagen verzehren, da das Gericht Ei enthält.",
+  "enthaelt_fisch": "Im Kühlschrank aufbewahren und möglichst innerhalb von 1 bis 2 Tagen verzehren, da das Gericht Fisch enthält. Vor dem Verzehr gut durcherhitzen, falls aufgewärmt.",
+  "enthaelt_fleisch": "Im Kühlschrank aufbewahren und innerhalb von ca. 2 bis 3 Tagen verzehren. Vor dem Verzehr gut durcherhitzen, falls aufgewärmt.",
+  "milchprodukt_frisch": "Im Kühlschrank aufbewahren und innerhalb von ca. 2 bis 3 Tagen verzehren, da das Gericht frische Milchprodukte enthält.",
+  "roh_ungekocht": "Im Kühlschrank aufbewahren und innerhalb von ca. 3 bis 4 Tagen verzehren.",
+  "geroestet_trocken": "Trocken und luftdicht bei Zimmertemperatur bis zu einer Woche haltbar.",
+  "freezing_default": "Portionsweise einfrieren und innerhalb von ca. 2 bis 3 Monaten verbrauchen. Vor dem Verzehr vollständig auftauen und gut erhitzen.",
+  "zutaten_tipps": [
+    "Zimt: Bitte immer Ceylonzimt statt Cassiazimt verwenden. Der ist bekömmlicher.",
+    "Hafermilch: Am besten eine ungesüßte Variante ohne Rapsöl oder Sonnenblumenöl wählen, z. B. die beige Biohafermilch (Barista) von Oatly."
+  ]
+}

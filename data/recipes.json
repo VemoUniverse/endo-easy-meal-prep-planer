@@ -1,0 +1,6658 @@
+[
+  {
+    "id": "b1",
+    "title": "Beeren Chia Frühstückscreme",
+    "short_description": "Cremiger Chia Pudding mit Kokosmilch und frischen Beeren. Am Vorabend vorbereitet, morgens fertig.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Chiasamen",
+        "amount": 80,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 600,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Vanilleextrakt",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Wildheidelbeeren, frisch oder TK (oder Beeren nach Wahl)",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Hanfsamen",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Chiasamen, Kokosmilch, Ahornsirup und Vanille in einer großen Schüssel verrühren.",
+      "Mindestens 4 Stunden oder über Nacht im Kühlschrank quellen lassen, zwischendurch einmal umrühren.",
+      "Vor dem Servieren auf Gläser verteilen.",
+      "Mit Beeren, Kürbiskernen und Hanfsamen toppen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Chiasamen & Hanfsamen",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Am besten in einzelnen Gläsern mit Deckel vorbereiten. So ist jede Portion direkt griffbereit für unterwegs.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "b2",
+    "title": "Herzhafte Ofen Gemüse Frittata Muffins",
+    "short_description": "Kleine Frittata Muffins mit buntem Ofengemüse. Im Ofen gebacken, kalt oder warm ein Genuss.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck",
+      "snack"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": 8,
+        "unit": "Stück",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Paprika",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Feta",
+        "amount": 100,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Salz & Pfeffer",
+        "amount": 1,
+        "unit": "Prise",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 180°C vorheizen, Muffinform einfetten.",
+      "Gemüse fein würfeln und kurz in Olivenöl andünsten.",
+      "Eier verquirlen, mit Salz und Pfeffer würzen, Gemüse und zerbröselten Feta unterheben.",
+      "Masse in die Muffinform füllen.",
+      "Ca. 20 Minuten backen, bis die Muffins fest sind."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Ei",
+    "storage_category": "enthaelt_ei",
+    "meal_prep_notes": "Ergibt ca. 8 Muffins (2 pro Portion). Perfekt zum Mitnehmen ins Büro, auch kalt lecker.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "b3",
+    "title": "Cremiges Kokos Porridge mit Ceylon Zimtapfel",
+    "short_description": "Warmes Hafer Porridge mit Kokosmilch, gedünstetem Apfel und Ceylon Zimt. Wärmend und sättigend.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "glutenfreie Haferflocken",
+        "amount": 240,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 400,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Wasser",
+        "amount": 400,
+        "unit": "ml",
+        "category": "Sonstiges"
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ceylon Zimt",
+        "amount": 2,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Hanfsamen",
+        "amount": 20,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Äpfel würfeln und mit etwas Ceylon Zimt in einem Topf kurz andünsten, beiseitestellen.",
+      "Haferflocken mit Kokosmilch und Wasser aufkochen.",
+      "Bei geringer Hitze ca. 5 Minuten köcheln lassen, bis das Porridge cremig ist.",
+      "Auf Portionsgläser verteilen, mit Ceylon Zimtapfel, Kürbiskernen und Hanfsamen toppen."
+    ],
+    "prep_time_min": 5,
+    "cook_time_min": 10,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Hafer & Hanfsamen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Kalt aus dem Kühlschrank genießen oder sanft im Topf bei niedriger Hitze aufwärmen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "b4",
+    "title": "Herzhafte Linsen Frühstücksbowl mit Spiegelei",
+    "short_description": "Sättigende Bowl aus Linsen, Spinat und Avocado, gekrönt von einem Spiegelei.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck",
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "vorgekochte Linsen",
+        "amount": 400,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": 160,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Avocado",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Linsen in einer Pfanne mit etwas Olivenöl kurz erwärmen, Spinat unterheben bis er zusammenfällt.",
+      "Mit Zitronensaft, Salz und Pfeffer abschmecken.",
+      "Eier separat als Spiegelei braten.",
+      "Linsen Spinat Mix auf Schalen verteilen, mit Avocadoscheiben und Spiegelei toppen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "total_time_min": 20,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Linsen & Ei",
+    "storage_category": "enthaelt_ei",
+    "meal_prep_notes": "Avocado und Ei am besten erst kurz vor dem Essen frisch zubereiten, die Linsenbasis lässt sich gut vorkochen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "b5",
+    "title": "Schoko Nuss Overnight Oats",
+    "short_description": "Schokoladige Overnight Oats mit Mandelmus und Walnüssen. Schmeckt nach Dessert, ist aber ein vollwertiges Frühstück.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck",
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "glutenfreie Haferflocken",
+        "amount": 240,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Hafermilch (ungesüßt)",
+        "amount": 500,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Rohkakaopulver",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Mandelmus",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "gehackte Walnüsse",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Hanfsamen",
+        "amount": 20,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Haferflocken, Hafermilch, Rohkakaopulver, Mandelmus und Ahornsirup verrühren.",
+      "In Gläser füllen und über Nacht im Kühlschrank quellen lassen.",
+      "Vor dem Servieren mit gehackten Walnüssen und Hanfsamen bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Hafer, Mandelmus & Hanfsamen",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Für eine nussfreie Variante Walnüsse durch geröstete Kürbiskerne ersetzen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "b6",
+    "title": "Goldene Kurkuma Buchweizen Bowl mit Beeren",
+    "short_description": "Warme Buchweizen Bowl mit Kurkuma, Kokosmilch und frischen Beeren. Leicht und wärmend zugleich.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Buchweizen",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 300,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kurkuma",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Ceylon Zimt",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Wildheidelbeeren (oder Beeren nach Wahl)",
+        "amount": 250,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Hanfsamen",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Buchweizen nach Packungsanweisung kochen.",
+      "Kokosmilch, Kurkuma und Ceylon Zimt einrühren, kurz köcheln lassen.",
+      "Auf Schalen verteilen, mit Beeren, Kürbiskernen und Hanfsamen toppen."
+    ],
+    "prep_time_min": 5,
+    "cook_time_min": 15,
+    "total_time_min": 20,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Buchweizen & Hanfsamen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Auch kalt als Frühstücksbowl mit einem Schuss Hafermilch genießbar.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "l1",
+    "title": "Mediterrane Zitronen Hähnchen Meal Prep Box",
+    "short_description": "Zartes Zitronen Hähnchen mit Ofengemüse und Quinoa. Ideal zum Mitnehmen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 600,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Quinoa",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Oregano",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Hähnchen mit Zitronensaft, Olivenöl und Oregano marinieren.",
+      "Gemüse grob schneiden, mit Hähnchen auf einem Blech verteilen.",
+      "Ca. 25 Minuten im Ofen garen.",
+      "Parallel Quinoa nach Packungsanweisung kochen.",
+      "Auf Meal Prep Boxen verteilen: Quinoa, Gemüse, Hähnchen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Lässt sich hervorragend in Portionsboxen einfrieren. Einfach über Nacht auftauen und aufwärmen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "l2",
+    "title": "Crunchy Tahini Kichererbsen Bowl",
+    "short_description": "Knackige Bowl mit gerösteten Kichererbsen, buntem Gemüse und cremigem Tahini Dressing.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kichererbsen",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Karotten",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Tahini",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Kichererbsen abtropfen lassen, mit Kreuzkümmel und etwas Öl in der Pfanne knusprig braten.",
+      "Gemüse in feine Streifen bzw. Würfel schneiden.",
+      "Tahini mit Zitronensaft, Wasser und einer Prise Salz zu einem Dressing verrühren.",
+      "Alles auf Boxen verteilen, Dressing separat für unterwegs mitgeben."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Dressing getrennt aufbewahren und erst kurz vor dem Essen darüber geben, dann bleibt alles schön knackig.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "l3",
+    "title": "Cremige Ofengemüse Orzo Bowl",
+    "short_description": "Orzo Nudeln mit geröstetem Ofengemüse, Feta und frischen Kräutern.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Vollkornorzo (oder Dinkelorzo)",
+        "amount": 300,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Aubergine",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 250,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Feta",
+        "amount": 150,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "frische Petersilie",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen, Gemüse würfeln, mit Öl vermengen und ca. 25 Minuten rösten.",
+      "Orzo parallel nach Packungsanweisung kochen.",
+      "Orzo mit dem Ofengemüse vermengen.",
+      "Feta zerbröseln, mit Petersilie unterheben."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "sommer",
+      "herbst"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Feta",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Schmeckt kalt genauso gut wie aufgewärmt. Ideal für die Arbeit.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "l4",
+    "title": "One Pot Linsen Curry mit Kokosmilch",
+    "short_description": "Wärmendes Linsen Curry aus einem Topf. Wenig Aufwand, viel Geschmack.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "rote Linsen",
+        "amount": 300,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 400,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "gehackte Tomaten",
+        "amount": 1,
+        "unit": "Dose",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ingwer",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Currypulver",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Blattspinat (TK)",
+        "amount": 200,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Zwiebel, Knoblauch und Ingwer fein hacken, in einem großen Topf andünsten.",
+      "Currypulver kurz mitrösten.",
+      "Linsen, Kokosmilch und Tomaten dazugeben, ca. 15 Minuten köcheln lassen.",
+      "Spinat unterrühren, bis er zusammenfällt.",
+      "Mit Salz und Pfeffer abschmecken."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Linsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Schmeckt am nächsten Tag noch besser. Lässt sich sehr gut portionsweise einfrieren.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "l5",
+    "title": "Quinoa Falafel Bowl mit Joghurt Dip",
+    "short_description": "Selbstgemachte Ofen Falafel auf Quinoa mit erfrischendem Joghurt Dip.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kichererbsen",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "frische Petersilie",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Quinoa",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 250,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Kichererbsen, Zwiebel, Petersilie und Kreuzkümmel im Mixer grob pürieren, zu kleinen Bällchen formen.",
+      "Ca. 20 Minuten im Ofen backen, bis sie goldbraun sind.",
+      "Quinoa parallel kochen.",
+      "Joghurt mit geriebener Gurke und Zitronensaft zum Dip verrühren.",
+      "Alles auf Bowls verteilen."
+    ],
+    "prep_time_min": 20,
+    "cook_time_min": 20,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "motiviert",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Kichererbsen",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Falafel Bällchen roh oder gebacken einfrieren, Dip separat frisch halten.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "l6",
+    "title": "Ofen Lachs mit buntem Gemüse und Süßkartoffel",
+    "short_description": "Omega 3 reicher Ofenlachs mit geröstetem Gemüse. Auf einem Blech, wenig Aufwand.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Lachsfilet",
+        "amount": 600,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Dill",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Süßkartoffel würfeln, mit Öl auf einem Blech verteilen, 10 Minuten vorgaren.",
+      "Brokkoli Röschen und Lachs dazugeben, mit Zitrone und Dill würzen.",
+      "Weitere 15 Minuten backen, bis der Lachs gar ist."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Lachs",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Fisch enthalten ist. Beim Aufwärmen nur sanft erhitzen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "l7",
+    "title": "Bunte Reisnudel Erdnuss Bowl",
+    "short_description": "Asiatisch inspirierte Bowl mit Reisnudeln, knackigem Gemüse und cremigem Erdnuss Dressing.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose"
+    ],
+    "ingredients": [
+      {
+        "name": "Reisnudeln",
+        "amount": 250,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Karotten",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Frühlingszwiebeln",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Erdnussmus",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Sojasauce (glutenfrei)",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Limette",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Reisnudeln nach Packungsanweisung zubereiten.",
+      "Gemüse in feine Streifen schneiden.",
+      "Erdnussmus, Sojasauce und Limettensaft mit etwas Wasser zu einem Dressing verrühren.",
+      "Alles vermengen oder für unterwegs getrennt in Boxen verteilen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": false,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Erdnuss",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Für Kinder das Dressing milder anrühren oder separat servieren.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "d1",
+    "title": "Ofen Blech mit Süßkartoffel, Brokkoli & Kichererbsen",
+    "short_description": "Ein Blech, kaum Aufwand: geröstete Süßkartoffel, Brokkoli und knusprige Kichererbsen.",
+    "image": null,
+    "meal_type": [
+      "abendessen",
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Süßkartoffel",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kichererbsen",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Paprikapulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Tahini",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Süßkartoffel und Brokkoli in mundgerechte Stücke schneiden, Kichererbsen abtropfen lassen.",
+      "Alles mit Öl und Paprikapulver vermengen, auf einem Blech verteilen.",
+      "Ca. 25 Minuten rösten, bis alles goldbraun ist.",
+      "Mit Tahini beträufeln."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Klassisches Gericht vom Blech. Perfekt für Tage mit wenig Energie.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "d2",
+    "title": "Cremige Kürbis Linsen Pasta",
+    "short_description": "Samtige Kürbissauce mit roten Linsen über Pasta. Wärmend und nährstoffreich.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Vollkornnudeln oder Dinkelnudeln",
+        "amount": 350,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Hokkaido Kürbis",
+        "amount": 500,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "rote Linsen",
+        "amount": 150,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 200,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Muskatnuss",
+        "amount": 1,
+        "unit": "Prise",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Kürbis würfeln, mit Zwiebel und Knoblauch in einem Topf andünsten.",
+      "Linsen und etwas Wasser dazugeben, weichkochen (ca. 15 Minuten).",
+      "Kokosmilch einrühren, mit dem Stabmixer cremig pürieren, mit Muskat abschmecken.",
+      "Pasta parallel kochen, mit der Sauce vermengen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Linsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Sauce lässt sich separat einfrieren, Pasta am besten frisch dazu kochen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "d3",
+    "title": "Gebackene Zucchini Hackfleisch Röllchen",
+    "short_description": "Zarte Zucchinistreifen gefüllt mit würzigem Hackfleisch, im Ofen gebacken.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Zucchini",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Rinderhackfleisch",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "passierte Tomaten",
+        "amount": 400,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "geriebener Parmesan",
+        "amount": 60,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "italienische Kräuter",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Zucchini längs in dünne Streifen hobeln.",
+      "Zwiebel anschwitzen, Hack anbraten, mit Kräutern würzen.",
+      "Jeweils etwas Hackfleisch auf einen Zucchinistreifen geben und aufrollen.",
+      "Röllchen in eine Auflaufform setzen, mit passierten Tomaten übergießen.",
+      "Mit Parmesan bestreuen und ca. 20 Minuten bei 200°C backen."
+    ],
+    "prep_time_min": 20,
+    "cook_time_min": 20,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "sommer",
+      "herbst"
+    ],
+    "min_energy": "motiviert",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Rinderhack",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Vor dem Backen portionsweise einfrieren möglich. Dann einfach direkt aus dem Gefrierfach etwas länger backen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "d4",
+    "title": "Marokkanisches One Pot Gemüseeintopf mit Couscous",
+    "short_description": "Würziger Eintopf mit Kichererbsen, Karotten und Aprikosen, serviert mit Couscous.",
+    "image": null,
+    "meal_type": [
+      "abendessen",
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kichererbsen",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Karotten",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "getrocknete Aprikosen",
+        "amount": 80,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "gehackte Tomaten",
+        "amount": 1,
+        "unit": "Dose",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Ras el Hanout",
+        "amount": 2,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Couscous",
+        "amount": 250,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      }
+    ],
+    "instructions": [
+      "Zwiebel andünsten, Karotten in Scheiben dazugeben.",
+      "Tomaten, Kichererbsen, Aprikosen und Gewürze hinzufügen, ca. 20 Minuten köcheln lassen.",
+      "Couscous parallel mit heißem Wasser aufgießen und quellen lassen.",
+      "Eintopf über dem Couscous servieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Eintopf friert sehr gut ein, Couscous lieber frisch dazu zubereiten.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "d5",
+    "title": "Gebratener Tofu mit Sesam Brokkoli und Reis",
+    "short_description": "Knuspriger Tofu mit Sesam Brokkoli in einer würzigen Ingwer Sauce, auf Reis.",
+    "image": null,
+    "meal_type": [
+      "abendessen",
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "laktose",
+      "nuesse"
+    ],
+    "ingredients": [
+      {
+        "name": "fester Tofu",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Reis",
+        "amount": 280,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Sojasauce (glutenfrei)",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Sesamöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Ingwer",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Sesam",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Reis nach Packungsanweisung kochen.",
+      "Tofu würfeln, in einer Pfanne knusprig anbraten.",
+      "Brokkoli Röschen dazugeben, kurz mitbraten.",
+      "Sojasauce, Sesamöl und geriebenen Ingwer dazugeben, gut vermengen.",
+      "Mit Sesam bestreuen und auf dem Reis servieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Tofu",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Tofu getrennt vom Reis aufbewahren, damit er beim Aufwärmen knusprig bleibt.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "d6",
+    "title": "Herzhafter Linsen Bolognese mit Vollkornnudeln oder Dinkelnudeln",
+    "short_description": "Klassische Bolognese komplett pflanzlich, mit Linsen statt Hackfleisch.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "braune Linsen",
+        "amount": 250,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Karotten",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "passierte Tomaten",
+        "amount": 700,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "italienische Kräuter",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Vollkornnudeln oder Dinkelnudeln",
+        "amount": 350,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      }
+    ],
+    "instructions": [
+      "Zwiebel, Knoblauch und Karotten fein würfeln, andünsten.",
+      "Linsen und passierte Tomaten dazugeben, mit Kräutern würzen.",
+      "Ca. 25 Minuten köcheln lassen, bis die Linsen weich sind.",
+      "Nudeln parallel kochen und mit der Sauce servieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 30,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Linsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Große Menge Sauce kochen und portionsweise einfrieren. Ein klassisches Vorratsgericht.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "d7",
+    "title": "Ofen Hähnchen Gemüse Pfanne mediterran",
+    "short_description": "Hähnchen mit mediterranem Gemüse, Oliven und Rosmarin. Alles vom Blech.",
+    "image": null,
+    "meal_type": [
+      "abendessen",
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenschenkel",
+        "amount": 8,
+        "unit": "Stück",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "rote Zwiebeln",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Oliven",
+        "amount": 80,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Rosmarin",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Gemüse grob schneiden, mit Öl und Rosmarin auf einem Blech verteilen.",
+      "Hähnchenschenkel darauflegen, mit Salz und Pfeffer würzen.",
+      "Ca. 35 Minuten backen, bis das Hähnchen durch ist.",
+      "Oliven in den letzten 5 Minuten dazugeben."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 35,
+    "total_time_min": 45,
+    "servings": 4,
+    "season": [
+      "sommer",
+      "herbst"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Alles vom Blech, ideal für Tage mit wenig Energie. Kaum Abwasch.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "s1",
+    "title": "Schoko Nuss Energy Bites",
+    "short_description": "Kleine Energiekugeln aus Datteln, Mandeln und Rohkakao. Der süße Snack für zwischendurch.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "entsteinte Datteln",
+        "amount": 250,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Mandeln",
+        "amount": 150,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Rohkakaopulver",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kokosraspeln",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Datteln, Mandeln und Rohkakaopulver im Mixer zu einer klebrigen Masse verarbeiten.",
+      "Kleine Kugeln formen.",
+      "In Kokosraspeln wälzen.",
+      "Im Kühlschrank fest werden lassen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Mandeln",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Für eine nussfreie Variante Mandeln durch geröstete Kürbis oder Sonnenblumenkerne ersetzen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "s2",
+    "title": "Knusprige Ofen Kichererbsen mit Gewürzen",
+    "short_description": "Herzhafter, knuspriger Snack für unterwegs. Nur eine Zutat mehr als Kichererbsen und Gewürze.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kichererbsen",
+        "amount": 3,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Paprikapulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Salz",
+        "amount": 1,
+        "unit": "Prise",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Kichererbsen gut abtropfen lassen und trocken tupfen.",
+      "Mit Öl und Gewürzen vermengen, auf einem Blech verteilen.",
+      "Ca. 25 bis 30 Minuten backen, bis sie knusprig sind."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Kichererbsen",
+    "storage_category": "geroestet_trocken",
+    "meal_prep_notes": "In einer luftdichten Dose bleiben sie mehrere Tage knusprig.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "s3",
+    "title": "Beeren Nice Cream (2 Zutaten)",
+    "short_description": "Cremiges 'Eis' nur aus gefrorenen Bananen und Beeren. Erfrischend und ohne Zuckerzusatz.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "gefrorene Bananen",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "gefrorene Wildheidelbeeren (oder Beeren nach Wahl)",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Gefrorene Bananen und Beeren in den Mixer geben.",
+      "Zu einer cremigen Masse pürieren, bei Bedarf einen Schuss Hafermilch zugeben.",
+      "Sofort servieren oder für später einfrieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Banane",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Am besten direkt frisch genießen, da die cremige Konsistenz beim erneuten Einfrieren etwas fester wird.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "s4",
+    "title": "Herzhafte Zucchini Käse Muffins to go",
+    "short_description": "Herzhafte Muffins mit Zucchini und Käse. Handlich für die Snacktasche.",
+    "image": null,
+    "meal_type": [
+      "snack",
+      "fruehstueck"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Zucchini",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Mehl",
+        "amount": 200,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Eier",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "geriebener Gouda",
+        "amount": 100,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Backpulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 180°C vorheizen, Muffinform einfetten.",
+      "Zucchini fein reiben, gut ausdrücken.",
+      "Alle Zutaten zu einem Teig vermengen.",
+      "In die Muffinform füllen und ca. 25 Minuten backen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Ei & Käse",
+    "storage_category": "enthaelt_ei",
+    "meal_prep_notes": "Ergibt ca. 8 Muffins. Ideal zum Portionieren in kleine Boxen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "s5",
+    "title": "Rohkost Sticks mit Kichererbsen Hummus",
+    "short_description": "Knackige Gemüsesticks mit cremigem, selbstgemachtem Hummus. Der schnellste Snack im Programm.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kichererbsen",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Tahini",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Karotten",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Paprika",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Kichererbsen, Tahini, Zitronensaft und Knoblauch im Mixer cremig pürieren.",
+      "Mit Salz abschmecken, bei Bedarf etwas Wasser zugeben.",
+      "Gemüse in Sticks schneiden.",
+      "Hummus mit Gemüsesticks in Portionsboxen füllen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Kichererbsen",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Hummus und Gemüse getrennt aufbewahren, damit die Sticks knackig bleiben.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "fs1",
+    "title": "Frische Erbsen Minze Bowl mit Ziegenkäse",
+    "short_description": "Leichte Bowl mit jungen Erbsen, Minze und cremigem Ziegenkäse. Der Geschmack des Frühlings.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "junge Erbsen (frisch oder TK)",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ziegenkäse",
+        "amount": 150,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "frische Minze",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Quinoa nach Packungsanweisung kochen.",
+      "Erbsen kurz blanchieren.",
+      "Quinoa, Erbsen, gehackte Minze und Zitronensaft vermengen.",
+      "Mit Olivenöl beträufeln und Ziegenkäse darüberbröckeln."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "kalt",
+    "main_protein": "Ziegenkäse",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Ziegenkäse und Minze am besten erst kurz vor dem Servieren zugeben, dann bleibt alles frisch.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "fs2",
+    "title": "Radieschen Kichererbsen Salat mit Zitronen Dressing",
+    "short_description": "Knackiger Salat mit Radieschen, Kichererbsen und einem spritzigen Zitronen Dressing.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kichererbsen",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Radieschen",
+        "amount": 2,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "frische Petersilie",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Kichererbsen abtropfen lassen.",
+      "Radieschen und Gurke in dünne Scheiben schneiden.",
+      "Alles mit gehackter Petersilie vermengen.",
+      "Mit Zitronensaft, Olivenöl, Salz und Pfeffer abschmecken."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Dressing separat mitnehmen, dann bleiben die Radieschen schön knackig.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "fs3",
+    "title": "Spargel Quinoa Salat mit Kräutern",
+    "short_description": "Warmer oder kalter Salat mit grünem Spargel, Quinoa und einem Kräuter Zitronen Dressing.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "grüner Spargel",
+        "amount": 500,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Quinoa",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "frische Petersilie",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Spargel waschen, holzige Enden entfernen, in einer Pfanne mit etwas Öl anbraten.",
+      "Quinoa parallel nach Packungsanweisung kochen.",
+      "Spargel, Quinoa, halbierte Tomaten und Petersilie vermengen.",
+      "Mit Zitronensaft und Olivenöl abschmecken."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "total_time_min": 30,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Quinoa",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Schmeckt kalt genauso gut wie lauwarm. Ideal für die Arbeit.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "fs4",
+    "title": "Erdbeer Spinat Frühstücksbowl mit Skyr",
+    "short_description": "Cremiger Skyr mit frischen Erdbeeren, Babyspinat und Kürbiskernen. Erfrischend und proteinreich.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Skyr",
+        "amount": 600,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Erdbeeren",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": 60,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Erdbeeren waschen und halbieren.",
+      "Skyr mit Ahornsirup verrühren.",
+      "Babyspinat unterheben oder als Topping verwenden.",
+      "Mit Erdbeeren und Kürbiskernen anrichten."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Skyr",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Erdbeeren am besten erst kurz vor dem Essen zugeben, dann bleiben sie schön frisch.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "fs5",
+    "title": "Gebratener Räuchertofu mit grünem Spargel und Reis",
+    "short_description": "Würziger Räuchertofu mit knackigem Spargel und Reis. Schnell gemacht, viel Geschmack.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "laktose",
+      "nuesse"
+    ],
+    "ingredients": [
+      {
+        "name": "Räuchertofu",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "grüner Spargel",
+        "amount": 500,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Reis",
+        "amount": 280,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Sojasauce (glutenfrei)",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Sesamöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Sesam",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Reis nach Packungsanweisung kochen.",
+      "Tofu würfeln und in einer Pfanne knusprig anbraten.",
+      "Spargel in Stücken dazugeben, kurz mitbraten.",
+      "Mit Sojasauce und Sesamöl ablöschen, mit Sesam bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Tofu",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Tofu getrennt vom Reis lagern, damit er beim Aufwärmen knusprig bleibt.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "fs6",
+    "title": "Frühlings Minestrone mit jungem Gemüse",
+    "short_description": "Leichte Gemüsesuppe mit jungen Karotten, Erbsen und Lauch. Wärmend, aber nicht schwer.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Lauch",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "junge Karotten",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "junge Erbsen (frisch oder TK)",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kichererbsen",
+        "amount": 1,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 1000,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Vollkornnudeln oder Dinkelnudeln",
+        "amount": 150,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      }
+    ],
+    "instructions": [
+      "Lauch und Karotten in Scheiben schneiden, kurz andünsten.",
+      "Gemüsebrühe angießen, ca. 10 Minuten köcheln lassen.",
+      "Erbsen, Kichererbsen und Nudeln dazugeben.",
+      "Weitere 8 bis 10 Minuten köcheln, bis die Nudeln gar sind."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Nudeln ziehen beim Lagern Flüssigkeit. Bei Bedarf beim Aufwärmen etwas Brühe nachgießen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "fs7",
+    "title": "Radieschen Gurken Sticks mit Frischkäse Dip",
+    "short_description": "Knackige Rohkost mit cremigem Kräuter Frischkäse. Der schnellste Snack im Programm.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Radieschen",
+        "amount": 2,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Karotten",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Frischkäse",
+        "amount": 250,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "frischer Schnittlauch",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Gemüse in Sticks schneiden.",
+      "Frischkäse mit gehacktem Schnittlauch verrühren.",
+      "In Portionsboxen mit den Gemüsesticks verteilen."
+    ],
+    "prep_time_min": 12,
+    "cook_time_min": 0,
+    "total_time_min": 12,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Frischkäse",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Dip und Gemüse getrennt aufbewahren, damit die Sticks knackig bleiben.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "fs8",
+    "title": "Erdbeer Basilikum Chiapudding",
+    "short_description": "Fruchtiger Chia Pudding mit frischen Erdbeeren und einer überraschenden Basilikum Note.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck",
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Chiasamen",
+        "amount": 80,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Hafermilch (ungesüßt)",
+        "amount": 600,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Erdbeeren",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "frisches Basilikum",
+        "amount": 6,
+        "unit": "Blätter",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Hanfsamen",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Chiasamen mit Hafermilch und Ahornsirup verrühren.",
+      "Mindestens 4 Stunden im Kühlschrank quellen lassen.",
+      "Erdbeeren pürieren und unterrühren oder als Topping verwenden.",
+      "Mit Hanfsamen und fein geschnittenem Basilikum garnieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Chiasamen & Hanfsamen",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Basilikum am besten erst beim Servieren zugeben, sonst verliert es an Aroma.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "fr1",
+    "title": "Ofen Spargel mit pochiertem Ei und Vollkornbrot",
+    "short_description": "Klassischer grüner Spargel aus dem Ofen mit weichem Ei. Ein Frühstück wie ein kleines Fest.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck",
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "grüner Spargel",
+        "amount": 500,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Vollkornbrot oder Dinkelbrot",
+        "amount": 8,
+        "unit": "Scheiben",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen, Spargel mit Öl beträufeln und ca. 12 Minuten rösten.",
+      "Eier pochieren oder weich kochen.",
+      "Brot toasten.",
+      "Spargel auf dem Brot anrichten, mit Ei toppen und Zitronensaft beträufeln."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "fruehling"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Ei",
+    "storage_category": "enthaelt_ei",
+    "meal_prep_notes": "Ei am besten frisch zubereiten, Spargel lässt sich vorab rösten und kurz aufwärmen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "fr2",
+    "title": "Bärlauch Kartoffel Suppe",
+    "short_description": "Cremige Kartoffelsuppe mit frischem Bärlauch. Der Klassiker für die kurze Frühlingssaison.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kartoffeln",
+        "amount": 800,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 1000,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "frischer Bärlauch",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln und Zwiebel würfeln, in Öl andünsten.",
+      "Mit Gemüsebrühe auffüllen und ca. 20 Minuten köcheln, bis die Kartoffeln weich sind.",
+      "Bärlauch grob hacken und unterrühren.",
+      "Mit dem Stabmixer cremig pürieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "fruehling"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Kartoffel",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Friert sehr gut ein. Ideal, um die kurze Bärlauchsaison zu verlängern.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "fr3",
+    "title": "Grüner Spargel Erbsen Risotto",
+    "short_description": "Cremiges Risotto mit grünem Spargel und frischen Erbsen. Klassisch, aber unkompliziert.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Risotto Reis",
+        "amount": 320,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "grüner Spargel",
+        "amount": 400,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "junge Erbsen (frisch oder TK)",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 1200,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "geriebener Parmesan",
+        "amount": 80,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      }
+    ],
+    "instructions": [
+      "Zwiebel andünsten, Risotto Reis zugeben und kurz mitrösten.",
+      "Nach und nach heiße Gemüsebrühe angießen, dabei ständig rühren.",
+      "Nach ca. 15 Minuten Spargel und Erbsen unterrühren, weitere 5 Minuten garen.",
+      "Mit Parmesan verfeinern."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 30,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "fruehling"
+    ],
+    "min_energy": "motiviert",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Risotto-Reis",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Schmeckt frisch am besten, lässt sich aber sanft im Topf mit etwas Brühe aufwärmen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "fr4",
+    "title": "Rhabarber Chia Kompott mit Joghurt",
+    "short_description": "Leicht säuerliches Rhabarberkompott auf cremigem Joghurt. Der Frühlingsklassiker zum Frühstück.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck",
+      "snack"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Rhabarber",
+        "amount": 400,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Chiasamen",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Skyr oder griechischer Joghurt",
+        "amount": 500,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      }
+    ],
+    "instructions": [
+      "Rhabarber in Stücke schneiden und mit Ahornsirup in einem Topf weich köcheln.",
+      "Chiasamen unterrühren und etwas abkühlen lassen.",
+      "Joghurt auf Gläser verteilen.",
+      "Mit dem Rhabarberkompott toppen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "total_time_min": 20,
+    "servings": 4,
+    "season": [
+      "fruehling"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Skyr/Joghurt",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Kompott hält sich separat gekühlt gut. Erst kurz vor dem Essen mit dem Joghurt kombinieren.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "fr5",
+    "title": "Radieschen Blatt Pesto Pasta",
+    "short_description": "Nachhaltige Pasta mit selbstgemachtem Pesto aus Radieschenblättern. Nichts wird verschwendet.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Vollkornnudeln oder Dinkelnudeln",
+        "amount": 350,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Radieschenblätter (von ca. 2 Bund Radieschen)",
+        "amount": 100,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "geriebener Parmesan",
+        "amount": 60,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Nudeln nach Packungsanweisung kochen.",
+      "Radieschenblätter waschen, mit Parmesan, Olivenöl, Knoblauch und Zitronensaft pürieren.",
+      "Pesto unter die warmen Nudeln heben."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "fruehling"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Parmesan",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Ein schöner Weg, Radieschenblätter weiterzuverwenden statt sie wegzuwerfen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "fr6",
+    "title": "Frische Kräuter Reisnudel Bowl",
+    "short_description": "Reisnudeln mit knackigem Gemüse, frischer Minze und cremigem Erdnuss Dressing. Leicht und frisch.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose"
+    ],
+    "ingredients": [
+      {
+        "name": "Reisnudeln",
+        "amount": 250,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Karotten",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "frische Minze",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Erdnussmus",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Limette",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Sojasauce (glutenfrei)",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Reisnudeln nach Packungsanweisung zubereiten.",
+      "Gemüse in feine Streifen schneiden.",
+      "Erdnussmus, Limettensaft und Sojasauce zu einem Dressing verrühren.",
+      "Alles in Boxen anrichten, Dressing separat mitgeben."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 5,
+    "total_time_min": 20,
+    "servings": 4,
+    "season": [
+      "fruehling"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Erdnuss",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Dressing getrennt halten, dann bleibt das Gemüse schön knackig.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "so1",
+    "title": "Gazpacho mit Mandel Crunch",
+    "short_description": "Erfrischende kalte Tomatensuppe mit knusprigem Mandel Topping. Der spanische Sommerklassiker.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amount": 1000,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Paprika",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "gehackte Mandeln",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Tomaten, Gurke, Paprika und Knoblauch grob würfeln.",
+      "Alles mit Olivenöl im Mixer fein pürieren.",
+      "Mit Salz und Pfeffer abschmecken, kühl stellen.",
+      "Mit gerösteten Mandeln servieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Mandeln",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Schmeckt am nächsten Tag noch intensiver. Ideal für heiße Tage.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "so2",
+    "title": "Wassermelonen Feta Salat mit Minze",
+    "short_description": "Süßsalziger Sommersalat aus Wassermelone, Feta und frischer Minze.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "snack"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Wassermelone",
+        "amount": 800,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Feta",
+        "amount": 200,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "frische Minze",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Oliven",
+        "amount": 50,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Wassermelone würfeln.",
+      "Feta zerbröseln, mit Melone und Oliven vermengen.",
+      "Mit gehackter Minze und Olivenöl beträufeln."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Feta",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Am besten am selben oder Folgetag genießen, dann ist die Melone noch schön knackig.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "so3",
+    "title": "Sommerliche Nudelsalat Bowl mit Pesto",
+    "short_description": "Kalter Nudelsalat mit Ofentomaten, Rucola und grünem Pesto. Perfekt zum Mitnehmen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Vollkornnudeln oder Dinkelnudeln",
+        "amount": 350,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Rucola",
+        "amount": 80,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "grünes Pesto",
+        "amount": 150,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Pinienkerne",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Nudeln kochen, abkühlen lassen.",
+      "Tomaten halbieren.",
+      "Nudeln mit Pesto, Tomaten und Rucola vermengen.",
+      "Mit Pinienkernen bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "total_time_min": 20,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Nudeln",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Rucola erst kurz vor dem Essen untermengen, damit er nicht welk wird.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "so4",
+    "title": "Gegrilltes Gemüse mit Halloumi",
+    "short_description": "Buntes Grillgemüse mit gebratenem Halloumi. Sommerlich, herzhaft, unkompliziert.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Zucchini",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Aubergine",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Halloumi",
+        "amount": 400,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Oregano",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Gemüse in Scheiben schneiden, mit Öl und Oregano marinieren.",
+      "Auf dem Grill oder in der Grillpfanne von beiden Seiten anbraten.",
+      "Halloumi in Scheiben schneiden und ebenfalls goldbraun braten.",
+      "Alles zusammen anrichten."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Halloumi",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Halloumi schmeckt frisch gebraten am besten, kann aber auch kalt genossen werden.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "so5",
+    "title": "Pfirsich Kokos Chiapudding",
+    "short_description": "Fruchtigcremiger Chia Pudding mit reifen Pfirsichen und Kokosmilch.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Chiasamen",
+        "amount": 80,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 600,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "reife Pfirsiche",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Hanfsamen",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Chiasamen mit Kokosmilch und Ahornsirup verrühren.",
+      "Mindestens 4 Stunden im Kühlschrank quellen lassen.",
+      "Pfirsiche würfeln und untermengen oder als Topping verwenden.",
+      "Mit Hanfsamen bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Chiasamen & Hanfsamen",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Pfirsiche am besten erst kurz vor dem Servieren zugeben.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "so6",
+    "title": "Kalte Gurken Joghurt Suppe",
+    "short_description": "Erfrischende cremig pürierte Suppe aus Gurke, Joghurt und Dill, im Mixer glatt gerührt statt gewürfelt. An heißen Tagen ein Genuss.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "snack"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Gurke",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 500,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Dill",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Gurken grob würfeln.",
+      "Mit Joghurt, Knoblauch und Dill im Mixer pürieren.",
+      "Mit Salz und Pfeffer abschmecken, kalt servieren.",
+      "Mit einem Schuss Olivenöl beträufeln."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Joghurt",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Am besten am selben oder nächsten Tag genießen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "ev1",
+    "title": "Süßkartoffel Schwarze Bohnen Bowl mit Limette",
+    "short_description": "Sättigende Bowl mit Ofen Süßkartoffel, schwarzen Bohnen und frischer Limette.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Süßkartoffel",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "schwarze Bohnen",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Reis",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Limette",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Koriander",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen, Süßkartoffel würfeln und ca. 25 Minuten rösten.",
+      "Reis parallel kochen.",
+      "Bohnen abtropfen lassen und erwärmen.",
+      "Alles auf Boxen verteilen, mit Limettensaft und Koriander toppen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "schwarze Bohnen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Klassisches Meal Prep Gericht. Lässt sich sehr gut portionsweise einfrieren.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "ev2",
+    "title": "Ofen Falafel Wrap mit Tahini Sauce",
+    "short_description": "Knusprige Ofen Falafel im Vollkornwrap mit frischem Gemüse und cremiger Tahini Sauce.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kichererbsen",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "frische Petersilie",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Vollkorn Wraps",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Tahini",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Salat",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Kichererbsen, Zwiebel, Petersilie und Kreuzkümmel pürieren, zu Bällchen formen.",
+      "Ca. 20 Minuten backen, bis sie goldbraun sind.",
+      "Wraps mit Salat, Falafel und Tahini Sauce füllen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Falafel getrennt von den Wraps lagern und erst kurz vor dem Essen zusammenbauen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "ev3",
+    "title": "Herzhafte Buchweizen Pancakes mit Gemüse",
+    "short_description": "Herzhafte Pfannkuchen aus Buchweizenmehl mit buntem Gemüse Topping.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Buchweizenmehl",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Hafermilch (ungesüßt)",
+        "amount": 300,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Buchweizenmehl, Eier und Hafermilch zu einem glatten Teig verrühren.",
+      "Zucchini fein reiben und unterheben.",
+      "Pancakes in einer Pfanne mit etwas Öl von beiden Seiten goldbraun backen.",
+      "Mit Cherrytomaten servieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Ei",
+    "storage_category": "enthaelt_ei",
+    "meal_prep_notes": "Pancakes lassen sich gut stapeln und einfrieren, einfach im Toaster aufwärmen. Für noch mehr Protein einen Klecks Skyr dazugeben.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "ev4",
+    "title": "Geröstete Edamame mit Meersalz",
+    "short_description": "Knuspriger, proteinreicher Snack aus dem Ofen. Schnell gemacht, lange haltbar.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "ingredients": [
+      {
+        "name": "Edamame (ausgepalt, TK)",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Meersalz",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Paprikapulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Edamame auftauen lassen, trocken tupfen.",
+      "Mit Öl und Gewürzen vermengen, auf einem Blech verteilen.",
+      "Ca. 20 Minuten rösten, bis sie leicht knusprig sind."
+    ],
+    "prep_time_min": 5,
+    "cook_time_min": 20,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Edamame",
+    "storage_category": "geroestet_trocken",
+    "meal_prep_notes": "In einer luftdichten Dose bleiben sie mehrere Tage knusprig.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "hw1",
+    "title": "Ofen Kuerbissuppe mit gerösteten Kernen",
+    "short_description": "Cremige Kuerbissuppe aus dem Ofen mit knusprig gerösteten Kuerbiskernen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hokkaidokürbis",
+        "amount": 1200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ingwer",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 800,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 200,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen, Kürbis würfeln und ca. 25 Minuten rösten.",
+      "Zwiebel und Ingwer andünsten.",
+      "Kürbis, Gemüsebrühe und Kokosmilch dazugeben, aufkochen.",
+      "Mit dem Stabmixer cremig pürieren.",
+      "Mit gerösteten Kürbiskernen servieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 30,
+    "total_time_min": 45,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Kürbis",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Friert sehr gut ein, ideal zum Vorkochen in größerer Menge.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "hw2",
+    "title": "Herzhafter Linseneintopf mit Wurzelgemüse",
+    "short_description": "Waermender Eintopf mit Linsen, Karotten und Pastinaken. Ein echtes Wohlfühlgericht.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "braune Linsen",
+        "amount": 300,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Karotten",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Pastinaken",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 1000,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Lorbeerblätter",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Zwiebel andünsten, Karotten und Pastinaken in Stücken dazugeben.",
+      "Linsen und Gemüsebrühe angießen, Lorbeerblätter zugeben.",
+      "Ca. 25 Minuten köcheln, bis die Linsen weich sind.",
+      "Mit Salz und Pfeffer abschmecken."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Linsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Klassischer Vorratseintopf, lässt sich gut portionsweise einfrieren.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "hw3",
+    "title": "Geschmorte Rotkohl Haehnchen Pfanne",
+    "short_description": "Zartes Hähnchen mit süß säuerlichem Rotkohl aus einer Pfanne.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 600,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": 500,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Apfelessig",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Hähnchen in Streifen schneiden und in Öl anbraten, herausnehmen.",
+      "Zwiebel andünsten, Rotkohl und Apfelstücke dazugeben.",
+      "Mit Apfelessig ablöschen, zugedeckt ca. 20 Minuten schmoren.",
+      "Hähnchen wieder dazugeben und kurz erhitzen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Schmeckt aufgewärmt genauso gut, der Rotkohl zieht noch mehr Aroma.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "hw4",
+    "title": "Ofen Rosenkohl mit Kastanien und Feta",
+    "short_description": "Geröstete Rosenkohlblätter mit süßen Kastanien und cremigem Feta.",
+    "image": null,
+    "meal_type": [
+      "abendessen",
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Rosenkohl",
+        "amount": 600,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "vorgekochte Kastanien",
+        "amount": 200,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Feta",
+        "amount": 150,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Rosenkohl halbieren, mit Öl vermengen und ca. 20 Minuten rösten.",
+      "Kastanien in den letzten 10 Minuten dazugeben.",
+      "Mit Feta und Zitronensaft servieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Feta",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Schmeckt auch als Beilage zu anderen Gerichten der Woche.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "hw5",
+    "title": "Warme Kuerbis Kichererbsen Bowl mit Tahini",
+    "short_description": "Sättigende Bowl mit Ofenkürbis, Kichererbsen und cremigem Tahini Dressing.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hokkaidokürbis",
+        "amount": 600,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kichererbsen",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Quinoa",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Tahini",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen, Kürbis würfeln und mit Kreuzkümmel ca. 25 Minuten rösten.",
+      "Quinoa parallel kochen, Kichererbsen erwärmen.",
+      "Tahini mit Zitronensaft und etwas Wasser zu einem Dressing verrühren.",
+      "Alles auf Boxen verteilen und mit Dressing beträufeln."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Dressing separat mitnehmen, dann bleibt die Bowl auch am nächsten Tag frisch.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "hw6",
+    "title": "Herzhaftes Pilzragout mit Polenta",
+    "short_description": "Cremiges Pilzragout auf weicher Polenta. Wärmend und unkompliziert.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "gemischte Pilze",
+        "amount": 500,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 800,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Polenta",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "frische Petersilie",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch andünsten, Pilze dazugeben und anbraten.",
+      "Mit etwas Gemüsebrühe ablöschen, kurz köcheln lassen.",
+      "Polenta parallel nach Packungsanweisung mit Gemüsebrühe zubereiten.",
+      "Ragout auf der Polenta anrichten, mit Petersilie bestreuen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Pilze",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Ragout und Polenta getrennt aufbewahren, dann bleibt die Polenta cremiger.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "hw7",
+    "title": "Gewuerzter Apfel Porridge mit Skyr und Walnuessen",
+    "short_description": "Warmes Porridge mit Zimtapfel, cremigem Skyr und knackigen Walnüssen.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "glutenfreie Haferflocken",
+        "amount": 240,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Hafermilch (ungesüßt)",
+        "amount": 500,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ceylonzimt",
+        "amount": 2,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Skyr",
+        "amount": 400,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "gehackte Walnüsse",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Äpfel würfeln und mit Ceylonzimt in einem Topf kurz andünsten.",
+      "Haferflocken mit Hafermilch aufkochen und ca. 5 Minuten köcheln lassen.",
+      "Porridge auf Schalen verteilen, mit einem Klecks Skyr toppen.",
+      "Mit Zimtapfel und Walnüssen bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "total_time_min": 20,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Skyr",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Skyr am besten erst beim Servieren zugeben, dann bleibt er schön cremig.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "hw8",
+    "title": "Herzhafte Kuerbis Linsensuppe",
+    "short_description": "Sämige Suppe aus Kürbis und roten Linsen mit warmen Gewürzen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hokkaidokürbis",
+        "amount": 600,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "rote Linsen",
+        "amount": 200,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ingwer",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 1000,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Currypulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Ingwer andünsten, Currypulver kurz mitrösten.",
+      "Kürbis und Linsen dazugeben, mit Gemüsebrühe auffüllen.",
+      "Ca. 20 Minuten köcheln, bis Kürbis und Linsen weich sind.",
+      "Mit dem Stabmixer cremig pürieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Linsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Friert sehr gut ein, ideal für einen großen Vorratstopf.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "h1",
+    "title": "Ofen Pilze mit Knoblauch und Petersilie",
+    "short_description": "Geröstete Pilze mit Knoblauch und frischer Petersilie. Schnell und aromatisch.",
+    "image": null,
+    "meal_type": [
+      "abendessen",
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "braune Champignons",
+        "amount": 600,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "frische Petersilie",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Pilze halbieren, mit Öl und gehacktem Knoblauch vermengen.",
+      "Ca. 20 Minuten rösten.",
+      "Mit Petersilie und Zitronensaft servieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "servings": 4,
+    "season": [
+      "herbst"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Pilze",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Gute Beilage oder Basis für eine Bowl mit Getreide und Blattsalat.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "h2",
+    "title": "Birnen Walnuss Salat mit Ziegenkäse",
+    "short_description": "Herbstlicher Salat mit süßen Birnen, knackigen Walnüssen und cremigem Ziegenkäse.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Feldsalat",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Birnen",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ziegenkäse",
+        "amount": 150,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "gehackte Walnüsse",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Birnen in dünne Scheiben schneiden.",
+      "Feldsalat mit Birnen, zerbröseltem Ziegenkäse und Walnüssen anrichten.",
+      "Mit Ahornsirup und Olivenöl beträufeln."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "herbst"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "kalt",
+    "main_protein": "Ziegenkäse",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Birnen erst kurz vor dem Servieren schneiden, damit sie nicht braun werden.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "h3",
+    "title": "Herzhafter Wirsingkohl Auflauf",
+    "short_description": "Sättigender Auflauf mit Wirsingkohl, Kartoffeln und einer würzigen Käsekruste.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Wirsingkohl",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": 600,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 300,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "geriebener Gouda",
+        "amount": 150,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Muskatnuss",
+        "amount": 1,
+        "unit": "Prise",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Kartoffeln in dünne Scheiben schneiden, Wirsing grob schneiden, Zwiebel würfeln.",
+      "Alles in eine Auflaufform schichten, mit Joghurt und Muskat vermengt übergießen.",
+      "Mit Gouda bestreuen und ca. 35 Minuten backen."
+    ],
+    "prep_time_min": 20,
+    "cook_time_min": 35,
+    "total_time_min": 55,
+    "servings": 4,
+    "season": [
+      "herbst"
+    ],
+    "min_energy": "motiviert",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Käse",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Lässt sich gut in Portionen einfrieren und im Ofen wieder aufbacken.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "h4",
+    "title": "Apfel Zimt Energiebaellchen",
+    "short_description": "Fruchtige Energiebällchen mit Apfel, Ceylonzimt und Hanfsamen für extra Protein.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "getrocknete Apfelringe",
+        "amount": 150,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "entsteinte Datteln",
+        "amount": 100,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Mandeln",
+        "amount": 100,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Ceylonzimt",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Hanfsamen",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Alle Zutaten im Mixer zu einer klebrigen Masse verarbeiten.",
+      "Kleine Kugeln formen.",
+      "Im Kühlschrank fest werden lassen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "herbst"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Mandeln & Hanfsamen",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Für eine nussfreie Variante Mandeln durch geröstete Kürbiskerne ersetzen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "w1",
+    "title": "Herzhafter Gruenkohl Linseneintopf",
+    "short_description": "Wärmender Eintopf mit Grünkohl, Linsen und geräuchertem Paprikapulver.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Grünkohl",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "braune Linsen",
+        "amount": 250,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "geräuchertes Paprikapulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 1000,
+        "unit": "ml",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch andünsten, Paprikapulver kurz mitrösten.",
+      "Linsen und Gemüsebrühe dazugeben, ca. 20 Minuten köcheln.",
+      "Grünkohl grob schneiden und die letzten 10 Minuten mitgaren.",
+      "Mit Salz und Pfeffer abschmecken."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Linsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Klassischer Wintereintopf, friert sehr gut portionsweise ein.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "w2",
+    "title": "Winterliche Rote Bete Suppe mit Meerrettich",
+    "short_description": "Kräftige pinke Suppe aus Roter Bete mit einem Hauch Meerrettich.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Rote Bete",
+        "amount": 800,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 1000,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "frischer Meerrettich",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Rote Bete, Kartoffeln und Zwiebel würfeln.",
+      "Mit Gemüsebrühe aufkochen, ca. 25 Minuten köcheln, bis alles weich ist.",
+      "Mit dem Stabmixer pürieren.",
+      "Mit geriebenem Meerrettich servieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "total_time_min": 40,
+    "servings": 4,
+    "season": [
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Rote Bete",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Meerrettich am besten erst beim Servieren frisch reiben, dann bleibt die Schärfe erhalten.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "w3",
+    "title": "Herzhaftes Chili sin Carne mit schwarzen Bohnen",
+    "short_description": "Würziges vegetarisches Chili mit schwarzen Bohnen und Mais. Perfekt für kalte Tage.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "schwarze Bohnen",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Mais",
+        "amount": 1,
+        "unit": "Dose",
+        "category": "Vorrat"
+      },
+      {
+        "name": "gehackte Tomaten",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Chilipulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Paprika andünsten, Gewürze kurz mitrösten.",
+      "Bohnen, Mais und Tomaten dazugeben.",
+      "Ca. 20 Minuten köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "schwarze Bohnen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Friert hervorragend ein, ideal als großer Vorratstopf für mehrere Wochen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "w4",
+    "title": "Zitrus Fenchel Salat mit Granatapfel",
+    "short_description": "Erfrischender Wintersalat mit Orangen, Fenchel und Granatapfelkernen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Fenchel",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Orangen",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Granatapfelkerne",
+        "amount": 100,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Fenchel in dünne Scheiben hobeln.",
+      "Orangen filetieren.",
+      "Alles mit Granatapfelkernen anrichten.",
+      "Mit Olivenöl beträufeln."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Fenchel",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Am besten am selben oder nächsten Tag genießen, dann ist der Fenchel noch knackig.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "w5",
+    "title": "Warmer Griessbrei mit Zimtbirnen und Skyr",
+    "short_description": "Cremiger Grießbrei mit warmen Zimtbirnen und einem proteinreichen Klecks Skyr.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hartweizengrieß",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Hafermilch (ungesüßt)",
+        "amount": 600,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Birnen",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ceylonzimt",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Skyr",
+        "amount": 400,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Birnen würfeln und mit Ceylonzimt in einem Topf andünsten.",
+      "Hafermilch aufkochen, Grieß einrühren und quellen lassen.",
+      "Grießbrei auf Schalen verteilen, mit Skyr toppen.",
+      "Mit Zimtbirnen und Ahornsirup servieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "total_time_min": 20,
+    "servings": 4,
+    "season": [
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Skyr",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Skyr am besten erst beim Servieren zugeben, dann bleibt er schön cremig.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "w6",
+    "title": "Ofen Wurzelgemuese mit Rosmarin und Feta",
+    "short_description": "Bunt geröstetes Wurzelgemüse mit Rosmarin und cremigem Feta.",
+    "image": null,
+    "meal_type": [
+      "abendessen",
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Karotten",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Pastinaken",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Rote Bete",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Feta",
+        "amount": 150,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Rosmarin",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Gemüse in Stücke schneiden, mit Öl und Rosmarin vermengen.",
+      "Ca. 30 Minuten rösten, bis alles weich ist.",
+      "Mit zerbröseltem Feta servieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 30,
+    "total_time_min": 45,
+    "servings": 4,
+    "season": [
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Feta",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Ein klassisches Ofenblech, ideal an Tagen mit wenig Energie.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "e5",
+    "title": "Herzhafte Kichererbsenmehl Omelett Wraps",
+    "short_description": "Proteinreiche Wraps aus Kichererbsenmehl, ganz ohne Ei.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kichererbsenmehl",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Wasser",
+        "amount": 300,
+        "unit": "ml",
+        "category": "Sonstiges"
+      },
+      {
+        "name": "Kurkuma",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": 100,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Kichererbsenmehl mit Wasser und Kurkuma glatt verrühren.",
+      "Teig in einer Pfanne mit etwas Öl zu dünnen Wraps ausbacken.",
+      "Mit Spinat und Tomaten füllen.",
+      "Zusammenrollen oder falten."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Kichererbsenmehl",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Wraps gestapelt mit Backpapier dazwischen aufbewahren, dann kleben sie nicht zusammen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "e6",
+    "title": "Selbstgemachtes Studentenfutter mit Kakao",
+    "short_description": "Proteinreiche Nuss und Kernmischung mit einem Hauch Rohkakao. Der Snack für die Handtasche.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Mandeln",
+        "amount": 150,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 100,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Hanfsamen",
+        "amount": 50,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "getrocknete Aprikosen",
+        "amount": 100,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Rohkakaonibs",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Aprikosen klein schneiden.",
+      "Alle Zutaten in einer Schüssel vermengen.",
+      "In kleinen Portionsdosen oder Gläsern aufbewahren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Mandeln & Hanfsamen",
+    "storage_category": "geroestet_trocken",
+    "meal_prep_notes": "Trocken und luftdicht verpackt hält sich die Mischung mehrere Wochen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf1",
+    "title": "Ruehrei mit Raeucherlachs und Schnittlauch",
+    "short_description": "Cremiges Rührei mit zartem Räucherlachs und frischem Schnittlauch, reich an Protein.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": 10,
+        "unit": "Stück",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Räucherlachs",
+        "amount": 200,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "frischer Schnittlauch",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Butter",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Salz & Pfeffer",
+        "amount": 1,
+        "unit": "Prise",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Eier verquirlen, mit Salz und Pfeffer würzen.",
+      "Butter in einer Pfanne erhitzen, Eier bei geringer Hitze langsam stocken lassen.",
+      "Räucherlachs in Streifen schneiden und unterheben.",
+      "Mit Schnittlauch bestreuen und servieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "total_time_min": 20,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Ei und Lachs",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten frisch zubereiten, da Eier und Räucherlachs nicht lange warm gehalten werden sollten.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf2",
+    "title": "Herzhafte Fruehstuecksbox mit Haehnchen und Ei",
+    "short_description": "Proteinreiche Frühstücksbox mit gebratener Hähnchenbrust, hart gekochtem Ei und frischem Gemüse.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Eier",
+        "amount": 6,
+        "unit": "Stück",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrust in Streifen schneiden und in Olivenöl braten.",
+      "Eier hart kochen, abschrecken und schälen.",
+      "Gemüse waschen und in Stücke schneiden.",
+      "Alles in Boxen aufteilen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "total_time_min": 30,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Hähnchen und Ei",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Gut vorbereitbar, ideal für Frühstück am Schreibtisch oder unterwegs.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf3",
+    "title": "Omelett mit Haehnchen und Feta",
+    "short_description": "Herzhaftes Omelett gefüllt mit zartem Hähnchen und cremigem Feta.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": 8,
+        "unit": "Stück",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "gebratene Hähnchenbrust",
+        "amount": 200,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Feta",
+        "amount": 100,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Paprika",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Eier verquirlen, mit Salz und Pfeffer würzen.",
+      "Hähnchenbrust in kleine Stücke schneiden, Paprika würfeln.",
+      "Eier in einer Pfanne mit Öl stocken lassen, Hähnchen, Paprika und Feta darauf verteilen.",
+      "Omelett zusammenklappen und fertig braten."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Ei und Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Schmeckt frisch am besten, lässt sich aber auch sanft in der Pfanne aufwärmen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf4",
+    "title": "Haehnchen Wraps zum Mitnehmen",
+    "short_description": "Handliche Wraps mit gebratenem Hähnchen, Salat und cremigem Joghurt Dressing.",
+    "image": null,
+    "meal_type": [
+      "snack",
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Vollkorn Wraps",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Salat",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Karotten",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 150,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrust in Streifen schneiden und in Olivenöl anbraten.",
+      "Karotten fein raspeln, Salat waschen.",
+      "Wraps mit Salat, Karotten und Hähnchen füllen.",
+      "Mit Joghurt beträufeln und aufrollen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Wraps am besten erst kurz vor dem Essen füllen, dann bleiben sie knackig.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf5",
+    "title": "Thunfisch Dip mit Gemuesesticks",
+    "short_description": "Cremiger Thunfisch Dip mit Frischkäse, dazu knackige Gemüsesticks zum Dippen.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Thunfisch (Dose)",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Frischkäse",
+        "amount": 150,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Karotten",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Thunfisch abtropfen lassen.",
+      "Mit Frischkäse und Zitronensaft cremig verrühren.",
+      "Gemüse in Sticks schneiden.",
+      "Dip mit Gemüsesticks servieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Thunfisch",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Dip und Gemüse getrennt aufbewahren, dann bleiben die Sticks knackig.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf6",
+    "title": "Haehnchenbrust Roellchen mit Frischkaese",
+    "short_description": "Schnelle Röllchen aus dünn geschnittener Hähnchenbrust, gefüllt mit Frischkäse und frischem Schnittlauch.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust Aufschnitt",
+        "amount": 300,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Frischkäse",
+        "amount": 200,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "frischer Schnittlauch",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Radieschen",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Frischkäse mit gehacktem Schnittlauch verrühren.",
+      "Hähnchenbrustscheiben damit bestreichen.",
+      "Aufrollen und in Boxen legen.",
+      "Mit Radieschen servieren."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Hält sich gut vorbereitet im Kühlschrank für den nächsten Tag.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf7",
+    "title": "Garnelen Bowl mit Reis und Mango",
+    "short_description": "Sommerliche Bowl mit gebratenen Garnelen, Reis und süßer Mango.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "ingredients": [
+      {
+        "name": "Garnelen",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Reis",
+        "amount": 280,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Mango",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Limette",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Reis nach Packungsanweisung kochen.",
+      "Garnelen mit Knoblauch in Olivenöl kurz anbraten.",
+      "Mango würfeln.",
+      "Alles auf Boxen verteilen und mit Limettensaft beträufeln."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "total_time_min": 30,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Garnelen",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Garnelen enthalten sind.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf8",
+    "title": "Gebratener Thunfisch mit Sesam und Brokkoli",
+    "short_description": "Kurz angebratener Thunfisch in Sesamkruste mit knackigem Brokkoli.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "ingredients": [
+      {
+        "name": "Thunfischsteaks",
+        "amount": 600,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Sesam",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Reis",
+        "amount": 250,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Sojasauce (glutenfrei)",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Sesamöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Reis nach Packungsanweisung kochen, Brokkoli dämpfen.",
+      "Thunfischsteaks in Sesam wenden.",
+      "In einer heißen Pfanne von beiden Seiten kurz scharf anbraten.",
+      "Mit Sojasauce und Sesamöl beträufeln, mit Reis und Brokkoli servieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "total_time_min": 30,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Thunfisch",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Fisch enthalten ist.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf9",
+    "title": "Haehnchen Gemuese Spiesse vom Grill",
+    "short_description": "Bunte Spieße mit mariniertem Hähnchen und sommerlichem Gemüse.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 600,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "rote Zwiebeln",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Paprikapulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Hähnchen und Gemüse in Würfel schneiden.",
+      "Mit Öl und Paprikapulver marinieren.",
+      "Abwechselnd auf Spieße stecken.",
+      "Auf dem Grill oder in der Grillpfanne rundherum gar braten."
+    ],
+    "prep_time_min": 20,
+    "cook_time_min": 15,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Marinieren lässt sich gut am Vortag vorbereiten.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf10",
+    "title": "Kabeljau im Ofen mit Fenchel und Zitrone",
+    "short_description": "Zarter Kabeljau aus dem Ofen auf einem Bett aus Fenchel und Zitrone.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kabeljaufilet",
+        "amount": 600,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Fenchel",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": 500,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen.",
+      "Kartoffeln und Fenchel in Scheiben schneiden, mit Öl auf einem Blech verteilen und 15 Minuten vorgaren.",
+      "Kabeljau und Zitronenscheiben daraufgeben.",
+      "Weitere 15 Minuten backen, bis der Fisch gar ist."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 30,
+    "total_time_min": 45,
+    "servings": 4,
+    "season": [
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Kabeljau",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Fisch enthalten ist.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf11",
+    "title": "Haehnchengeschnetzeltes mit Pilzen",
+    "short_description": "Zartes Hähnchengeschnetzeltes in cremiger Sauce mit braunen Champignons.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenschnitzel",
+        "amount": 600,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "braune Champignons",
+        "amount": 400,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 200,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 200,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Hähnchen in Streifen schneiden, in Öl scharf anbraten, herausnehmen.",
+      "Zwiebel und Pilze in derselben Pfanne andünsten.",
+      "Mit Gemüsebrühe ablöschen, kurz köcheln lassen.",
+      "Hähnchen wieder dazugeben, Joghurt unterrühren und erhitzen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Friert gut ein, Joghurtsauce am besten beim Aufwärmen nicht zu stark kochen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf12",
+    "title": "Lachs Quinoa Bowl mit Spinat",
+    "short_description": "Nährstoffreiche Bowl mit Ofenlachs, Quinoa und zartem Spinat.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Lachsfilet",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Quinoa",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200°C vorheizen, Lachs mit Zitronensaft und Öl beträufeln, ca. 15 Minuten backen.",
+      "Quinoa parallel nach Packungsanweisung kochen.",
+      "Spinat kurz zusammenfallen lassen.",
+      "Alles auf Boxen verteilen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Lachs",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Fisch enthalten ist.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf13",
+    "title": "Haehnchen Fruehlingsbowl mit Erbsen und Spargel",
+    "short_description": "Leichte Frühlingsbowl mit zartem Hähnchen, jungen Erbsen und grünem Spargel.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "grüner Spargel",
+        "amount": 400,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "junge Erbsen (frisch oder TK)",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Quinoa",
+        "amount": 200,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Quinoa nach Packungsanweisung kochen.",
+      "Hähnchen in Streifen schneiden und in Öl braten.",
+      "Spargel und Erbsen kurz mitdünsten.",
+      "Alles vermengen und mit Zitronensaft abschmecken."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "total_time_min": 30,
+    "servings": 4,
+    "season": [
+      "fruehling"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Schmeckt kalt genauso gut wie warm, ideal für die Arbeit.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf14",
+    "title": "Rinderhack Zucchini Pfanne",
+    "short_description": "Herzhafte Pfanne mit magerem Rinderhack, Zucchini und Tomaten.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Rinderhackfleisch",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "italienische Kräuter",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Knoblauch andünsten, Hack dazugeben und krümelig anbraten.",
+      "Zucchini in Würfel schneiden und mitdünsten.",
+      "Cherrytomaten und Kräuter dazugeben.",
+      "Ca. 10 Minuten köcheln lassen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 4,
+    "season": [
+      "sommer",
+      "herbst"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Rinderhack",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Friert gut portionsweise ein, ideal als Vorratsgericht.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf15",
+    "title": "Gebratene Garnelen mit Knoblauch und Zucchininudeln",
+    "short_description": "Schnelle Garnelenpfanne mit Knoblauch und leichten Zucchininudeln.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Garnelen",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Cherrytomaten",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten.",
+      "Knoblauch in Öl andünsten, Garnelen dazugeben und kurz anbraten.",
+      "Cherrytomaten und Zucchininudeln dazugeben, kurz erhitzen.",
+      "Mit Zitronensaft abschmecken."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Garnelen",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Meeresfrüchte enthalten sind.",
+    "high_protein": true,
+    "sugar_free": true
+  }
+]
