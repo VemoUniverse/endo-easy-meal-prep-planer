@@ -84,6 +84,15 @@ p { margin: 0 0 1rem; }
 
 .intro-card { text-align: center; }
 
+.intro-card h1 { margin-bottom: 1.5rem; }
+
+.subheadline-lead {
+  color: var(--color-text);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.9rem;
+}
+
 .subheadline {
   color: var(--color-text-soft);
   font-size: 1.05rem;
