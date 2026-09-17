@@ -13263,5 +13263,1176 @@
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
     "high_protein": false,
     "sugar_free": true
+  },
+  {
+    "id": "sp15",
+    "title": "Zucchininudeln mit Joghurt Dill Sauce",
+    "short_description": "Leichte Zucchininudeln in einer cremigen Joghurt Dill Sauce mit gerösteten Sonnenblumenkernen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "snack"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Zucchini",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 250,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "frischer Dill",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Sonnenblumenkerne",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten und kurz in einer Pfanne anduensten.",
+      "Joghurt mit gehacktem Dill und Zitronensaft verruehren.",
+      "Zucchininudeln mit der Sauce vermengen.",
+      "Mit gerösteten Sonnenblumenkernen bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 3,
+    "total_time_min": 13,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Joghurt",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen unterheben, dann bleiben die Nudeln knackig.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "sp16",
+    "title": "Tofu Limetten Ceviche mit Sprossen",
+    "short_description": "Erfrischendes Ceviche aus gebackenem Tofu, Limette, Ingwer und knackigen Sprossen.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "ingredients": [
+      {
+        "name": "Tofu (fest)",
+        "amount": 300,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Limette",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "frischer Ingwer",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Sprossengemüse",
+        "amount": 1,
+        "unit": "Handvoll",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "frischer Koriander",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Tofu wuerfeln und in Öl von allen Seiten knusprig anbraten.",
+      "Ingwer fein reiben und mit Limettensaft und Olivenöl verruehren.",
+      "Tofu mit der Marinade, Sprossen und Koriander vermengen.",
+      "Für 1 bis 2 Stunden im Kühlschrank durchziehen lassen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 8,
+    "total_time_min": 23,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Tofu",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage im Kühlschrank.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "sp17",
+    "title": "Schoko Avocado Mousse mit Himbeeren",
+    "short_description": "Cremiges Schoko Mousse aus Avocado und Kakao, verfeinert mit frischen Himbeeren.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Avocado",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Rohkakaopulver",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Banane",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Hafermilch (ungesüßt)",
+        "amount": 60,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Himbeeren",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Avocado, Kakaopulver, Banane und Hafermilch fein pürieren.",
+      "In kleine Schalen fuellen.",
+      "Mit Himbeeren toppen.",
+      "Mit gehackten Kürbiskernen bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "kalt",
+    "main_protein": "Avocado",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Am besten am Tag der Zubereitung genießen, da Avocado sonst braun wird.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "sp18",
+    "title": "Zitronen Mandel Baellchen mit Kokosraspeln",
+    "short_description": "Kleine Energiebaellchen aus Mandeln, Zitrone und Datteln, gewaelzt in Kokosraspeln.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Mandeln",
+        "amount": 200,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Schale einer Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Datteln, entsteint",
+        "amount": 6,
+        "unit": "Stück",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kokosraspel",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Mandeln, Zitronenschale und Datteln im Mixer pürieren, bis eine knetbare Masse entsteht.",
+      "Kokosraspel auf einem Teller verteilen.",
+      "Kleine Kugeln aus der Masse formen.",
+      "In den Kokosraspeln waelzen und kalt stellen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "kalt",
+    "main_protein": "Mandeln",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Haelt sich gut verschlossen fuer eine Woche im Kühlschrank.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "sp19",
+    "title": "Aprikosen Hafer Baellchen mit Sesam",
+    "short_description": "Saettigende Energiebaellchen aus Aprikosen, Datteln und Hafer, gewaelzt in Sesam.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Haferflocken",
+        "amount": 100,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Datteln, entsteint",
+        "amount": 5,
+        "unit": "Stück",
+        "category": "Vorrat"
+      },
+      {
+        "name": "getrocknete Aprikosen",
+        "amount": 6,
+        "unit": "Stück",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Sesam",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Haferflocken fein mahlen.",
+      "Mit Datteln und Aprikosen pürieren, bis eine knetbare Masse entsteht.",
+      "Sesam auf einem Teller verteilen.",
+      "Kleine Kugeln formen und im Sesam waelzen."
+    ],
+    "prep_time_min": 12,
+    "cook_time_min": 0,
+    "total_time_min": 12,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Hafer",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Haelt sich gut verschlossen fuer eine Woche im Kühlschrank.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "mf70",
+    "title": "Haehnchen Buffalo Streifen mit Guacamole",
+    "short_description": "Wuerzig gebackene Hähnchenstreifen in einer Kokos Gewuerzpanade, dazu cremige Guacamole.",
+    "image": null,
+    "meal_type": [
+      "snack",
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Kokosflocken",
+        "amount": 60,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Eier",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Paprikapulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Chilipulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Avocado",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200 Grad vorheizen.",
+      "Hähnchenbrust in Streifen schneiden. Kokosflocken mit Paprika und Chilipulver vermengen.",
+      "Streifen erst in verquirltem Ei, dann in der Kokosmischung waelzen.",
+      "Auf einem Backblech verteilen und ca. 18 bis 20 Minuten backen. Avocado zu Guacamole zerdruecken und dazu servieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 19,
+    "total_time_min": 34,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Am besten frisch aus dem Ofen genießen, Guacamole erst kurz vorher zubereiten.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf71",
+    "title": "Haehnchen Pesto Omelett mit Champignons",
+    "short_description": "Herzhaftes Omelett mit gebratenem Hähnchen, Champignons und Pesto.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck",
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 250,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Champignons",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Eier",
+        "amount": 8,
+        "unit": "Stück",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Pesto",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Feta",
+        "amount": 60,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrust wuerfeln, Champignons in Scheiben schneiden.",
+      "Beides in Öl anbraten und beiseite stellen.",
+      "Eier verquirlen und in einer Pfanne stocken lassen.",
+      "Pesto auf einer Haelfte verteilen, mit Hähnchen, Champignons und Feta belegen, Omelett zusammenklappen."
+    ],
+    "prep_time_min": 12,
+    "cook_time_min": 14,
+    "total_time_min": 26,
+    "servings": 4,
+    "season": [
+      "herbst"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Hähnchen und Ei",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Am besten frisch aus der Pfanne genießen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf72",
+    "title": "Haehnchen Kichererbsen Bratlinge",
+    "short_description": "Saftige Bratlinge aus Hähnchenhack und Kichererbsen, wuerzig abgeschmeckt.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenhackfleisch",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Kichererbsen (Dose)",
+        "amount": 1,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "frischer Koriander",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Kurkuma",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Kreuzkümmelpulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Kichererbsen abtropfen lassen und grob zerdruecken.",
+      "Mit Hackfleisch, Koriander, Kurkuma und Kreuzkuemmel vermengen.",
+      "Runde Taler formen.",
+      "In Öl von beiden Seiten goldbraun braten, bis sie durch sind."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 14,
+    "total_time_min": 29,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Hähnchen und Kichererbsen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch als Burger Patty geeignet.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf73",
+    "title": "Lachs Quiche mit Spinat und Feta",
+    "short_description": "Quiche mit einem Boden aus Mandeln und Hafer, gefuellt mit Raeucherlachs, Spinat und Feta.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Mandeln",
+        "amount": 100,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Haferflocken",
+        "amount": 50,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Raeucherlachs",
+        "amount": 150,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Blattspinat",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Feta",
+        "amount": 80,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 180 Grad vorheizen.",
+      "Mandeln und Haferflocken im Mixer fein mahlen und in eine gefettete Form druecken, ca. 10 Minuten backen.",
+      "Spinat kurz zusammenfallen lassen und abkuehlen.",
+      "Mit den verquirlten Eiern vermengen, auf den Boden geben, mit Lachs und Feta belegen und 30 Minuten backen."
+    ],
+    "prep_time_min": 20,
+    "cook_time_min": 40,
+    "total_time_min": 60,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "herbst"
+    ],
+    "min_energy": "motiviert",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Lachs und Ei",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Laesst sich gut vorbacken und portionsweise aufwaermen oder kalt genießen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf74",
+    "title": "Asiatische Haehnchen Bowl mit Sonnenblumenkernsauce",
+    "short_description": "Bunte Bowl mit gebratenem Hähnchen, Gemuese und einer cremigen Sonnenblumenkernsauce.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Sojasprossen",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Sonnenblumenkernmus",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Sojasauce (glutenfrei)",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Limette",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrust in Streifen schneiden und in Öl anbraten.",
+      "Brokkoli kurz gar duensten.",
+      "Sonnenblumenkernmus mit Sojasauce, Limettensaft und etwas Wasser zu einer Sauce verruehren.",
+      "Hähnchen, Brokkoli, Sojasprossen und Rotkohl in Schalen anrichten und mit der Sauce beträufeln."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 12,
+    "total_time_min": 27,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf75",
+    "title": "Gefuellte Ofen Suesskartoffel mit Haehnchen",
+    "short_description": "Ofen Suesskartoffel gefuellt mit gebratenem Hähnchen, Rucola und Tahini Limetten Sauce.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Süßkartoffel",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Rucola",
+        "amount": 100,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Tahin",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Limette",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200 Grad vorheizen. Süßkartoffeln waschen, mit einer Gabel einstechen und ca. 45 bis 50 Minuten backen.",
+      "Hähnchenbrust wuerfeln und in Öl braten.",
+      "Tahin mit Limettensaft und etwas Wasser zu einer Sauce verruehren.",
+      "Süßkartoffeln aufschneiden und mit Hähnchen, Rucola und der Sauce fuellen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 50,
+    "total_time_min": 60,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Süßkartoffeln lassen sich vorbacken und griffbereit im Kühlschrank aufbewahren.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf76",
+    "title": "Gruenkohl Ananas Salat mit Garnelen",
+    "short_description": "Knackiger Gruenkohl Salat mit gebratener Ananas, Garnelen und gerösteten Kuerbiskernen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Grünkohl",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ananas",
+        "amount": 250,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Garnelen",
+        "amount": 300,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Grünkohl von den Stielen befreien, in Streifen schneiden und kurz mit den Haenden durchkneten.",
+      "Ananas in Scheiben und Garnelen in einer Pfanne kurz scharf anbraten.",
+      "Grünkohl mit Olivenöl und Ahornsirup anmachen.",
+      "Mit Ananas, Garnelen und Kürbiskernen toppen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 8,
+    "total_time_min": 23,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Garnelen",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten frisch genießen, da Meeresfrüchte enthalten sind.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf77",
+    "title": "Bunter Rohkost Salat mit Haehnchen",
+    "short_description": "Knackiger Krautsalat mit buntem Gemuese, gebratenem Hähnchen und Sesam Dressing.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "snack"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Weißkohl",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Karotten",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Tahin",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Apfelessig",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Sesam",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrust in Streifen schneiden und in Öl braten.",
+      "Rotkohl, Weißkohl in duenne Streifen schneiden, Karotten raspeln.",
+      "Tahin mit Apfelessig und etwas Wasser zu einem Dressing verruehren.",
+      "Alles vermengen und mit Sesam bestreuen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage im Kühlschrank.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf78",
+    "title": "Quinoa Grapefruit Salat mit Garnelen",
+    "short_description": "Erfrischender Quinoa Salat mit Grapefruit, gebratenen Garnelen und Rucola.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "amount": 150,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Garnelen",
+        "amount": 300,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Grapefruit",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Rucola",
+        "amount": 60,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Quinoa nach Packungsanweisung kochen und abkuehlen lassen.",
+      "Garnelen in Öl kurz anbraten.",
+      "Grapefruit filetieren, Gurke wuerfeln.",
+      "Alles mit Rucola und Olivenöl vermengen und mit den Garnelen toppen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "kalt",
+    "main_protein": "Garnelen",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen verzehren, da Meeresfrüchte enthalten sind.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf79",
+    "title": "Haehnchen Zoodles mit Joghurt Dill Sauce",
+    "short_description": "Zucchininudeln mit gebratenem Hähnchen in einer cremigen Joghurt Dill Sauce.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 250,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "frischer Dill",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrust in Streifen schneiden und in Öl braten.",
+      "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten und kurz anduensten.",
+      "Joghurt mit gehacktem Dill und Zitronensaft verruehren.",
+      "Zucchininudeln mit Hähnchen und der Sauce vermengen."
+    ],
+    "prep_time_min": 12,
+    "cook_time_min": 12,
+    "total_time_min": 24,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen unterheben, dann bleiben die Nudeln knackig.",
+    "high_protein": true,
+    "sugar_free": true
   }
 ]
