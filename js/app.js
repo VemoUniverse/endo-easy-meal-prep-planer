@@ -3,7 +3,7 @@
 
   // Bumped on every content/logic change so browsers can't serve a stale
   // cached copy of the JSON data files after a republish.
-  var ASSET_VERSION = "v20";
+  var ASSET_VERSION = "v21";
 
   var ENERGY_RANK = { low: 0, normal: 1, motiviert: 2 };
   var CATEGORY_ORDER = ["Gemüse & Obst", "Proteinquellen", "Getreide & Beilagen", "Kühlprodukte", "Vorrat", "Gewürze", "Sonstiges"];
@@ -357,21 +357,23 @@
       var mainMealTypes = state.mealTypes.filter(function (mt) { return mt !== "snack"; });
       if (mainMealTypes.length === 0) mainMealTypes = ["mittagessen", "abendessen", "fruehstueck"];
 
-      var mainResult = findCandidatesWithFallback(mainMealTypes, 3, exclude);
-      var mainDishes = pickDishes(mainResult.candidates, mainMealTypes, 3);
+      var mainResult = findCandidatesWithFallback(mainMealTypes, 6, exclude);
+      var mainDishes = pickDishes(mainResult.candidates, mainMealTypes, 6);
 
       var snackDishes = [];
       var wantsSnacks = state.mealTypes.indexOf("snack") !== -1;
       if (wantsSnacks) {
         var snackExclude = exclude.concat(mainDishes.map(function (r) { return r.id; }));
-        var snackResult = findCandidatesWithFallback(["snack"], 2, snackExclude);
-        snackDishes = pickDishes(snackResult.candidates, ["snack"], 2);
+        var snackResult = findCandidatesWithFallback(["snack"], 4, snackExclude);
+        snackDishes = pickDishes(snackResult.candidates, ["snack"], 4);
       }
 
       state.mainDishes = mainDishes;
       state.snackDishes = snackDishes;
       state.shownIds = mainDishes.concat(snackDishes).map(function (r) { return r.id; });
-      state.selectedIds = state.shownIds.slice();
+      var preselectedMain = mainDishes.slice(0, 3).map(function (r) { return r.id; });
+      var preselectedSnacks = snackDishes.slice(0, 2).map(function (r) { return r.id; });
+      state.selectedIds = preselectedMain.concat(preselectedSnacks);
 
       renderResults(mainResult.loosened || (wantsSnacks && false));
       showScreen("results");
