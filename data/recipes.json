@@ -14434,5 +14434,895 @@
     "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen unterheben, dann bleiben die Nudeln knackig.",
     "high_protein": true,
     "sugar_free": true
+  },
+  {
+    "id": "nb1",
+    "title": "Gruener Fruehstuecks Smoothie mit Avocado",
+    "short_description": "Cremiger gruener Smoothie mit Banane, Spinat und Avocado, in wenigen Minuten fertig.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Banane",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Babyspinat",
+        "amount": 100,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Avocado",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Hafermilch (ungesüßt)",
+        "amount": 400,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Chiasamen",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Banane schaelen und grob zerteilen.",
+      "Alle Zutaten in einen Mixer geben.",
+      "Cremig pürieren.",
+      "Direkt genießen."
+    ],
+    "prep_time_min": 5,
+    "cook_time_min": 0,
+    "total_time_min": 5,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Chiasamen",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Am besten frisch mixen, schmeckt direkt am besten.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "nb2",
+    "title": "Bunte Quinoa Gemuese Bowl mit Tahini Zitronen Sauce",
+    "short_description": "Warme Quinoa Bowl mit Brokkoli, Karotten und einer cremigen Tahini Zitronen Sauce.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "amount": 150,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Karotten",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Tahin",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Quinoa nach Packungsanweisung kochen.",
+      "Brokkoli und Karotten dämpfen, bis sie gar aber noch bissfest sind.",
+      "Tahin mit Zitronensaft und etwas Wasser zu einer Sauce verruehren.",
+      "Quinoa und Gemuese in Bowls anrichten und mit der Sauce beträufeln."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Quinoa",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "nb3",
+    "title": "Mildes Blumenkohl Kokos Curry mit Kichererbsen",
+    "short_description": "Waermendes Curry mit Blumenkohl, Kokosmilch und Kichererbsen, mild gewuerzt.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Blumenkohl",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kichererbsen (Dose)",
+        "amount": 1,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 400,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Currypulver",
+        "amount": 2,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Kurkuma",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "frischer Koriander",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Blumenkohl in Röschen teilen.",
+      "Currypulver und Kurkuma kurz in einem Topf anroesten.",
+      "Kokosmilch angiessen, Blumenkohl und Kichererbsen dazugeben.",
+      "10 bis 15 Minuten koecheln lassen, mit Koriander bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "nb4",
+    "title": "Zoodles mit Avocado Basilikum Pesto",
+    "short_description": "Frische Zucchininudeln mit einem cremigen Pesto aus Avocado und Basilikum.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Zucchini",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Avocado",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Basilikum",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten.",
+      "Avocado, Basilikum, Knoblauch und Zitronensaft cremig pürieren.",
+      "Zucchininudeln mit dem Pesto vermengen.",
+      "Mit Kürbiskernen toppen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "kalt",
+    "main_protein": "Avocado",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Pesto separat mitnehmen und erst kurz vor dem Essen unterheben, dann bleiben die Nudeln knackig.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "nb5",
+    "title": "Ofengemuese mit Kichererbsen Hummus",
+    "short_description": "Wuerzig geroestetes Ofengemuese mit selbst gemachtem Kichererbsen Hummus.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Süßkartoffel",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Blumenkohl",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kreuzkümmelpulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kichererbsen (Dose)",
+        "amount": 1,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Tahin",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200 Grad vorheizen. Gemuese in Stuecke schneiden, mit Öl und Kreuzkuemmel vermengen.",
+      "Auf einem Blech verteilen und ca. 20 bis 25 Minuten backen.",
+      "Fuer den Hummus Kichererbsen abtropfen lassen und mit Tahin, Zitronensaft und etwas Wasser cremig pürieren.",
+      "Ofengemuese mit dem Hummus servieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 23,
+    "total_time_min": 38,
+    "servings": 4,
+    "season": [
+      "herbst"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Gemuese und Hummus getrennt aufbewahren, haelt sich gut fuer 2 bis 3 Tage.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "nb6",
+    "title": "Rote Bete Salat mit Feta und Kuerbiskernen",
+    "short_description": "Erdiger Rote Bete Salat mit Rucola, cremigem Feta und gerösteten Kuerbiskernen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Rote Bete, gekocht",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Rucola",
+        "amount": 80,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Feta",
+        "amount": 100,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Apfelessig",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Rote Bete in Wuerfel schneiden.",
+      "Mit Rucola vermengen.",
+      "Mit Olivenöl und Apfelessig anmachen.",
+      "Mit Feta und Kürbiskernen toppen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "kalt",
+    "main_protein": "Feta",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage, Rucola erst kurz vorher zugeben.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "nb7",
+    "title": "Cremige Brokkoli Suesskartoffel Suppe",
+    "short_description": "Sanfte cremige Suppe aus Brokkoli und Suesskartoffel, mit Kuerbiskernen bestreut.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Brokkoli",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebeln",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 600,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Zwiebel wuerfeln und in etwas Öl anbraten.",
+      "Brokkoli und Süßkartoffel wuerfeln und dazugeben.",
+      "Mit Gemuesebruehe aufgiessen und 20 Minuten koecheln lassen.",
+      "Fein pürieren und mit Kürbiskernen bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 22,
+    "total_time_min": 32,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Süßkartoffel",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Laesst sich gut portionsweise einfrieren und aufwaermen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "mf80",
+    "title": "Mildes Haehnchen Kokos Curry mit Blumenkohl",
+    "short_description": "Waermendes Curry mit Hähnchen, Blumenkohl und cremiger Kokosmilch.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Blumenkohl",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 400,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Currypulver",
+        "amount": 2,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Kurkuma",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "frischer Koriander",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrust wuerfeln und anbraten.",
+      "Currypulver und Kurkuma kurz mitroesten.",
+      "Kokosmilch angiessen, Blumenkohl dazugeben.",
+      "10 bis 15 Minuten koecheln lassen, mit Koriander bestreuen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 18,
+    "total_time_min": 28,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf81",
+    "title": "Quinoa Bowl mit Garnelen und Tahini Zitronen Sauce",
+    "short_description": "Warme Quinoa Bowl mit gebratenen Garnelen, Brokkoli und einer cremigen Tahini Zitronen Sauce.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "amount": 150,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Garnelen",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Tahin",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Quinoa nach Packungsanweisung kochen.",
+      "Brokkoli dämpfen, bis er gar aber noch bissfest ist.",
+      "Garnelen in Öl kurz anbraten.",
+      "Tahin mit Zitronensaft und etwas Wasser zu einer Sauce verruehren, alles in Bowls anrichten und beträufeln."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Garnelen",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf82",
+    "title": "Cremige Brokkoli Suppe mit Haehnchen",
+    "short_description": "Sanfte cremige Brokkolisuppe mit gebratenem Hähnchen, mit Kuerbiskernen bestreut.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 300,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebeln",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 600,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Hähnchenbrust wuerfeln und in Öl anbraten, beiseite stellen.",
+      "Zwiebel, Brokkoli und Süßkartoffel im gleichen Topf anduensten.",
+      "Mit Gemuesebruehe aufgiessen und 20 Minuten koecheln lassen, fein pürieren.",
+      "Mit Hähnchen und Kürbiskernen toppen."
+    ],
+    "prep_time_min": 12,
+    "cook_time_min": 25,
+    "total_time_min": 37,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": false,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Hähnchen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Laesst sich gut portionsweise einfrieren und aufwaermen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "mf83",
+    "title": "Ofengemuese mit Haehnchen und Hummus",
+    "short_description": "Wuerzig geroestetes Ofengemuese mit Hähnchen und selbst gemachtem Kichererbsen Hummus.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Süßkartoffel",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kreuzkümmelpulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kichererbsen (Dose)",
+        "amount": 1,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Tahin",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200 Grad vorheizen. Hähnchenbrust und Gemuese in Stuecke schneiden, mit Öl und Kreuzkuemmel vermengen.",
+      "Auf einem Blech verteilen und ca. 20 bis 25 Minuten backen.",
+      "Fuer den Hummus Kichererbsen abtropfen lassen und mit Tahin, Zitronensaft und etwas Wasser cremig pürieren.",
+      "Hähnchen und Ofengemuese mit dem Hummus servieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 23,
+    "total_time_min": 38,
+    "servings": 4,
+    "season": [
+      "herbst"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Hähnchen und Kichererbsen",
+    "storage_category": "enthaelt_fleisch",
+    "meal_prep_notes": "Gemuese, Hähnchen und Hummus getrennt aufbewahren, haelt sich gut fuer 2 bis 3 Tage.",
+    "high_protein": true,
+    "sugar_free": true
   }
 ]
