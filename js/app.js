@@ -3,9 +3,10 @@
 
   // Bumped on every content/logic change so browsers can't serve a stale
   // cached copy of the JSON data files after a republish.
-  var ASSET_VERSION = "v26";
+  var ASSET_VERSION = "v27";
 
   var ENERGY_RANK = { low: 0, normal: 1, motiviert: 2 };
+  var MEAL_TYPE_ORDER = ["fruehstueck", "mittagessen", "abendessen", "snack"];
   var CATEGORY_ORDER = ["Gemüse & Obst", "Proteinquellen", "Getreide & Beilagen", "Kühlprodukte", "Vorrat", "Gewürze", "Sonstiges"];
   var CATEGORY_LABELS = { "Vorrat": "Vorratsschrank" };
   var WHOLE_UNIT_ROUNDING = ["EL", "TL", "Stück", "Dose", "Bund", "Scheiben", "Kopf", "Blätter", "Prise"];
@@ -430,7 +431,10 @@
 
     setTimeout(function () {
       var mainMealTypes = state.mealTypes.filter(function (mt) { return mt !== "snack"; });
-      if (mainMealTypes.length === 0) mainMealTypes = ["mittagessen", "abendessen", "fruehstueck"];
+      if (mainMealTypes.length === 0) mainMealTypes = ["fruehstueck", "mittagessen", "abendessen"];
+      // Always follow the natural order of a day, regardless of the order
+      // the user happened to click the checkboxes in.
+      mainMealTypes.sort(function (a, b) { return MEAL_TYPE_ORDER.indexOf(a) - MEAL_TYPE_ORDER.indexOf(b); });
 
       var mainResult = findCandidatesWithFallback(mainMealTypes, 6, exclude);
       var mainDishes = pickDishes(mainResult.candidates, mainMealTypes, 6);

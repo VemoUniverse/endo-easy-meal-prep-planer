@@ -396,6 +396,10 @@ p { margin: 0 0 1rem; }
   margin: -0.4rem 0 1rem;
 }
 
+.options + .field-hint {
+  margin-top: 1.4rem;
+}
+
 .shopping-category { margin-bottom: 1.1rem; }
 .shopping-category h4 {
   font-family: var(--font-body);
