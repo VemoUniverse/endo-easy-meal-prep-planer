@@ -83,7 +83,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Am besten in einzelnen Gläsern mit Deckel vorbereiten. So ist jede Portion direkt griffbereit für unterwegs.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "b2",
@@ -170,7 +171,8 @@
     "storage_category": "enthaelt_ei",
     "meal_prep_notes": "Ergibt ca. 8 Muffins (2 pro Portion). Perfekt zum Mitnehmen ins Büro, auch kalt lecker.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "b3",
@@ -257,7 +259,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Kalt aus dem Kühlschrank genießen oder sanft im Topf bei niedriger Hitze aufwärmen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "b4",
@@ -338,7 +341,8 @@
     "storage_category": "enthaelt_ei",
     "meal_prep_notes": "Avocado und Ei am besten erst kurz vor dem Essen frisch zubereiten, die Linsenbasis lässt sich gut vorkochen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "b5",
@@ -423,7 +427,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Für eine nussfreie Variante Walnüsse durch geröstete Kürbiskerne ersetzen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "b6",
@@ -509,7 +514,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Auch kalt als Frühstücksbowl mit einem Schuss Hafermilch genießbar.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "l1",
@@ -598,7 +604,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Lässt sich hervorragend in Portionsboxen einfrieren. Einfach über Nacht auftauen und aufwärmen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "l2",
@@ -690,7 +697,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Dressing getrennt aufbewahren und erst kurz vor dem Essen darüber geben, dann bleibt alles schön knackig.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "l3",
@@ -776,7 +784,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Schmeckt kalt genauso gut wie aufgewärmt. Ideal für die Arbeit.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "l4",
@@ -871,7 +880,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Schmeckt am nächsten Tag noch besser. Lässt sich sehr gut portionsweise einfrieren.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "l5",
@@ -964,7 +974,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Falafel Bällchen roh oder gebacken einfrieren, Dip separat frisch halten.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "l6",
@@ -1045,7 +1056,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Fisch enthalten ist. Beim Aufwärmen nur sanft erhitzen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "l7",
@@ -1130,7 +1142,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Für Kinder das Dressing milder anrühren oder separat servieren.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "d1",
@@ -1213,7 +1226,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Klassisches Gericht vom Blech. Perfekt für Tage mit wenig Energie.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "d2",
@@ -1299,7 +1313,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Sauce lässt sich separat einfrieren, Pasta am besten frisch dazu kochen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "d3",
@@ -1380,7 +1395,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Vor dem Backen portionsweise einfrieren möglich. Dann einfach direkt aus dem Gefrierfach etwas länger backen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "d4",
@@ -1467,7 +1483,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Eintopf friert sehr gut ein, Couscous lieber frisch dazu zubereiten.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "d5",
@@ -1553,7 +1570,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Tofu getrennt vom Reis aufbewahren, damit er beim Aufwärmen knusprig bleibt.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "d6",
@@ -1638,7 +1656,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Große Menge Sauce kochen und portionsweise einfrieren. Ein klassisches Vorratsgericht.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "d7",
@@ -1727,7 +1746,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Alles vom Blech, ideal für Tage mit wenig Energie. Kaum Abwasch.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "s1",
@@ -1794,7 +1814,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Für eine nussfreie Variante Mandeln durch geröstete Kürbis oder Sonnenblumenkerne ersetzen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "s2",
@@ -1868,7 +1889,8 @@
     "storage_category": "geroestet_trocken",
     "meal_prep_notes": "In einer luftdichten Dose bleiben sie mehrere Tage knusprig.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "s3",
@@ -1923,7 +1945,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Am besten direkt frisch genießen, da die cremige Konsistenz beim erneuten Einfrieren etwas fester wird.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "s4",
@@ -2002,7 +2025,8 @@
     "storage_category": "enthaelt_ei",
     "meal_prep_notes": "Ergibt ca. 8 Muffins. Ideal zum Portionieren in kleine Boxen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "s5",
@@ -2088,7 +2112,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Hummus und Gemüse getrennt aufbewahren, damit die Sticks knackig bleiben.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fs1",
@@ -2168,7 +2193,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Ziegenkäse und Minze am besten erst kurz vor dem Servieren zugeben, dann bleibt alles frisch.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fs2",
@@ -2249,7 +2275,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Dressing separat mitnehmen, dann bleiben die Radieschen schön knackig.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fs3",
@@ -2331,7 +2358,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Schmeckt kalt genauso gut wie lauwarm. Ideal für die Arbeit.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fs4",
@@ -2405,7 +2433,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Erdbeeren am besten erst kurz vor dem Essen zugeben, dann bleiben sie schön frisch.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "fs5",
@@ -2484,7 +2513,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Tofu getrennt vom Reis lagern, damit er beim Aufwärmen knusprig bleibt.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fs6",
@@ -2565,7 +2595,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Nudeln ziehen beim Lagern Flüssigkeit. Bei Bedarf beim Aufwärmen etwas Brühe nachgießen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fs7",
@@ -2638,7 +2669,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Dip und Gemüse getrennt aufbewahren, damit die Sticks knackig bleiben.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fs8",
@@ -2720,7 +2752,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Basilikum am besten erst beim Servieren zugeben, sonst verliert es an Aroma.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "fr1",
@@ -2793,7 +2826,8 @@
     "storage_category": "enthaelt_ei",
     "meal_prep_notes": "Ei am besten frisch zubereiten, Spargel lässt sich vorab rösten und kurz aufwärmen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fr2",
@@ -2868,7 +2902,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Friert sehr gut ein. Ideal, um die kurze Bärlauchsaison zu verlängern.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fr3",
@@ -2947,7 +2982,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Schmeckt frisch am besten, lässt sich aber sanft im Topf mit etwas Brühe aufwärmen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fr4",
@@ -3015,7 +3051,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Kompott hält sich separat gekühlt gut. Erst kurz vor dem Essen mit dem Joghurt kombinieren.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "fr5",
@@ -3092,7 +3129,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Ein schöner Weg, Radieschenblätter weiterzuverwenden statt sie wegzuwerfen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "fr6",
@@ -3176,7 +3214,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Dressing getrennt halten, dann bleibt das Gemüse schön knackig.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "so1",
@@ -3255,7 +3294,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Schmeckt am nächsten Tag noch intensiver. Ideal für heiße Tage.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "so2",
@@ -3328,7 +3368,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Am besten am selben oder Folgetag genießen, dann ist die Melone noch schön knackig.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "so3",
@@ -3399,7 +3440,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Rucola erst kurz vor dem Essen untermengen, damit er nicht welk wird.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "so4",
@@ -3478,7 +3520,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Halloumi schmeckt frisch gebraten am besten, kann aber auch kalt genossen werden.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "so5",
@@ -3552,7 +3595,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Pfirsiche am besten erst kurz vor dem Servieren zugeben.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "so6",
@@ -3626,7 +3670,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Am besten am selben oder nächsten Tag genießen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "ev1",
@@ -3707,7 +3752,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Klassisches Meal Prep Gericht. Lässt sich sehr gut portionsweise einfrieren.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "ev2",
@@ -3792,7 +3838,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Falafel getrennt von den Wraps lagern und erst kurz vor dem Essen zusammenbauen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "ev3",
@@ -3871,7 +3918,8 @@
     "storage_category": "enthaelt_ei",
     "meal_prep_notes": "Pancakes lassen sich gut stapeln und einfrieren, einfach im Toaster aufwärmen. Für noch mehr Protein einen Klecks Skyr dazugeben.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "ev4",
@@ -3938,7 +3986,8 @@
     "storage_category": "geroestet_trocken",
     "meal_prep_notes": "In einer luftdichten Dose bleiben sie mehrere Tage knusprig.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "hw1",
@@ -4021,7 +4070,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Friert sehr gut ein, ideal zum Vorkochen in größerer Menge.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "hw2",
@@ -4103,7 +4153,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Klassischer Vorratseintopf, lässt sich gut portionsweise einfrieren.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "hw3",
@@ -4184,7 +4235,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Schmeckt aufgewärmt genauso gut, der Rotkohl zieht noch mehr Aroma.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "hw4",
@@ -4259,7 +4311,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Schmeckt auch als Beilage zu anderen Gerichten der Woche.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "hw5",
@@ -4340,7 +4393,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Dressing separat mitnehmen, dann bleibt die Bowl auch am nächsten Tag frisch.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "hw6",
@@ -4421,7 +4475,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Ragout und Polenta getrennt aufbewahren, dann bleibt die Polenta cremiger.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "hw7",
@@ -4500,7 +4555,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Skyr am besten erst beim Servieren zugeben, dann bleibt er schön cremig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "hw8",
@@ -4582,7 +4638,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Friert sehr gut ein, ideal für einen großen Vorratstopf.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "h1",
@@ -4657,7 +4714,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Gute Beilage oder Basis für eine Bowl mit Getreide und Blattsalat.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "h2",
@@ -4734,7 +4792,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Birnen erst kurz vor dem Servieren schneiden, damit sie nicht braun werden.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "h3",
@@ -4813,7 +4872,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Lässt sich gut in Portionen einfrieren und im Ofen wieder aufbacken.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "h4",
@@ -4885,7 +4945,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Für eine nussfreie Variante Mandeln durch geröstete Kürbiskerne ersetzen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "w1",
@@ -4966,7 +5027,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Klassischer Wintereintopf, friert sehr gut portionsweise ein.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "w2",
@@ -5040,7 +5102,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Meerrettich am besten erst beim Servieren frisch reiben, dann bleibt die Schärfe erhalten.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "w3",
@@ -5127,7 +5190,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Friert hervorragend ein, ideal als großer Vorratstopf für mehrere Wochen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "w4",
@@ -5196,7 +5260,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Am besten am selben oder nächsten Tag genießen, dann ist der Fenchel noch knackig.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "w5",
@@ -5274,7 +5339,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Skyr am besten erst beim Servieren zugeben, dann bleibt er schön cremig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "w6",
@@ -5354,7 +5420,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Ein klassisches Ofenblech, ideal an Tagen mit wenig Energie.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "e5",
@@ -5434,7 +5501,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Wraps gestapelt mit Backpapier dazwischen aufbewahren, dann kleben sie nicht zusammen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "e6",
@@ -5506,7 +5574,8 @@
     "storage_category": "geroestet_trocken",
     "meal_prep_notes": "Trocken und luftdicht verpackt hält sich die Mischung mehrere Wochen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "mf1",
@@ -5579,7 +5648,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch zubereiten, da Eier und Räucherlachs nicht lange warm gehalten werden sollten.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf2",
@@ -5653,7 +5723,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Gut vorbereitbar, ideal für Frühstück am Schreibtisch oder unterwegs.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf3",
@@ -5726,7 +5797,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Schmeckt frisch am besten, lässt sich aber auch sanft in der Pfanne aufwärmen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf4",
@@ -5806,7 +5878,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Wraps am besten erst kurz vor dem Essen füllen, dann bleiben sie knackig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf5",
@@ -5879,7 +5952,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Dip und Gemüse getrennt aufbewahren, dann bleiben die Sticks knackig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf6",
@@ -5946,7 +6020,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Hält sich gut vorbereitet im Kühlschrank für den nächsten Tag.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf7",
@@ -6025,7 +6100,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Garnelen enthalten sind.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf8",
@@ -6104,7 +6180,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf9",
@@ -6184,7 +6261,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Marinieren lässt sich gut am Vortag vorbereiten.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf10",
@@ -6258,7 +6336,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf11",
@@ -6338,7 +6417,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Friert gut ein, Joghurtsauce am besten beim Aufwärmen nicht zu stark kochen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf12",
@@ -6412,7 +6492,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf13",
@@ -6492,7 +6573,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Schmeckt kalt genauso gut wie warm, ideal für die Arbeit.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf14",
@@ -6573,7 +6655,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Friert gut portionsweise ein, ideal als Vorratsgericht.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf15",
@@ -6653,7 +6736,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Meeresfrüchte enthalten sind.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf16",
@@ -6733,7 +6817,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Hält sich gut vorbereitet, ideal für einen Tag mit wenig Energie.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf17",
@@ -6813,7 +6898,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Avocado am besten erst kurz vor dem Essen zugeben, dann bleibt sie schön frisch.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf18",
@@ -6894,7 +6980,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Ein Pfannengericht, ideal an Tagen mit wenig Energie, kaum Abwasch.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf19",
@@ -6968,7 +7055,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, da Meeresfrüchte enthalten sind. Am liebsten frisch aus der Pfanne.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf20",
@@ -7041,7 +7129,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Wraps am besten erst kurz vor dem Essen füllen, dann bleiben sie knackig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf21",
@@ -7122,7 +7211,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Ei am besten frisch am Vorbereitungstag kochen, dann laesst sich die Bowl gut fuer 2 Tage vorbereiten.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf22",
@@ -7203,7 +7293,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Kann gut fuer 2 Tage im Voraus vorbereitet werden, Rucola erst kurz vorher zugeben.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf23",
@@ -7278,7 +7369,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Auch kalt als herzhaftes Fruehstueck lecker, ideal fuer den Grill in der Saison.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf24",
@@ -7345,7 +7437,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch zubereiten, laesst sich aber auch am Folgetag kurz aufwaermen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf25",
@@ -7412,7 +7505,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen genießen, gut verschlossen lagern.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf26",
@@ -7487,7 +7581,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch zubereiten, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf27",
@@ -7561,7 +7656,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Haelt sich gut fuer 2 bis 3 Tage vorbereitet, ideal fuer die Arbeit.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf28",
@@ -7635,7 +7731,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch genießen, da Fisch und Ei enthalten sind.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf29",
@@ -7708,7 +7805,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Fuellung vorbereiten und Wraps erst kurz vor dem Essen fuellen, dann bleiben sie knackig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf30",
@@ -7783,7 +7881,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Suesskartoffelscheiben koennen vorgeroestet werden, Belag erst kurz vor dem Essen auflegen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf31",
@@ -7856,7 +7955,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Haelt sich gut fuer 2 bis 3 Tage vorbereitet, Dip separat mitnehmen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf32",
@@ -7924,7 +8024,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch aus der Pfanne genießen, halten sich aber auch 1 Tag im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf33",
@@ -7991,7 +8092,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Haelt sich gut verschlossen fuer 1 bis 2 Tage im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf34",
@@ -8059,7 +8161,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten am Tag der Zubereitung genießen, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf35",
@@ -8126,7 +8229,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Haelt sich gut verschlossen fuer 2 Tage, ideal fuer die Arbeit.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf36",
@@ -8194,7 +8298,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Salat separat vorbereiten und Gurkenscheiben erst kurz vor dem Essen belegen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf37",
@@ -8267,7 +8372,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Dip haelt sich gut verschlossen fuer 1 bis 2 Tage im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf38",
@@ -8336,7 +8442,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch genießen, Avocado wird sonst schnell braun.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf39",
@@ -8403,7 +8510,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf40",
@@ -8477,7 +8585,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Dip am besten am Tag der Zubereitung genießen, da Avocado sonst braun wird.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf41",
@@ -8551,7 +8660,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Laesst sich gut vorbereiten und am Folgetag aufwaermen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf42",
@@ -8631,7 +8741,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage, Rucola erst kurz vorher zugeben.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf43",
@@ -8705,7 +8816,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet, vor dem Verzehr gut durcherhitzen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf44",
@@ -8785,7 +8897,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf45",
@@ -8861,7 +8974,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf46",
@@ -8936,7 +9050,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen verzehren, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf47",
@@ -9012,7 +9127,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf48",
@@ -9086,7 +9202,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Salat erst kurz vor dem Essen anmachen, dann bleibt er knackig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf49",
@@ -9160,7 +9277,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen verzehren, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf50",
@@ -9234,7 +9352,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Zucchininudeln am besten erst beim Aufwaermen dazugeben, dann bleiben sie bissfest.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf51",
@@ -9309,7 +9428,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch genießen, da Meeresfrüchte enthalten sind.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf52",
@@ -9377,7 +9497,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch aus dem Ofen genießen, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf53",
@@ -9452,7 +9573,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf54",
@@ -9527,7 +9649,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen verzehren, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf55",
@@ -9601,7 +9724,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Laesst sich gut vorbereiten und am Folgetag aufwaermen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf56",
@@ -9670,7 +9794,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch genießen, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf57",
@@ -9744,7 +9869,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch kalt lecker.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf58",
@@ -9812,7 +9938,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch genießen, da Fisch und Ei enthalten sind.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf59",
@@ -9886,7 +10013,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch genießen, da Meeresfrüchte enthalten sind.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf60",
@@ -9955,7 +10083,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Am besten frisch aus der Pfanne genießen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf61",
@@ -10023,7 +10152,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Reiswaffeln erst kurz vor dem Essen belegen, dann bleiben sie knusprig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf62",
@@ -10091,7 +10221,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch genießen, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf63",
@@ -10160,7 +10291,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Suesskartoffel und Hähnchen koennen vorbereitet und aufgewaermt werden.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf64",
@@ -10226,7 +10358,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Reiswaffeln erst kurz vor dem Essen belegen, dann bleiben sie knusprig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf65",
@@ -10293,7 +10426,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, Dip separat mitnehmen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf66",
@@ -10360,7 +10494,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch genießen, da Meeresfrüchte enthalten sind.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf67",
@@ -10427,7 +10562,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Reiswaffeln erst kurz vor dem Essen belegen, dann bleiben sie knusprig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf68",
@@ -10489,7 +10625,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage, auch kalt lecker.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf69",
@@ -10557,7 +10694,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch kalt lecker.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg1",
@@ -10624,7 +10762,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Am besten frisch aus der Pfanne genießen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg2",
@@ -10693,7 +10832,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg3",
@@ -10762,7 +10902,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Am besten frisch aus der Pfanne genießen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg4",
@@ -10830,7 +10971,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Am besten in einzelnen Gläsern mit Deckel vorbereiten, so fuer 2 bis 3 Tage haltbar.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg5",
@@ -10899,7 +11041,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Am besten frisch warm genießen, laesst sich aber auch aufwaermen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "vg6",
@@ -10961,7 +11104,8 @@
     "storage_category": "geroestet_trocken",
     "meal_prep_notes": "Haelt sich luftdicht verpackt mehrere Tage knusprig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg7",
@@ -11015,7 +11159,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Am besten frisch warm oder abgekuehlt genießen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg8",
@@ -11089,7 +11234,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Haelt sich gut verschlossen fuer 3 bis 4 Tage im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg9",
@@ -11156,7 +11302,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg10",
@@ -11224,7 +11371,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Am besten in einzelnen Gläsern mit Deckel vorbereiten, haelt sich 2 bis 3 Tage.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "vg11",
@@ -11298,7 +11446,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Am besten frisch warm genießen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "vg12",
@@ -11365,7 +11514,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Am besten frisch aus der Pfanne genießen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg13",
@@ -11433,7 +11583,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Waffeln lassen sich gut einfrieren und im Toaster wieder aufbacken.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg14",
@@ -11501,7 +11652,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg15",
@@ -11575,7 +11727,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Bratlinge lassen sich gut vorbereiten und aufwaermen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg16",
@@ -11643,7 +11796,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch kalt lecker.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg17",
@@ -11715,7 +11869,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Granola separat mitnehmen, damit es beim Servieren knusprig bleibt.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "vg18",
@@ -11777,7 +11932,8 @@
     "storage_category": "geroestet_trocken",
     "meal_prep_notes": "Haelt sich luftdicht verpackt mehrere Tage.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg19",
@@ -11845,7 +12001,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Dip am besten am Tag der Zubereitung genießen, da Avocado sonst braun wird.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg20",
@@ -11913,7 +12070,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Haelt sich gut verschlossen fuer 4 bis 5 Tage im Kühlschrank.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "vg21",
@@ -11980,7 +12138,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg22",
@@ -12053,7 +12212,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Haelt sich gut verschlossen fuer 2 Tage, ideal fuer die Arbeit.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "vg23",
@@ -12128,7 +12288,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Zucchininudeln am besten erst beim Aufwaermen dazugeben, dann bleiben sie bissfest.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp1",
@@ -12207,7 +12368,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Am besten in einzelnen verschließbaren Gläsern vorbereiten, so haelt es sich 2 bis 3 Tage.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "sp2",
@@ -12287,7 +12449,8 @@
     "storage_category": "geroestet_trocken",
     "meal_prep_notes": "Luftdicht verpackt mehrere Tage knusprig, ideal als Topping für Joghurt oder Bowls.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "sp3",
@@ -12360,7 +12523,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Äpfel und Topping getrennt vorbereiten und erst kurz vor dem Essen zusammenstellen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "sp4",
@@ -12440,7 +12604,8 @@
     "storage_category": "enthaelt_ei",
     "meal_prep_notes": "Am besten frisch aus der Pfanne genießen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp5",
@@ -12528,7 +12693,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch als Burger Patty geeignet.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp6",
@@ -12602,7 +12768,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage, schmeckt auch kalt.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp7",
@@ -12677,7 +12844,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen verzehren, da Fisch enthalten ist.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp8",
@@ -12757,7 +12925,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Am besten frisch aus dem Ofen genießen, schmeckt aber auch am Folgetag noch gut.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp9",
@@ -12843,7 +13012,8 @@
     "storage_category": "enthaelt_ei",
     "meal_prep_notes": "Laesst sich gut vorbacken und portionsweise aufwaermen oder kalt genießen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp10",
@@ -12928,7 +13098,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp11",
@@ -13008,7 +13179,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage, Ananas erst kurz vorher zugeben.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp12",
@@ -13090,7 +13262,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Süßkartoffeln lassen sich vorbacken und griffbereit im Kühlschrank aufbewahren.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp13",
@@ -13175,7 +13348,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage, Rucola erst kurz vorher zugeben.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp14",
@@ -13262,7 +13436,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp15",
@@ -13336,7 +13511,8 @@
     "storage_category": "milchprodukt_frisch",
     "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen unterheben, dann bleiben die Nudeln knackig.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp16",
@@ -13415,7 +13591,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "sp17",
@@ -13495,7 +13672,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Am besten am Tag der Zubereitung genießen, da Avocado sonst braun wird.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "sp18",
@@ -13562,7 +13740,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Haelt sich gut verschlossen fuer eine Woche im Kühlschrank.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "sp19",
@@ -13630,7 +13809,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Haelt sich gut verschlossen fuer eine Woche im Kühlschrank.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "mf70",
@@ -13710,7 +13890,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Am besten frisch aus dem Ofen genießen, Guacamole erst kurz vorher zubereiten.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf71",
@@ -13784,7 +13965,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Am besten frisch aus der Pfanne genießen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf72",
@@ -13866,7 +14048,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch als Burger Patty geeignet.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf73",
@@ -13946,7 +14129,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Laesst sich gut vorbacken und portionsweise aufwaermen oder kalt genießen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf74",
@@ -14031,7 +14215,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf75",
@@ -14113,7 +14298,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Süßkartoffeln lassen sich vorbacken und griffbereit im Kühlschrank aufbewahren.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf76",
@@ -14193,7 +14379,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten frisch genießen, da Meeresfrüchte enthalten sind.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf77",
@@ -14280,7 +14467,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage im Kühlschrank.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf78",
@@ -14360,7 +14548,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen verzehren, da Meeresfrüchte enthalten sind.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf79",
@@ -14433,7 +14622,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen unterheben, dann bleiben die Nudeln knackig.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "nb1",
@@ -14507,7 +14697,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Am besten frisch mixen, schmeckt direkt am besten.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "suess"
   },
   {
     "id": "nb2",
@@ -14581,7 +14772,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "nb3",
@@ -14663,7 +14855,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "nb4",
@@ -14743,7 +14936,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Pesto separat mitnehmen und erst kurz vor dem Essen unterheben, dann bleiben die Nudeln knackig.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "nb5",
@@ -14836,7 +15030,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Gemuese und Hummus getrennt aufbewahren, haelt sich gut fuer 2 bis 3 Tage.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "nb6",
@@ -14916,7 +15111,8 @@
     "storage_category": "roh_ungekocht",
     "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage, Rucola erst kurz vorher zugeben.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "nb7",
@@ -14992,7 +15188,8 @@
     "storage_category": "pflanzlich_gegart",
     "meal_prep_notes": "Laesst sich gut portionsweise einfrieren und aufwaermen.",
     "high_protein": false,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf80",
@@ -15074,7 +15271,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf81",
@@ -15148,7 +15346,8 @@
     "storage_category": "enthaelt_fisch",
     "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf82",
@@ -15230,7 +15429,8 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Laesst sich gut portionsweise einfrieren und aufwaermen.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   },
   {
     "id": "mf83",
@@ -15323,6 +15523,7 @@
     "storage_category": "enthaelt_fleisch",
     "meal_prep_notes": "Gemuese, Hähnchen und Hummus getrennt aufbewahren, haelt sich gut fuer 2 bis 3 Tage.",
     "high_protein": true,
-    "sugar_free": true
+    "sugar_free": true,
+    "taste": "herzhaft"
   }
 ]

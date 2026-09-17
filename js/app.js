@@ -3,7 +3,7 @@
 
   // Bumped on every content/logic change so browsers can't serve a stale
   // cached copy of the JSON data files after a republish.
-  var ASSET_VERSION = "v25";
+  var ASSET_VERSION = "v26";
 
   var ENERGY_RANK = { low: 0, normal: 1, motiviert: 2 };
   var CATEGORY_ORDER = ["Gemüse & Obst", "Proteinquellen", "Getreide & Beilagen", "Kühlprodukte", "Vorrat", "Gewürze", "Sonstiges"];
@@ -19,6 +19,7 @@
     diet: null,
     restrictions: [],
     season: null,
+    taste: [],
     situation: [],
     mealTypes: [],
     maxTime: null,
@@ -153,6 +154,9 @@
         allFilled = false;
       }
     });
+    if (state.step === 2 && state.taste.length === 0) {
+      allFilled = false;
+    }
     if (state.step === 3 && state.mealTypes.length === 0) {
       allFilled = false;
     }
@@ -182,6 +186,7 @@
     state.diet = null;
     state.restrictions = [];
     state.season = null;
+    state.taste = [];
     state.situation = [];
     state.mealTypes = [];
     state.maxTime = null;
@@ -238,12 +243,18 @@
     return recipe.season.indexOf("egal") !== -1 || recipe.season.indexOf(season) !== -1;
   }
 
+  function tasteMatches(recipe, taste) {
+    if (!taste || taste.length === 0) return true;
+    return taste.indexOf(recipe.taste) !== -1;
+  }
+
   function filterCandidates(mealTypes, opts) {
     opts = opts || {};
     var maxTime = opts.maxTime !== undefined ? opts.maxTime : state.maxTime;
     var energy = opts.energy || state.energy;
     var useSituation = opts.useSituation !== false;
     var useSeason = opts.useSeason !== false;
+    var useTaste = opts.useTaste !== false;
 
     return recipes.filter(function (r) {
       if (!dietMatches(r)) return false;
@@ -253,6 +264,7 @@
       if (!energyMatches(r, energy)) return false;
       if (useSituation && !situationMatches(r, state.situation)) return false;
       if (useSeason && !seasonMatches(r, state.season)) return false;
+      if (useTaste && !tasteMatches(r, state.taste)) return false;
       return true;
     });
   }
@@ -275,24 +287,28 @@
     var candidates = usable(filterCandidates(mealTypes));
     if (candidates.length >= needed) return { candidates: candidates, loosened: false };
 
-    // 2) drop situation filter
-    candidates = usable(filterCandidates(mealTypes, { useSituation: false }));
+    // 2) drop taste filter
+    candidates = usable(filterCandidates(mealTypes, { useTaste: false }));
     if (candidates.length >= needed) return { candidates: candidates, loosened: true };
     loosened = true;
 
-    // 3) drop season filter
-    candidates = usable(filterCandidates(mealTypes, { useSituation: false, useSeason: false }));
+    // 3) drop situation filter
+    candidates = usable(filterCandidates(mealTypes, { useTaste: false, useSituation: false }));
     if (candidates.length >= needed) return { candidates: candidates, loosened: true };
 
-    // 4) raise energy tier
+    // 4) drop season filter
+    candidates = usable(filterCandidates(mealTypes, { useTaste: false, useSituation: false, useSeason: false }));
+    if (candidates.length >= needed) return { candidates: candidates, loosened: true };
+
+    // 5) raise energy tier
     for (var e = startEnergyIdx + 1; e < energyTiers.length; e++) {
-      candidates = usable(filterCandidates(mealTypes, { useSituation: false, useSeason: false, energy: energyTiers[e] }));
+      candidates = usable(filterCandidates(mealTypes, { useTaste: false, useSituation: false, useSeason: false, energy: energyTiers[e] }));
       if (candidates.length >= needed) return { candidates: candidates, loosened: true };
     }
 
-    // 5) raise time tier
+    // 6) raise time tier
     for (var t = startTimeIdx + 1; t < timeTiers.length; t++) {
-      candidates = usable(filterCandidates(mealTypes, { useSituation: false, useSeason: false, energy: energyTiers[energyTiers.length - 1], maxTime: timeTiers[t] }));
+      candidates = usable(filterCandidates(mealTypes, { useTaste: false, useSituation: false, useSeason: false, energy: energyTiers[energyTiers.length - 1], maxTime: timeTiers[t] }));
       if (candidates.length >= needed) return { candidates: candidates, loosened: true };
     }
 
