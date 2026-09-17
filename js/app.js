@@ -3,7 +3,7 @@
 
   // Bumped on every content/logic change so browsers can't serve a stale
   // cached copy of the JSON data files after a republish.
-  var ASSET_VERSION = "v24";
+  var ASSET_VERSION = "v25";
 
   var ENERGY_RANK = { low: 0, normal: 1, motiviert: 2 };
   var CATEGORY_ORDER = ["Gemüse & Obst", "Proteinquellen", "Getreide & Beilagen", "Kühlprodukte", "Vorrat", "Gewürze", "Sonstiges"];
@@ -320,30 +320,89 @@
     return 0;
   }
 
+  // Greedily picks `count` dishes from candidates, maximizing priority bonus
+  // and ingredient overlap with already-chosen dishes (for a tighter
+  // shopping list), without ever picking the same dish twice.
+  function pickBestSet(candidates, count, chosen) {
+    chosen = chosen || [];
+    var pool = candidates.slice();
+    var picked = [];
+    while (picked.length < count && pool.length > 0) {
+      var best = null, bestScore = -1, bestIdx = -1;
+      pool.forEach(function (r, i) {
+        var against = chosen.concat(picked);
+        var score = against.reduce(function (acc, s) { return acc + overlapScore(r, s); }, 0) + dishPriorityBonus(r);
+        if (score > bestScore) { bestScore = score; best = r; bestIdx = i; }
+      });
+      picked.push(best);
+      pool.splice(bestIdx, 1);
+    }
+    return picked;
+  }
+
+  // Splits `count` as evenly as possible across `groups`, e.g. 6 over 4
+  // groups becomes [2, 2, 1, 1].
+  function distributeQuota(count, groups) {
+    var base = Math.floor(count / groups);
+    var remainder = count % groups;
+    var quotas = [];
+    for (var i = 0; i < groups; i++) {
+      quotas.push(base + (i < remainder ? 1 : 0));
+    }
+    return quotas;
+  }
+
+  // Orders dishes round robin by meal type (one per requested type, then
+  // the next one per type, ...) so the shown list and the default
+  // pre-selection both reflect a mix instead of one type in a row.
+  function interleaveByMealType(dishes, mealTypesWanted) {
+    var used = [];
+    var byType = mealTypesWanted.map(function (mt) {
+      return dishes.filter(function (r) {
+        if (used.indexOf(r.id) !== -1) return false;
+        if (r.meal_type.indexOf(mt) === -1) return false;
+        used.push(r.id);
+        return true;
+      });
+    });
+    var result = [];
+    var maxLen = Math.max.apply(null, byType.map(function (b) { return b.length; }));
+    for (var i = 0; i < maxLen; i++) {
+      byType.forEach(function (b) { if (b[i]) result.push(b[i]); });
+    }
+    return result;
+  }
+
   function pickDishes(candidates, mealTypesWanted, count) {
     if (candidates.length <= count) return candidates.slice();
-    var pool = candidates.slice().sort(function (a, b) { return dishPriorityBonus(b) - dishPriorityBonus(a); });
+
+    if (mealTypesWanted.length <= 1) {
+      return pickBestSet(candidates, count);
+    }
+
+    // Fill an even quota per requested meal type first, so a type whose
+    // dishes happen to share a lot of ingredients (and so score high on
+    // overlap) can't crowd out the other requested meal types.
+    var quotas = distributeQuota(count, mealTypesWanted.length);
+    var remaining = candidates.slice();
     var selected = [];
 
-    mealTypesWanted.forEach(function (mt) {
-      if (selected.length >= count) return;
-      var idx = pool.findIndex(function (r) {
-        return r.meal_type.indexOf(mt) !== -1 && selected.indexOf(r) === -1;
+    mealTypesWanted.forEach(function (mt, i) {
+      var typePool = remaining.filter(function (r) { return r.meal_type.indexOf(mt) !== -1; });
+      var picked = pickBestSet(typePool, quotas[i], selected);
+      picked.forEach(function (r) {
+        selected.push(r);
+        remaining.splice(remaining.indexOf(r), 1);
       });
-      if (idx !== -1) selected.push(pool[idx]);
     });
 
-    while (selected.length < count) {
-      var best = null, bestScore = -1;
-      pool.forEach(function (r) {
-        if (selected.indexOf(r) !== -1) return;
-        var score = selected.reduce(function (acc, s) { return acc + overlapScore(r, s); }, 0) + dishPriorityBonus(r);
-        if (score > bestScore) { bestScore = score; best = r; }
-      });
-      if (!best) break;
-      selected.push(best);
+    // A meal type without enough matching candidates leaves the quota
+    // short; fill the rest from whatever is left over.
+    if (selected.length < count) {
+      selected = selected.concat(pickBestSet(remaining, count - selected.length, selected));
     }
-    return selected.slice(0, count);
+
+    return interleaveByMealType(selected, mealTypesWanted).slice(0, count);
   }
 
   function runGeneration(isShuffle) {
