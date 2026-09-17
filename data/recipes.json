@@ -12129,5 +12129,1139 @@
     "meal_prep_notes": "Zucchininudeln am besten erst beim Aufwaermen dazugeben, dann bleiben sie bissfest.",
     "high_protein": true,
     "sugar_free": true
+  },
+  {
+    "id": "sp1",
+    "title": "Beeren Schicht Glas mit Mandelmus",
+    "short_description": "Frühstück im Glas mit Chiapudding, pürierten Beeren und cremigem Mandelmus zum Mitnehmen.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Chiasamen",
+        "amount": 60,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 400,
+        "unit": "ml",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 200,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Himbeeren (frisch oder TK)",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Heidelbeeren",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Mandelmus",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Chiasamen mit Kokosmilch verruehren und über Nacht im Kühlschrank quellen lassen.",
+      "Himbeeren mit einer Gabel zu einem groben Mus zerdruecken.",
+      "In Gläsern schichten: zuerst Joghurt, dann Chiapudding, dann Himbeermus.",
+      "Mit Heidelbeeren und je einem Klecks Mandelmus toppen."
+    ],
+    "prep_time_min": 12,
+    "cook_time_min": 0,
+    "total_time_min": 12,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "kalt",
+    "main_protein": "Joghurt und Chiasamen",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Am besten in einzelnen verschließbaren Gläsern vorbereiten, so haelt es sich 2 bis 3 Tage.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "sp2",
+    "title": "Kokos Cashew Granola",
+    "short_description": "Knuspriges Granola aus der Pfanne mit Cashewkernen, Leinsamen und Kokosnusssplittern, verfeinert mit Rohhonig.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck",
+      "snack"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Kokosöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Haferflocken",
+        "amount": 250,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Cashewkerne",
+        "amount": 80,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Leinsamen, geschrotet",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kokosnusssplitter",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Rohhonig",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Kokosöl in einer Pfanne erhitzen.",
+      "Haferflocken, Cashewkerne, Leinsamen und Kokosnusssplitter dazugeben.",
+      "Unter staendigem Wenden kurz anbraten, bis es angenehm duftet und leicht goldbraun ist.",
+      "Vom Herd nehmen, Rohhonig unterruehren und vollstaendig auskuehlen lassen, dabei wird es knusprig."
+    ],
+    "prep_time_min": 5,
+    "cook_time_min": 8,
+    "total_time_min": 13,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Cashewkerne",
+    "storage_category": "geroestet_trocken",
+    "meal_prep_notes": "Luftdicht verpackt mehrere Tage knusprig, ideal als Topping für Joghurt oder Bowls.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "sp3",
+    "title": "Apfel Zimt Bowl mit knusprigem Granola",
+    "short_description": "Waermende Apfelwuerfel mit Ceylonzimt, cremigem Joghurt und knusprigem Granola.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Äpfel",
+        "amount": 3,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ceylonzimt",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 400,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Haferflocken, geroestet",
+        "amount": 80,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Äpfel wuerfeln und für 1 bis 2 Minuten in der Mikrowelle oder kurz im Topf mit etwas Wasser weich duensten.",
+      "Mit Ceylonzimt vermengen.",
+      "Joghurt in Schalen verteilen und mit den Zimtäpfeln toppen.",
+      "Mit gerösteten Haferflocken und Kürbiskernen bestreuen."
+    ],
+    "prep_time_min": 8,
+    "cook_time_min": 2,
+    "total_time_min": 10,
+    "servings": 4,
+    "season": [
+      "herbst"
+    ],
+    "min_energy": "low",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Joghurt",
+    "storage_category": "milchprodukt_frisch",
+    "meal_prep_notes": "Äpfel und Topping getrennt vorbereiten und erst kurz vor dem Essen zusammenstellen.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "sp4",
+    "title": "Gemuese Pesto Omelett mit Oliven",
+    "short_description": "Herzhaftes Omelett mit Pilzen, gruenem Spargel, Pesto und Oliven statt Kapern.",
+    "image": null,
+    "meal_type": [
+      "fruehstueck",
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Champignons",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "grüner Spargel",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Eier",
+        "amount": 8,
+        "unit": "Stück",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "grüne Oliven",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Pesto",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Feta",
+        "amount": 80,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      }
+    ],
+    "instructions": [
+      "Champignons in Scheiben schneiden, die zaehen Enden vom Spargel entfernen.",
+      "Beides in etwas Öl anbraten und beiseite stellen.",
+      "Eier verquirlen und in einer Pfanne stocken lassen.",
+      "Pesto auf einer Haelfte verteilen, mit Gemuese, Oliven und Feta belegen, Omelett zusammenklappen."
+    ],
+    "prep_time_min": 12,
+    "cook_time_min": 10,
+    "total_time_min": 22,
+    "servings": 4,
+    "season": [
+      "fruehling"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Ei und Feta",
+    "storage_category": "enthaelt_ei",
+    "meal_prep_notes": "Am besten frisch aus der Pfanne genießen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "sp5",
+    "title": "Champignon Kichererbsen Bratlinge",
+    "short_description": "Herzhafte Bratlinge aus Champignons, Kichererbsen und Sonnenblumenkernen, ideal fuer Bowls und Salate.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Champignons",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zwiebeln",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kichererbsen (Dose)",
+        "amount": 1,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "frischer Koriander",
+        "amount": 1,
+        "unit": "Bund",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Haferflocken",
+        "amount": 60,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Sonnenblumenkerne",
+        "amount": 50,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kurkuma",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 180 Grad vorheizen.",
+      "Pilze und Zwiebel wuerfeln und ohne Öl weich duensten, abkuehlen lassen.",
+      "Mit Kichererbsen, Koriander, Haferflocken, Sonnenblumenkernen und Kurkuma pürieren, einige Stuecke duerfen bleiben.",
+      "Runde Taler formen und ca. 20 bis 25 Minuten im Ofen backen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 22,
+    "total_time_min": 37,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch als Burger Patty geeignet.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "sp6",
+    "title": "Lachs Pesto Nudeln mit Kirschtomaten",
+    "short_description": "Vollkornnudeln mit Pesto, gebratenem Lachs und frischen Kirschtomaten.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "laktose",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Lachsfilet",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Vollkornnudeln",
+        "amount": 300,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Pesto",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Pinienkerne",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Nudeln nach Packungsanweisung kochen.",
+      "Lachsfilet in Öl von beiden Seiten braten, bis es gar ist.",
+      "Nudeln mit Pesto und halbierten Kirschtomaten vermengen.",
+      "Mit dem Lachs und Pinienkernen anrichten."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "fruehling",
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Lachs",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage, schmeckt auch kalt.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "sp7",
+    "title": "Lachsfilet auf Rotkohl mit Karottensalat",
+    "short_description": "Gebratenes Lachsfilet auf frischem Rotkohl mit spiralisierter Karotte.",
+    "image": null,
+    "meal_type": [
+      "abendessen"
+    ],
+    "diet_type": "flexibel",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Lachsfilet",
+        "amount": 500,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Karotten",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Rotkohl fein raspeln, Karotten spiralisieren oder in duenne Streifen schneiden.",
+      "Beides mit Olivenöl und etwas Zitronensaft vermengen.",
+      "Lachsfilet in Öl von beiden Seiten braten, bis es gar ist.",
+      "Auf dem Rotkohl Karotten Salat anrichten."
+    ],
+    "prep_time_min": 12,
+    "cook_time_min": 10,
+    "total_time_min": 22,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": false,
+    "budget_friendly": false,
+    "warm_or_cold": "warm",
+    "main_protein": "Lachs",
+    "storage_category": "enthaelt_fisch",
+    "meal_prep_notes": "Am besten innerhalb von 1 bis 2 Tagen verzehren, da Fisch enthalten ist.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "sp8",
+    "title": "Wuerzige Blumenkohl Ecken mit Guacamole",
+    "short_description": "Knusprig gebackene Blumenkohl Ecken in Kokospanade, dazu cremige Guacamole.",
+    "image": null,
+    "meal_type": [
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Blumenkohl",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kokosflocken",
+        "amount": 60,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Haferflocken",
+        "amount": 30,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Leinsamen, geschrotet",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Paprikapulver",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Gewürze"
+      },
+      {
+        "name": "Avocado",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 180 Grad vorheizen. Leinsamen mit etwas Wasser verruehren und quellen lassen.",
+      "Haferflocken fein mahlen und mit dem Leinsamen Ei vermischen.",
+      "Blumenkohl in Röschen teilen, in der Masse und danach in den Kokosflocken mit Paprikapulver waelzen.",
+      "Auf einem Backblech verteilen und 25 bis 30 Minuten backen. Avocado zu Guacamole zerdruecken und dazu servieren."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 28,
+    "total_time_min": 43,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Blumenkohl",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Am besten frisch aus dem Ofen genießen, schmeckt aber auch am Folgetag noch gut.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "sp9",
+    "title": "Herzhafte Gruenkohl Quiche mit Feta",
+    "short_description": "Quiche mit einem Boden aus Mandeln und Hafer, gefuellt mit Gruenkohl und Feta.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Mandeln",
+        "amount": 100,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Haferflocken",
+        "amount": 50,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Grünkohl",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Knoblauchzehen",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Feta",
+        "amount": 100,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Kirschtomaten",
+        "amount": 100,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 180 Grad vorheizen.",
+      "Mandeln und Haferflocken im Mixer fein mahlen und in eine gefettete Form druecken, ca. 10 Minuten backen.",
+      "Grünkohl und Knoblauch klein schneiden und kurz anduensten, abkuehlen lassen.",
+      "Mit den verquirlten Eiern vermengen, auf den Boden geben, mit Feta und halbierten Tomaten belegen und 30 Minuten backen."
+    ],
+    "prep_time_min": 20,
+    "cook_time_min": 40,
+    "total_time_min": 60,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "motiviert",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": true,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Ei und Feta",
+    "storage_category": "enthaelt_ei",
+    "meal_prep_notes": "Laesst sich gut vorbacken und portionsweise aufwaermen oder kalt genießen.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "sp10",
+    "title": "Asiatische Tofu Gemuesebowl mit Sonnenblumenkernsauce",
+    "short_description": "Bunte Bowl mit gebratenem Tofu, Gemuese und einer cremigen Sonnenblumenkernsauce.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "ingredients": [
+      {
+        "name": "Tofu (fest)",
+        "amount": 400,
+        "unit": "g",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 1,
+        "unit": "Kopf",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Sojasprossen",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Rotkohl",
+        "amount": 150,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Sonnenblumenkernmus",
+        "amount": 4,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Sojasauce (glutenfrei)",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Limette",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Tofu wuerfeln und in Öl knusprig anbraten.",
+      "Brokkoli kurz gar duensten.",
+      "Sonnenblumenkernmus mit Sojasauce, Limettensaft und etwas Wasser zu einer Sauce verruehren.",
+      "Tofu, Brokkoli, Sojasprossen und Rotkohl in Schalen anrichten und mit der Sauce beträufeln."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "total_time_min": 25,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "beides",
+    "main_protein": "Tofu",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "sp11",
+    "title": "Gruenkohl Ananas Salat mit Kuerbiskernen",
+    "short_description": "Knackiger Gruenkohl Salat mit gebratener Ananas und gerösteten Kuerbiskernen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Grünkohl",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Ananas",
+        "amount": 300,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Karotten",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kürbiskerne",
+        "amount": 40,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 1,
+        "unit": "TL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Grünkohl von den Stielen befreien, in Streifen schneiden und kurz mit den Haenden durchkneten.",
+      "Ananas in Scheiben schneiden und in einer Pfanne kurz scharf anbraten.",
+      "Karotten raspeln und mit Grünkohl vermengen.",
+      "Mit Olivenöl und Ahornsirup anmachen, mit Ananas und Kürbiskernen toppen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 6,
+    "total_time_min": 21,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "beides",
+    "main_protein": "Kürbiskerne",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage, Ananas erst kurz vorher zugeben.",
+    "high_protein": false,
+    "sugar_free": true
+  },
+  {
+    "id": "sp12",
+    "title": "Gefuellte Ofen Suesskartoffel mit Tahini",
+    "short_description": "Ofen Suesskartoffel gefuellt mit Kichererbsen, Rucola und einer Tahini Limetten Sauce.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Süßkartoffel",
+        "amount": 4,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kichererbsen (Dose)",
+        "amount": 2,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Rucola",
+        "amount": 100,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Sonnenblumenkerne",
+        "amount": 30,
+        "unit": "g",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Tahin",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Limette",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      }
+    ],
+    "instructions": [
+      "Ofen auf 200 Grad vorheizen. Süßkartoffeln waschen, mit einer Gabel einstechen und ca. 45 bis 50 Minuten backen.",
+      "Kichererbsen abtropfen lassen und kurz anbraten.",
+      "Tahin mit Limettensaft und etwas Wasser zu einer Sauce verruehren.",
+      "Süßkartoffeln aufschneiden und mit Kichererbsen, Rucola, Sonnenblumenkernen und der Sauce fuellen."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 48,
+    "total_time_min": 58,
+    "servings": 4,
+    "season": [
+      "herbst",
+      "winter"
+    ],
+    "min_energy": "normal",
+    "work_friendly": false,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "warm",
+    "main_protein": "Kichererbsen",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Süßkartoffeln lassen sich vorbacken und griffbereit im Kühlschrank aufbewahren.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "sp13",
+    "title": "Quinoa Grapefruit Salat mit Kichererbsen",
+    "short_description": "Erfrischender Quinoa Salat mit Grapefruit, Feta und knackigen Kichererbsen.",
+    "image": null,
+    "meal_type": [
+      "mittagessen"
+    ],
+    "diet_type": "vegetarisch",
+    "free_of": [
+      "gluten",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "amount": 150,
+        "unit": "g",
+        "category": "Getreide & Beilagen"
+      },
+      {
+        "name": "Feta",
+        "amount": 80,
+        "unit": "g",
+        "category": "Kühlprodukte"
+      },
+      {
+        "name": "Grapefruit",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Kichererbsen (Dose)",
+        "amount": 1,
+        "unit": "Dose",
+        "category": "Proteinquellen"
+      },
+      {
+        "name": "Rucola",
+        "amount": 60,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Quinoa nach Packungsanweisung kochen und abkuehlen lassen.",
+      "Kichererbsen abtropfen lassen und in einer Pfanne knusprig anbraten.",
+      "Grapefruit filetieren, Gurke wuerfeln, Feta zerbroeckeln.",
+      "Alles mit Rucola und Olivenöl vermengen und mit den Kichererbsen toppen."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "total_time_min": 30,
+    "servings": 4,
+    "season": [
+      "sommer"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": false,
+    "warm_or_cold": "kalt",
+    "main_protein": "Kichererbsen und Feta",
+    "storage_category": "pflanzlich_gegart",
+    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage, Rucola erst kurz vorher zugeben.",
+    "high_protein": true,
+    "sugar_free": true
+  },
+  {
+    "id": "sp14",
+    "title": "Bunter Rohkost Salat mit Sesam Dressing",
+    "short_description": "Knackiger Krautsalat mit buntem Gemuese und einem cremigen Sesam Dressing statt Erdnuss.",
+    "image": null,
+    "meal_type": [
+      "mittagessen",
+      "snack"
+    ],
+    "diet_type": "vegan",
+    "free_of": [
+      "gluten",
+      "laktose",
+      "nuesse",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Rotkohl",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Weißkohl",
+        "amount": 200,
+        "unit": "g",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Karotten",
+        "amount": 2,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Paprika",
+        "amount": 1,
+        "unit": "Stück",
+        "category": "Gemüse & Obst"
+      },
+      {
+        "name": "Tahin",
+        "amount": 3,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Apfelessig",
+        "amount": 2,
+        "unit": "EL",
+        "category": "Vorrat"
+      },
+      {
+        "name": "Sesam",
+        "amount": 1,
+        "unit": "EL",
+        "category": "Vorrat"
+      }
+    ],
+    "instructions": [
+      "Rotkohl, Weißkohl und Paprika in duenne Streifen schneiden, Karotten raspeln.",
+      "Alles in eine große Schuessel geben.",
+      "Tahin mit Apfelessig und etwas Wasser zu einem Dressing verruehren.",
+      "Über den Salat geben, vermengen und mit Sesam bestreuen."
+    ],
+    "prep_time_min": 18,
+    "cook_time_min": 0,
+    "total_time_min": 18,
+    "servings": 4,
+    "season": [
+      "egal"
+    ],
+    "min_energy": "normal",
+    "work_friendly": true,
+    "family_friendly": true,
+    "kid_friendly": true,
+    "freezer_friendly": false,
+    "no_reheat_needed": true,
+    "budget_friendly": true,
+    "warm_or_cold": "kalt",
+    "main_protein": "Tahin",
+    "storage_category": "roh_ungekocht",
+    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
+    "high_protein": false,
+    "sugar_free": true
   }
 ]
