@@ -60,7 +60,7 @@
     ],
     "instructions": [
       "Chiasamen, Kokosmilch, Ahornsirup und Vanille in einer großen Schüssel verrühren.",
-      "Mindestens 4 Stunden oder über Nacht im Kühlschrank quellen lassen, zwischendurch einmal umrühren.",
+      "Mindestens 4 Stunden oder über Nacht im Kühlschrank qüllen lassen, zwischendurch einmal umrühren.",
       "Vor dem Servieren auf Gläser verteilen.",
       "Mit Beeren, Kürbiskernen und Hanfsamen toppen."
     ],
@@ -405,8 +405,8 @@
     ],
     "instructions": [
       "Haferflocken, Hafermilch, Rohkakaopulver, Mandelmus und Ahornsirup verrühren.",
-      "In Gläser füllen und über Nacht im Kühlschrank quellen lassen.",
-      "Vor dem Servieren mit gehackten Walnüssen und Hanfsamen bestreuen."
+      "In Gläser füllen und über Nacht im Kühlschrank qüllen lassen.",
+      "Vor dem Servieren mit gehackten Walnüssen und Hanfsamen bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 0,
@@ -602,7 +602,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Lässt sich hervorragend in Portionsboxen einfrieren. Einfach über Nacht auftauen und aufwärmen.",
+    "meal_prep_notes": "Lässt sich hervorragend in Portionsboxen einfrieren. Einfach über Nacht auftaün und aufwärmen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -1373,7 +1373,7 @@
       "Zwiebel anschwitzen, Hack anbraten, mit Kräutern würzen.",
       "Jeweils etwas Hackfleisch auf einen Zucchinistreifen geben und aufrollen.",
       "Röllchen in eine Auflaufform setzen, mit passierten Tomaten übergießen.",
-      "Mit Parmesan bestreuen und ca. 20 Minuten bei 200°C backen."
+      "Mit Parmesan bestreün und ca. 20 Minuten bei 200°C backen."
     ],
     "prep_time_min": 20,
     "cook_time_min": 20,
@@ -1460,7 +1460,7 @@
     "instructions": [
       "Zwiebel andünsten, Karotten in Scheiben dazugeben.",
       "Tomaten, Kichererbsen, Aprikosen und Gewürze hinzufügen, ca. 20 Minuten köcheln lassen.",
-      "Couscous parallel mit heißem Wasser aufgießen und quellen lassen.",
+      "Couscous parallel mit heißem Wasser aufgießen und qüllen lassen.",
       "Eintopf über dem Couscous servieren."
     ],
     "prep_time_min": 10,
@@ -1549,7 +1549,7 @@
       "Tofu würfeln, in einer Pfanne knusprig anbraten.",
       "Brokkoli Röschen dazugeben, kurz mitbraten.",
       "Sojasauce, Sesamöl und geriebenen Ingwer dazugeben, gut vermengen.",
-      "Mit Sesam bestreuen und auf dem Reis servieren."
+      "Mit Sesam bestreün und auf dem Reis servieren."
     ],
     "prep_time_min": 10,
     "cook_time_min": 20,
@@ -2491,7 +2491,7 @@
       "Reis nach Packungsanweisung kochen.",
       "Tofu würfeln und in einer Pfanne knusprig anbraten.",
       "Spargel in Stücken dazugeben, kurz mitbraten.",
-      "Mit Sojasauce und Sesamöl ablöschen, mit Sesam bestreuen."
+      "Mit Sojasauce und Sesamöl ablöschen, mit Sesam bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 15,
@@ -2728,7 +2728,7 @@
     ],
     "instructions": [
       "Chiasamen mit Hafermilch und Ahornsirup verrühren.",
-      "Mindestens 4 Stunden im Kühlschrank quellen lassen.",
+      "Mindestens 4 Stunden im Kühlschrank qüllen lassen.",
       "Erdbeeren pürieren und unterrühren oder als Topping verwenden.",
       "Mit Hanfsamen und fein geschnittenem Basilikum garnieren."
     ],
@@ -2988,7 +2988,7 @@
   {
     "id": "fr4",
     "title": "Rhabarber Chia Kompott mit Joghurt",
-    "short_description": "Leicht säuerliches Rhabarberkompott auf cremigem Joghurt. Der Frühlingsklassiker zum Frühstück.",
+    "short_description": "Leicht säürliches Rhabarberkompott auf cremigem Joghurt. Der Frühlingsklassiker zum Frühstück.",
     "image": null,
     "meal_type": [
       "fruehstueck",
@@ -3419,7 +3419,7 @@
       "Nudeln kochen, abkühlen lassen.",
       "Tomaten halbieren.",
       "Nudeln mit Pesto, Tomaten und Rucola vermengen.",
-      "Mit Pinienkernen bestreuen."
+      "Mit Pinienkernen bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 10,
@@ -3572,9 +3572,9 @@
     ],
     "instructions": [
       "Chiasamen mit Kokosmilch und Ahornsirup verrühren.",
-      "Mindestens 4 Stunden im Kühlschrank quellen lassen.",
+      "Mindestens 4 Stunden im Kühlschrank qüllen lassen.",
       "Pfirsiche würfeln und untermengen oder als Topping verwenden.",
-      "Mit Hanfsamen bestreuen."
+      "Mit Hanfsamen bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 0,
@@ -3836,7 +3836,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Kichererbsen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Falafel getrennt von den Wraps lagern und erst kurz vor dem Essen zusammenbauen.",
+    "meal_prep_notes": "Falafel getrennt von den Wraps lagern und erst kurz vor dem Essen zusammenbaün.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -3963,7 +3963,7 @@
     ],
     "instructions": [
       "Ofen auf 200°C vorheizen.",
-      "Edamame auftauen lassen, trocken tupfen.",
+      "Edamame auftaün lassen, trocken tupfen.",
       "Mit Öl und Gewürzen vermengen, auf einem Blech verteilen.",
       "Ca. 20 Minuten rösten, bis sie leicht knusprig sind."
     ],
@@ -3991,8 +3991,8 @@
   },
   {
     "id": "hw1",
-    "title": "Ofen Kuerbissuppe mit gerösteten Kernen",
-    "short_description": "Cremige Kuerbissuppe aus dem Ofen mit knusprig gerösteten Kuerbiskernen.",
+    "title": "Ofen Kürbissuppe mit gerösteten Kernen",
+    "short_description": "Cremige Kürbissuppe aus dem Ofen mit knusprig gerösteten Kürbiskernen.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -4076,7 +4076,7 @@
   {
     "id": "hw2",
     "title": "Herzhafter Linseneintopf mit Wurzelgemüse",
-    "short_description": "Waermender Eintopf mit Linsen, Karotten und Pastinaken. Ein echtes Wohlfühlgericht.",
+    "short_description": "Wärmender Eintopf mit Linsen, Karotten und Pastinaken. Ein echtes Wohlfühlgericht.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -4158,8 +4158,8 @@
   },
   {
     "id": "hw3",
-    "title": "Geschmorte Rotkohl Haehnchen Pfanne",
-    "short_description": "Zartes Hähnchen mit süß säuerlichem Rotkohl aus einer Pfanne.",
+    "title": "Geschmorte Rotkohl Hähnchen Pfanne",
+    "short_description": "Zartes Hähnchen mit süß säürlichem Rotkohl aus einer Pfanne.",
     "image": null,
     "meal_type": [
       "abendessen"
@@ -4316,7 +4316,7 @@
   },
   {
     "id": "hw5",
-    "title": "Warme Kuerbis Kichererbsen Bowl mit Tahini",
+    "title": "Warme Kürbis Kichererbsen Bowl mit Tahini",
     "short_description": "Sättigende Bowl mit Ofenkürbis, Kichererbsen und cremigem Tahini Dressing.",
     "image": null,
     "meal_type": [
@@ -4453,7 +4453,7 @@
       "Zwiebel und Knoblauch andünsten, Pilze dazugeben und anbraten.",
       "Mit etwas Gemüsebrühe ablöschen, kurz köcheln lassen.",
       "Polenta parallel nach Packungsanweisung mit Gemüsebrühe zubereiten.",
-      "Ragout auf der Polenta anrichten, mit Petersilie bestreuen."
+      "Ragout auf der Polenta anrichten, mit Petersilie bestreün."
     ],
     "prep_time_min": 15,
     "cook_time_min": 20,
@@ -4480,7 +4480,7 @@
   },
   {
     "id": "hw7",
-    "title": "Gewuerzter Apfel Porridge mit Skyr und Walnuessen",
+    "title": "Gewürzter Apfel Porridge mit Skyr und Walnüssen",
     "short_description": "Warmes Porridge mit Zimtapfel, cremigem Skyr und knackigen Walnüssen.",
     "image": null,
     "meal_type": [
@@ -4533,7 +4533,7 @@
       "Äpfel würfeln und mit Ceylonzimt in einem Topf kurz andünsten.",
       "Haferflocken mit Hafermilch aufkochen und ca. 5 Minuten köcheln lassen.",
       "Porridge auf Schalen verteilen, mit einem Klecks Skyr toppen.",
-      "Mit Zimtapfel und Walnüssen bestreuen."
+      "Mit Zimtapfel und Walnüssen bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 10,
@@ -4560,7 +4560,7 @@
   },
   {
     "id": "hw8",
-    "title": "Herzhafte Kuerbis Linsensuppe",
+    "title": "Herzhafte Kürbis Linsensuppe",
     "short_description": "Sämige Suppe aus Kürbis und roten Linsen mit warmen Gewürzen.",
     "image": null,
     "meal_type": [
@@ -4851,7 +4851,7 @@
       "Ofen auf 200°C vorheizen.",
       "Kartoffeln in dünne Scheiben schneiden, Wirsing grob schneiden, Zwiebel würfeln.",
       "Alles in eine Auflaufform schichten, mit Joghurt und Muskat vermengt übergießen.",
-      "Mit Gouda bestreuen und ca. 35 Minuten backen."
+      "Mit Gouda bestreün und ca. 35 Minuten backen."
     ],
     "prep_time_min": 20,
     "cook_time_min": 35,
@@ -4877,7 +4877,7 @@
   },
   {
     "id": "h4",
-    "title": "Apfel Zimt Energiebaellchen",
+    "title": "Apfel Zimt Energiebällchen",
     "short_description": "Fruchtige Energiebällchen mit Apfel, Ceylonzimt und Hanfsamen für extra Protein.",
     "image": null,
     "meal_type": [
@@ -4950,7 +4950,7 @@
   },
   {
     "id": "w1",
-    "title": "Herzhafter Gruenkohl Linseneintopf",
+    "title": "Herzhafter Grünkohl Linseneintopf",
     "short_description": "Wärmender Eintopf mit Grünkohl, Linsen und geräuchertem Paprikapulver.",
     "image": null,
     "meal_type": [
@@ -5316,7 +5316,7 @@
     ],
     "instructions": [
       "Birnen würfeln und mit Ceylonzimt in einem Topf andünsten.",
-      "Hafermilch aufkochen, Grieß einrühren und quellen lassen.",
+      "Hafermilch aufkochen, Grieß einrühren und qüllen lassen.",
       "Grießbrei auf Schalen verteilen, mit Skyr toppen.",
       "Mit Zimtbirnen und Ahornsirup servieren."
     ],
@@ -5344,7 +5344,7 @@
   },
   {
     "id": "w6",
-    "title": "Ofen Wurzelgemuese mit Rosmarin und Feta",
+    "title": "Ofen Wurzelgemüse mit Rosmarin und Feta",
     "short_description": "Bunt geröstetes Wurzelgemüse mit Rosmarin und cremigem Feta.",
     "image": null,
     "meal_type": [
@@ -5579,7 +5579,7 @@
   },
   {
     "id": "mf1",
-    "title": "Ruehrei mit Raeucherlachs und Schnittlauch",
+    "title": "Rührei mit Räucherlachs und Schnittlauch",
     "short_description": "Cremiges Rührei mit zartem Räucherlachs und frischem Schnittlauch, reich an Protein.",
     "image": null,
     "meal_type": [
@@ -5627,7 +5627,7 @@
       "Eier verquirlen, mit Salz und Pfeffer würzen.",
       "Butter in einer Pfanne erhitzen, Eier bei geringer Hitze langsam stocken lassen.",
       "Räucherlachs in Streifen schneiden und unterheben.",
-      "Mit Schnittlauch bestreuen und servieren."
+      "Mit Schnittlauch bestreün und servieren."
     ],
     "prep_time_min": 10,
     "cook_time_min": 10,
@@ -5653,7 +5653,7 @@
   },
   {
     "id": "mf2",
-    "title": "Herzhafte Fruehstuecksbox mit Haehnchen und Ei",
+    "title": "Herzhafte Frühstücksbox mit Hähnchen und Ei",
     "short_description": "Proteinreiche Frühstücksbox mit gebratener Hähnchenbrust, hart gekochtem Ei und frischem Gemüse.",
     "image": null,
     "meal_type": [
@@ -5728,7 +5728,7 @@
   },
   {
     "id": "mf3",
-    "title": "Omelett mit Haehnchen und Feta",
+    "title": "Omelett mit Hähnchen und Feta",
     "short_description": "Herzhaftes Omelett gefüllt mit zartem Hähnchen und cremigem Feta.",
     "image": null,
     "meal_type": [
@@ -5802,7 +5802,7 @@
   },
   {
     "id": "mf4",
-    "title": "Haehnchen Wraps zum Mitnehmen",
+    "title": "Hähnchen Wraps zum Mitnehmen",
     "short_description": "Handliche Wraps mit gebratenem Hähnchen, Salat und cremigem Joghurt Dressing.",
     "image": null,
     "meal_type": [
@@ -5883,7 +5883,7 @@
   },
   {
     "id": "mf5",
-    "title": "Thunfisch Dip mit Gemuesesticks",
+    "title": "Thunfisch Dip mit Gemüsesticks",
     "short_description": "Cremiger Thunfisch Dip mit Frischkäse, dazu knackige Gemüsesticks zum Dippen.",
     "image": null,
     "meal_type": [
@@ -5957,7 +5957,7 @@
   },
   {
     "id": "mf6",
-    "title": "Haehnchenbrust Roellchen mit Frischkaese",
+    "title": "Hähnchenbrust Röllchen mit Frischkäse",
     "short_description": "Schnelle Röllchen aus dünn geschnittener Hähnchenbrust, gefüllt mit Frischkäse und frischem Schnittlauch.",
     "image": null,
     "meal_type": [
@@ -6185,7 +6185,7 @@
   },
   {
     "id": "mf9",
-    "title": "Haehnchen Gemuese Spiesse vom Grill",
+    "title": "Hähnchen Gemüse Spiesse vom Grill",
     "short_description": "Bunte Spieße mit mariniertem Hähnchen und sommerlichem Gemüse.",
     "image": null,
     "meal_type": [
@@ -6341,7 +6341,7 @@
   },
   {
     "id": "mf11",
-    "title": "Haehnchengeschnetzeltes mit Pilzen",
+    "title": "Hähnchengeschnetzeltes mit Pilzen",
     "short_description": "Zartes Hähnchengeschnetzeltes in cremiger Sauce mit braunen Champignons.",
     "image": null,
     "meal_type": [
@@ -6497,7 +6497,7 @@
   },
   {
     "id": "mf13",
-    "title": "Haehnchen Fruehlingsbowl mit Erbsen und Spargel",
+    "title": "Hähnchen Frühlingsbowl mit Erbsen und Spargel",
     "short_description": "Leichte Frühlingsbowl mit zartem Hähnchen, jungen Erbsen und grünem Spargel.",
     "image": null,
     "meal_type": [
@@ -6822,7 +6822,7 @@
   },
   {
     "id": "mf17",
-    "title": "Raeucherlachs Avocado Bowl",
+    "title": "Räucherlachs Avocado Bowl",
     "short_description": "Frische Bowl mit Räucherlachs, cremiger Avocado und knackigem Gemüse, ganz ohne Kochen.",
     "image": null,
     "meal_type": [
@@ -6903,7 +6903,7 @@
   },
   {
     "id": "mf18",
-    "title": "Schnelle Haehnchen Pfanne mit Zucchini",
+    "title": "Schnelle Hähnchen Pfanne mit Zucchini",
     "short_description": "Zackige Hähnchenpfanne mit Zucchini und Cherrytomaten aus nur einer Pfanne.",
     "image": null,
     "meal_type": [
@@ -7034,7 +7034,7 @@
       "Knoblauch in Öl kurz andünsten.",
       "Garnelen dazugeben und 3 bis 4 Minuten braten.",
       "Mit Zitronensaft ablöschen.",
-      "Mit Petersilie bestreuen."
+      "Mit Petersilie bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 8,
@@ -7134,8 +7134,8 @@
   },
   {
     "id": "mf21",
-    "title": "Lachs Fruehstuecksbowl mit Avocado und Ei",
-    "short_description": "Frische Bowl mit Raeucherlachs, Avocado und weich gekochtem Ei fuer einen proteinreichen Start in den Tag.",
+    "title": "Lachs Frühstücksbowl mit Avocado und Ei",
+    "short_description": "Frische Bowl mit Räucherlachs, Avocado und weich gekochtem Ei für einen proteinreichen Start in den Tag.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -7149,7 +7149,7 @@
     ],
     "ingredients": [
       {
-        "name": "Raeucherlachs",
+        "name": "Räucherlachs",
         "amount": 200,
         "unit": "g",
         "category": "Proteinquellen"
@@ -7187,9 +7187,9 @@
     ],
     "instructions": [
       "Eier ca. 7 Minuten kochen, abschrecken und pellen.",
-      "Avocado und Tomaten wuerfeln, Radieschen in Scheiben schneiden.",
-      "Alles in Schuesseln anrichten und mit Raeucherlachs toppen.",
-      "Mit Zitronensaft betraeufeln."
+      "Avocado und Tomaten würfeln, Radieschen in Scheiben schneiden.",
+      "Alles in Schüsseln anrichten und mit Räucherlachs toppen.",
+      "Mit Zitronensaft beträufeln."
     ],
     "prep_time_min": 15,
     "cook_time_min": 7,
@@ -7209,15 +7209,15 @@
     "warm_or_cold": "kalt",
     "main_protein": "Lachs und Ei",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Ei am besten frisch am Vorbereitungstag kochen, dann laesst sich die Bowl gut fuer 2 Tage vorbereiten.",
+    "meal_prep_notes": "Ei am besten frisch am Vorbereitungstag kochen, dann lässt sich die Bowl gut für 2 Tage vorbereiten.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf22",
-    "title": "Thunfisch Fruehstueckssalat mit Ei und Rucola",
-    "short_description": "Herzhafter Fruehstueckssalat mit Thunfisch, Ei und Rucola, schnell gemacht und gut sättigend.",
+    "title": "Thunfisch Frühstückssalat mit Ei und Rucola",
+    "short_description": "Herzhafter Frühstückssalat mit Thunfisch, Ei und Rucola, schnell gemacht und gut sättigend.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -7270,7 +7270,7 @@
     "instructions": [
       "Eier hart kochen, abschrecken, pellen und vierteln.",
       "Thunfisch abtropfen lassen.",
-      "Rucola und Tomaten in Schuesseln verteilen.",
+      "Rucola und Tomaten in Schüsseln verteilen.",
       "Mit Thunfisch und Ei toppen, mit Olivenöl und Zitronensaft abschmecken."
     ],
     "prep_time_min": 12,
@@ -7291,15 +7291,15 @@
     "warm_or_cold": "kalt",
     "main_protein": "Thunfisch und Ei",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Kann gut fuer 2 Tage im Voraus vorbereitet werden, Rucola erst kurz vorher zugeben.",
+    "meal_prep_notes": "Kann gut für 2 Tage im Voraus vorbereitet werden, Rucola erst kurz vorher zugeben.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf23",
-    "title": "Haehnchen Fruehstuecksspiesse mit Paprika",
-    "short_description": "Herzhafte Haehnchenspiesse mit buntem Paprika, schnell in der Pfanne gebraten.",
+    "title": "Hähnchen Frühstücksspiesse mit Paprika",
+    "short_description": "Herzhafte Hähnchenspiesse mit buntem Paprika, schnell in der Pfanne gebraten.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -7344,9 +7344,9 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust und Paprika in Wuerfel schneiden.",
+      "Hähnchenbrust und Paprika in Würfel schneiden.",
       "Abwechselnd mit Zwiebel auf Spiesse stecken.",
-      "Mit Paprikapulver wuerzen.",
+      "Mit Paprikapulver würzen.",
       "In einer Pfanne mit Öl rundum braten, bis das Hähnchen durch ist."
     ],
     "prep_time_min": 12,
@@ -7367,15 +7367,15 @@
     "warm_or_cold": "warm",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Auch kalt als herzhaftes Fruehstueck lecker, ideal fuer den Grill in der Saison.",
+    "meal_prep_notes": "Auch kalt als herzhaftes Frühstück lecker, ideal für den Grill in der Saison.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf24",
-    "title": "Garnelen Ruehrei mit Petersilie",
-    "short_description": "Cremiges Ruehrei mit Garnelen und frischer Petersilie, in wenigen Minuten fertig.",
+    "title": "Garnelen Rührei mit Petersilie",
+    "short_description": "Cremiges Rührei mit Garnelen und frischer Petersilie, in wenigen Minuten fertig.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -7415,8 +7415,8 @@
     "instructions": [
       "Garnelen in Butter kurz anbraten.",
       "Eier verquirlen und dazugeben.",
-      "Unter Ruehren stocken lassen.",
-      "Mit Petersilie bestreuen."
+      "Unter Rühren stocken lassen.",
+      "Mit Petersilie bestreün."
     ],
     "prep_time_min": 8,
     "cook_time_min": 8,
@@ -7435,15 +7435,15 @@
     "warm_or_cold": "warm",
     "main_protein": "Garnelen und Ei",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Am besten frisch zubereiten, laesst sich aber auch am Folgetag kurz aufwaermen.",
+    "meal_prep_notes": "Am besten frisch zubereiten, lässt sich aber auch am Folgetag kurz aufwärmen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf25",
-    "title": "Raeucherlachs Roellchen zum Fruehstueck",
-    "short_description": "Raeucherlachs Roellchen gefuellt mit Frischkaese und Gurke, ideal zum Mitnehmen.",
+    "title": "Räucherlachs Röllchen zum Frühstück",
+    "short_description": "Räucherlachs Röllchen gefüllt mit Frischkäse und Gurke, ideal zum Mitnehmen.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -7456,7 +7456,7 @@
     ],
     "ingredients": [
       {
-        "name": "Raeucherlachs",
+        "name": "Räucherlachs",
         "amount": 300,
         "unit": "g",
         "category": "Proteinquellen"
@@ -7481,8 +7481,8 @@
       }
     ],
     "instructions": [
-      "Gurke in duenne Streifen schneiden.",
-      "Frischkäse mit gehacktem Dill verruehren.",
+      "Gurke in dünne Streifen schneiden.",
+      "Frischkäse mit gehacktem Dill verrühren.",
       "Lachsscheiben mit Frischkäse bestreichen und Gurke einlegen.",
       "Aufrollen und kalt stellen."
     ],
@@ -7510,7 +7510,7 @@
   },
   {
     "id": "mf26",
-    "title": "Kabeljau Fruehstueckspfanne mit Spinat und Ei",
+    "title": "Kabeljau Frühstückspfanne mit Spinat und Ei",
     "short_description": "Milde Kabeljaupfanne mit Blattspinat und pochiertem Ei, warm und sättigend.",
     "image": null,
     "meal_type": [
@@ -7556,7 +7556,7 @@
       }
     ],
     "instructions": [
-      "Kabeljau in Stuecke schneiden und in Öl anbraten.",
+      "Kabeljau in Stücke schneiden und in Öl anbraten.",
       "Knoblauch und Spinat dazugeben und zusammenfallen lassen.",
       "Eier dazuschlagen und stocken lassen.",
       "Mit Salz und Pfeffer abschmecken."
@@ -7586,8 +7586,8 @@
   },
   {
     "id": "mf27",
-    "title": "Haehnchen Fruehstuecksbox mit Gemuesesticks und Ei",
-    "short_description": "Praktische Fruehstuecksbox mit gebratenem Hähnchen, Gemuesesticks und Ei zum Mitnehmen.",
+    "title": "Hähnchen Frühstücksbox mit Gemüsesticks und Ei",
+    "short_description": "Praktische Frühstücksbox mit gebratenem Hähnchen, Gemüsesticks und Ei zum Mitnehmen.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -7654,7 +7654,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen und Ei",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Haelt sich gut fuer 2 bis 3 Tage vorbereitet, ideal fuer die Arbeit.",
+    "meal_prep_notes": "Hält sich gut für 2 bis 3 Tage vorbereitet, ideal für die Arbeit.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -7710,7 +7710,7 @@
       "Thunfisch abtropfen lassen und mit den verquirlten Eiern vermischen.",
       "Tomaten halbieren.",
       "Öl in einer Pfanne erhitzen, Eiermasse hineingeben.",
-      "Tomaten daraufgeben und stocken lassen, mit Basilikum bestreuen."
+      "Tomaten daraufgeben und stocken lassen, mit Basilikum bestreün."
     ],
     "prep_time_min": 8,
     "cook_time_min": 10,
@@ -7736,8 +7736,8 @@
   },
   {
     "id": "mf29",
-    "title": "Haehnchen Fruehstueckswrap mit Ruehrei",
-    "short_description": "Warmer Wrap mit Ruehrei und gebratenem Hähnchen, ideal fuer einen herzhaften Start.",
+    "title": "Hähnchen Frühstückswrap mit Rührei",
+    "short_description": "Warmer Wrap mit Rührei und gebratenem Hähnchen, ideal für einen herzhaften Start.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -7782,9 +7782,9 @@
     ],
     "instructions": [
       "Hähnchenbrust in Streifen schneiden und in Öl braten.",
-      "Paprika wuerfeln und mitbraten.",
+      "Paprika würfeln und mitbraten.",
       "Eier verquirlen, dazugeben und stocken lassen.",
-      "Wraps fuellen und aufrollen."
+      "Wraps füllen und aufrollen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 12,
@@ -7803,15 +7803,15 @@
     "warm_or_cold": "warm",
     "main_protein": "Hähnchen und Ei",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Fuellung vorbereiten und Wraps erst kurz vor dem Essen fuellen, dann bleiben sie knackig.",
+    "meal_prep_notes": "Füllung vorbereiten und Wraps erst kurz vor dem Essen füllen, dann bleiben sie knackig.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf30",
-    "title": "Raeucherlachs auf Suesskartoffelscheiben mit Ei",
-    "short_description": "Geroestete Suesskartoffelscheiben als Toastalternative, belegt mit Raeucherlachs und Ei.",
+    "title": "Räucherlachs auf Süsskartoffelscheiben mit Ei",
+    "short_description": "Geröstete Süsskartoffelscheiben als Toastalternative, belegt mit Räucherlachs und Ei.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -7831,7 +7831,7 @@
         "category": "Gemüse & Obst"
       },
       {
-        "name": "Raeucherlachs",
+        "name": "Räucherlachs",
         "amount": 200,
         "unit": "g",
         "category": "Proteinquellen"
@@ -7856,10 +7856,10 @@
       }
     ],
     "instructions": [
-      "Süßkartoffel in Scheiben schneiden und im Toaster oder Ofen knusprig roesten.",
+      "Süßkartoffel in Scheiben schneiden und im Toaster oder Ofen knusprig rösten.",
       "Eier weich kochen, abschrecken und pellen.",
-      "Avocado in duenne Scheiben schneiden.",
-      "Suesskartoffelscheiben mit Avocado, Lachs und Ei belegen."
+      "Avocado in dünne Scheiben schneiden.",
+      "Süsskartoffelscheiben mit Avocado, Lachs und Ei belegen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 15,
@@ -7879,15 +7879,15 @@
     "warm_or_cold": "warm",
     "main_protein": "Lachs und Ei",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Suesskartoffelscheiben koennen vorgeroestet werden, Belag erst kurz vor dem Essen auflegen.",
+    "meal_prep_notes": "Süsskartoffelscheiben können vorgeröstet werden, Belag erst kurz vor dem Essen auflegen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf31",
-    "title": "Haehnchen Gemuesesticks mit Joghurt Dip",
-    "short_description": "Knackige Gemuesesticks mit zart gebratenem Hähnchen und cremigem Joghurt Dip.",
+    "title": "Hähnchen Gemüsesticks mit Joghurt Dip",
+    "short_description": "Knackige Gemüsesticks mit zart gebratenem Hähnchen und cremigem Joghurt Dip.",
     "image": null,
     "meal_type": [
       "snack"
@@ -7932,7 +7932,7 @@
     ],
     "instructions": [
       "Hähnchenbrust in Streifen schneiden und in Öl braten.",
-      "Gemuese in Sticks schneiden.",
+      "Gemüse in Sticks schneiden.",
       "Joghurt mit Salz und Pfeffer abschmecken.",
       "Alles zusammen anrichten."
     ],
@@ -7953,7 +7953,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Haelt sich gut fuer 2 bis 3 Tage vorbereitet, Dip separat mitnehmen.",
+    "meal_prep_notes": "Hält sich gut für 2 bis 3 Tage vorbereitet, Dip separat mitnehmen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -8001,9 +8001,9 @@
     ],
     "instructions": [
       "Garnelen auf Spiesse stecken.",
-      "Mit Öl und Limettensaft betraeufeln.",
+      "Mit Öl und Limettensaft beträufeln.",
       "In einer Pfanne kurz von beiden Seiten braten.",
-      "Mit Koriander bestreuen."
+      "Mit Koriander bestreün."
     ],
     "prep_time_min": 8,
     "cook_time_min": 6,
@@ -8029,8 +8029,8 @@
   },
   {
     "id": "mf33",
-    "title": "Thunfisch Frischkaese Roellchen",
-    "short_description": "Kleine Roellchen aus Putenlachs Alternative mit Thunfisch Frischkaese Fuellung, praktisch als Snack.",
+    "title": "Thunfisch Frischkäse Röllchen",
+    "short_description": "Kleine Röllchen aus Putenlachs Alternative mit Thunfisch Frischkäse Füllung, praktisch als Snack.",
     "image": null,
     "meal_type": [
       "snack"
@@ -8068,8 +8068,8 @@
       }
     ],
     "instructions": [
-      "Thunfisch abtropfen lassen und mit Frischkäse und Zitronensaft verruehren.",
-      "Gurke in duenne Scheiben laengs hobeln.",
+      "Thunfisch abtropfen lassen und mit Frischkäse und Zitronensaft verrühren.",
+      "Gurke in dünne Scheiben längs hobeln.",
       "Masse auf die Gurkenscheiben streichen.",
       "Aufrollen und kalt stellen."
     ],
@@ -8090,15 +8090,15 @@
     "warm_or_cold": "kalt",
     "main_protein": "Thunfisch",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Haelt sich gut verschlossen fuer 1 bis 2 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut verschlossen für 1 bis 2 Tage im Kühlschrank.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf34",
-    "title": "Raeucherlachs Gurkenhaeppchen",
-    "short_description": "Frische Gurkenhaeppchen mit Raeucherlachs und Kraeuterquark, in wenigen Minuten fertig.",
+    "title": "Räucherlachs Gurkenhäppchen",
+    "short_description": "Frische Gurkenhäppchen mit Räucherlachs und Kräuterquark, in wenigen Minuten fertig.",
     "image": null,
     "meal_type": [
       "snack"
@@ -8111,7 +8111,7 @@
     ],
     "ingredients": [
       {
-        "name": "Raeucherlachs",
+        "name": "Räucherlachs",
         "amount": 200,
         "unit": "g",
         "category": "Proteinquellen"
@@ -8137,9 +8137,9 @@
     ],
     "instructions": [
       "Gurke in Scheiben schneiden.",
-      "Quark mit gehacktem Schnittlauch verruehren.",
+      "Quark mit gehacktem Schnittlauch verrühren.",
       "Gurkenscheiben mit Quark bestreichen.",
-      "Mit Raeucherlachs belegen."
+      "Mit Räucherlachs belegen."
     ],
     "prep_time_min": 12,
     "cook_time_min": 0,
@@ -8166,8 +8166,8 @@
   },
   {
     "id": "mf35",
-    "title": "Haehnchen Frischkaese Wrap Haeppchen",
-    "short_description": "Kleine Wrap Haeppchen mit Hähnchen und Frischkaese, ideal zum Snacken zwischendurch.",
+    "title": "Hähnchen Frischkäse Wrap Häppchen",
+    "short_description": "Kleine Wrap Häppchen mit Hähnchen und Frischkäse, ideal zum Snacken zwischendurch.",
     "image": null,
     "meal_type": [
       "snack"
@@ -8205,10 +8205,10 @@
       }
     ],
     "instructions": [
-      "Paprika in duenne Streifen schneiden.",
+      "Paprika in dünne Streifen schneiden.",
       "Wraps mit Frischkäse bestreichen.",
       "Mit Hähnchen und Paprika belegen und fest aufrollen.",
-      "In Stuecke schneiden."
+      "In Stücke schneiden."
     ],
     "prep_time_min": 12,
     "cook_time_min": 0,
@@ -8227,7 +8227,7 @@
     "warm_or_cold": "kalt",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Haelt sich gut verschlossen fuer 2 Tage, ideal fuer die Arbeit.",
+    "meal_prep_notes": "Hält sich gut verschlossen für 2 Tage, ideal für die Arbeit.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -8274,7 +8274,7 @@
       }
     ],
     "instructions": [
-      "Eier hart kochen, abschrecken, pellen und wuerfeln.",
+      "Eier hart kochen, abschrecken, pellen und würfeln.",
       "Thunfisch abtropfen lassen und mit Ei und Joghurt vermengen.",
       "Gurke in Scheiben schneiden.",
       "Salat auf die Gurkenscheiben verteilen."
@@ -8303,8 +8303,8 @@
   },
   {
     "id": "mf37",
-    "title": "Raeucherlachs Frischkaese Dip mit Gemuesesticks",
-    "short_description": "Cremiger Dip aus Raeucherlachs und Frischkaese, dazu knackige Gemuesesticks.",
+    "title": "Räucherlachs Frischkäse Dip mit Gemüsesticks",
+    "short_description": "Cremiger Dip aus Räucherlachs und Frischkäse, dazu knackige Gemüsesticks.",
     "image": null,
     "meal_type": [
       "snack"
@@ -8317,7 +8317,7 @@
     ],
     "ingredients": [
       {
-        "name": "Raeucherlachs",
+        "name": "Räucherlachs",
         "amount": 150,
         "unit": "g",
         "category": "Proteinquellen"
@@ -8348,10 +8348,10 @@
       }
     ],
     "instructions": [
-      "Raeucherlachs fein hacken.",
-      "Mit Frischkäse und Zitronensaft zu einem Dip verruehren.",
+      "Räucherlachs fein hacken.",
+      "Mit Frischkäse und Zitronensaft zu einem Dip verrühren.",
       "Karotten und Paprika in Sticks schneiden.",
-      "Dip mit den Gemuesesticks servieren."
+      "Dip mit den Gemüsesticks servieren."
     ],
     "prep_time_min": 12,
     "cook_time_min": 0,
@@ -8370,15 +8370,15 @@
     "warm_or_cold": "kalt",
     "main_protein": "Lachs",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Dip haelt sich gut verschlossen fuer 1 bis 2 Tage im Kühlschrank.",
+    "meal_prep_notes": "Dip hält sich gut verschlossen für 1 bis 2 Tage im Kühlschrank.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf38",
-    "title": "Garnelen Avocado Haeppchen",
-    "short_description": "Frische Haeppchen aus Avocado und gebratenen Garnelen, schnell zubereitet.",
+    "title": "Garnelen Avocado Häppchen",
+    "short_description": "Frische Häppchen aus Avocado und gebratenen Garnelen, schnell zubereitet.",
     "image": null,
     "meal_type": [
       "snack"
@@ -8420,7 +8420,7 @@
       "Garnelen in Öl kurz anbraten.",
       "Avocado in Scheiben schneiden.",
       "Avocado mit einer Garnele toppen.",
-      "Mit Zitronensaft betraeufeln."
+      "Mit Zitronensaft beträufeln."
     ],
     "prep_time_min": 8,
     "cook_time_min": 5,
@@ -8447,8 +8447,8 @@
   },
   {
     "id": "mf39",
-    "title": "Haehnchen Paprika Roellchen mit Frischkaese",
-    "short_description": "Herzhafte Roellchen aus gebratenem Hähnchen, Paprika und Frischkaese.",
+    "title": "Hähnchen Paprika Röllchen mit Frischkäse",
+    "short_description": "Herzhafte Röllchen aus gebratenem Hähnchen, Paprika und Frischkäse.",
     "image": null,
     "meal_type": [
       "snack"
@@ -8486,7 +8486,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust in duenne Scheiben schneiden und in Öl braten.",
+      "Hähnchenbrust in dünne Scheiben schneiden und in Öl braten.",
       "Paprika in Streifen schneiden.",
       "Hähnchenscheiben mit Frischkäse bestreichen und mit Paprika belegen.",
       "Aufrollen und mit Zahnstochern feststecken."
@@ -8508,15 +8508,15 @@
     "warm_or_cold": "kalt",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage im Kühlschrank.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf40",
-    "title": "Thunfisch Avocado Dip mit Gemuesesticks",
-    "short_description": "Cremiger Dip aus Thunfisch und Avocado, dazu frische Gemuesesticks.",
+    "title": "Thunfisch Avocado Dip mit Gemüsesticks",
+    "short_description": "Cremiger Dip aus Thunfisch und Avocado, dazu frische Gemüsesticks.",
     "image": null,
     "meal_type": [
       "snack"
@@ -8562,9 +8562,9 @@
     ],
     "instructions": [
       "Thunfisch abtropfen lassen.",
-      "Avocado zerdruecken und mit Thunfisch und Zitronensaft vermengen.",
+      "Avocado zerdrücken und mit Thunfisch und Zitronensaft vermengen.",
       "Karotten und Sellerie in Sticks schneiden.",
-      "Dip mit den Gemuesesticks servieren."
+      "Dip mit den Gemüsesticks servieren."
     ],
     "prep_time_min": 12,
     "cook_time_min": 0,
@@ -8590,8 +8590,8 @@
   },
   {
     "id": "mf41",
-    "title": "Haehnchen Gemuese Wok mit Ingwer",
-    "short_description": "Schneller Wok mit Hähnchen, buntem Gemuese und frischem Ingwer.",
+    "title": "Hähnchen Gemüse Wok mit Ingwer",
+    "short_description": "Schneller Wok mit Hähnchen, buntem Gemüse und frischem Ingwer.",
     "image": null,
     "meal_type": [
       "mittagessen"
@@ -8637,9 +8637,9 @@
     ],
     "instructions": [
       "Hähnchenbrust in Streifen schneiden.",
-      "Brokkoli in Roeschen teilen, Paprika in Streifen schneiden, Ingwer fein hacken.",
+      "Brokkoli in Röschen teilen, Paprika in Streifen schneiden, Ingwer fein hacken.",
       "Hähnchen im heissen Öl scharf anbraten.",
-      "Gemuese und Ingwer dazugeben und knackig braten."
+      "Gemüse und Ingwer dazugeben und knackig braten."
     ],
     "prep_time_min": 12,
     "cook_time_min": 10,
@@ -8658,7 +8658,7 @@
     "warm_or_cold": "warm",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Laesst sich gut vorbereiten und am Folgetag aufwaermen.",
+    "meal_prep_notes": "Lässt sich gut vorbereiten und am Folgetag aufwärmen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -8666,7 +8666,7 @@
   {
     "id": "mf42",
     "title": "Lachs Nudelsalat mit Rucola",
-    "short_description": "Frischer Nudelsalat mit Lachs, Rucola und Zitrone, ideal fuer den Meal Prep.",
+    "short_description": "Frischer Nudelsalat mit Lachs, Rucola und Zitrone, ideal für den Meal Prep.",
     "image": null,
     "meal_type": [
       "mittagessen"
@@ -8716,8 +8716,8 @@
       }
     ],
     "instructions": [
-      "Lachs im Ofen oder in der Pfanne garen und in Stuecke zerteilen.",
-      "Nudeln nach Packungsanweisung kochen und abkuehlen lassen.",
+      "Lachs im Ofen oder in der Pfanne garen und in Stücke zerteilen.",
+      "Nudeln nach Packungsanweisung kochen und abkühlen lassen.",
       "Tomaten halbieren.",
       "Alles mit Rucola, Olivenöl und Zitronensaft vermengen."
     ],
@@ -8739,7 +8739,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Lachs",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage, Rucola erst kurz vorher zugeben.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 1 bis 2 Tage, Rucola erst kurz vorher zugeben.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -8793,7 +8793,7 @@
     ],
     "instructions": [
       "Reis nach Packungsanweisung kochen.",
-      "Karotten wuerfeln und anduensten.",
+      "Karotten würfeln und andünsten.",
       "Erbsen und Garnelen dazugeben und braten, bis die Garnelen rosa sind.",
       "Mit Reis vermengen und mit Sojasauce abschmecken."
     ],
@@ -8814,7 +8814,7 @@
     "warm_or_cold": "warm",
     "main_protein": "Garnelen",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet, vor dem Verzehr gut durcherhitzen.",
+    "meal_prep_notes": "Hält sich gut vorbereitet, vor dem Verzehr gut durcherhitzen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -8873,8 +8873,8 @@
       }
     ],
     "instructions": [
-      "Kichererbsen abtropfen lassen und abspuelen.",
-      "Paprika und Zwiebel wuerfeln.",
+      "Kichererbsen abtropfen lassen und abspülen.",
+      "Paprika und Zwiebel würfeln.",
       "Alles mit dem abgetropften Thunfisch vermengen.",
       "Mit Olivenöl, Zitronensaft, Salz und Pfeffer abschmecken."
     ],
@@ -8895,14 +8895,14 @@
     "warm_or_cold": "kalt",
     "main_protein": "Thunfisch und Kichererbsen",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage im Kühlschrank.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf45",
-    "title": "Haehnchen Curry mit Kokosmilch und Brokkoli",
+    "title": "Hähnchen Curry mit Kokosmilch und Brokkoli",
     "short_description": "Mildes Curry mit Hähnchen, cremiger Kokosmilch und Brokkoli.",
     "image": null,
     "meal_type": [
@@ -8949,10 +8949,10 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust wuerfeln und anbraten.",
-      "Currypulver und Kurkuma dazugeben und kurz mitroesten.",
+      "Hähnchenbrust würfeln und anbraten.",
+      "Currypulver und Kurkuma dazugeben und kurz mitrösten.",
       "Kokosmilch angiessen und aufkochen.",
-      "Brokkoli dazugeben und 8 bis 10 Minuten koecheln lassen."
+      "Brokkoli dazugeben und 8 bis 10 Minuten köcheln lassen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 20,
@@ -8972,14 +8972,14 @@
     "warm_or_cold": "warm",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
+    "meal_prep_notes": "Schmeckt aufgewärmt besonders gut, ideal für den Meal Prep.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf46",
-    "title": "Kabeljau Gemuesepfanne mit Fenchel",
+    "title": "Kabeljau Gemüsepfanne mit Fenchel",
     "short_description": "Leichte Pfanne mit Kabeljau, Fenchel und Kirschtomaten.",
     "image": null,
     "meal_type": [
@@ -9025,7 +9025,7 @@
       }
     ],
     "instructions": [
-      "Fenchel in duenne Streifen schneiden und in Öl anduensten.",
+      "Fenchel in dünne Streifen schneiden und in Öl andünsten.",
       "Tomaten dazugeben und kurz mitschmoren.",
       "Kabeljau darauflegen und zugedeckt gar ziehen lassen.",
       "Mit Zitronensaft beträufeln."
@@ -9055,8 +9055,8 @@
   },
   {
     "id": "mf47",
-    "title": "Rinderhack Bowl mit Suesskartoffel",
-    "short_description": "Waermende Bowl mit Rinderhack, gebackener Suesskartoffel und Spinat.",
+    "title": "Rinderhack Bowl mit Süsskartoffel",
+    "short_description": "Wärmende Bowl mit Rinderhack, gebackener Süsskartoffel und Spinat.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -9102,8 +9102,8 @@
       }
     ],
     "instructions": [
-      "Süßkartoffel wuerfeln und im Ofen bei 200 Grad ca. 20 Minuten backen.",
-      "Rinderhack mit Kreuzkuemmel in Öl anbraten.",
+      "Süßkartoffel würfeln und im Ofen bei 200 Grad ca. 20 Minuten backen.",
+      "Rinderhack mit Kreuzkümmel in Öl anbraten.",
       "Spinat kurz vor Ende der Garzeit zum Hack geben.",
       "Alles zusammen in Bowls anrichten."
     ],
@@ -9125,14 +9125,14 @@
     "warm_or_cold": "warm",
     "main_protein": "Rinderhack",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
+    "meal_prep_notes": "Schmeckt aufgewärmt besonders gut, ideal für den Meal Prep.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf48",
-    "title": "Haehnchen Bowl mit Blattsalat und Parmesan",
+    "title": "Hähnchen Bowl mit Blattsalat und Parmesan",
     "short_description": "Herzhafte Bowl mit gebratenem Hähnchen, knackigem Blattsalat und Parmesan.",
     "image": null,
     "meal_type": [
@@ -9177,10 +9177,10 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust wuerzen und in Öl braten, dann in Streifen schneiden.",
+      "Hähnchenbrust würzen und in Öl braten, dann in Streifen schneiden.",
       "Salat waschen und in Streifen schneiden.",
       "Mit Öl und Zitronensaft anmachen.",
-      "Mit Hähnchen und Parmesanspaenen toppen."
+      "Mit Hähnchen und Parmesanspänen toppen."
     ],
     "prep_time_min": 12,
     "cook_time_min": 12,
@@ -9208,7 +9208,7 @@
   {
     "id": "mf49",
     "title": "Lachs Brokkoli Pfanne mit Sesam",
-    "short_description": "Schnelle Pfanne mit Lachs, Brokkoli und geroesteten Sesamkoernern.",
+    "short_description": "Schnelle Pfanne mit Lachs, Brokkoli und gerösteten Sesamkörnern.",
     "image": null,
     "meal_type": [
       "mittagessen"
@@ -9253,10 +9253,10 @@
       }
     ],
     "instructions": [
-      "Lachs wuerfeln und in Öl anbraten.",
-      "Brokkoli in Roeschen teilen und dazugeben.",
+      "Lachs würfeln und in Öl anbraten.",
+      "Brokkoli in Röschen teilen und dazugeben.",
       "Mit Sojasauce ablöschen und garen, bis der Lachs durch ist.",
-      "Mit Sesam bestreuen."
+      "Mit Sesam bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 12,
@@ -9282,7 +9282,7 @@
   },
   {
     "id": "mf50",
-    "title": "Haehnchen Zucchininudeln mit Tomatensauce",
+    "title": "Hähnchen Zucchininudeln mit Tomatensauce",
     "short_description": "Leichte Zucchininudeln mit Hähnchen und selbstgemachter Tomatensauce.",
     "image": null,
     "meal_type": [
@@ -9329,8 +9329,8 @@
     ],
     "instructions": [
       "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten.",
-      "Hähnchen wuerfeln und mit Knoblauch anbraten.",
-      "Passierte Tomaten dazugeben und 10 Minuten koecheln lassen.",
+      "Hähnchen würfeln und mit Knoblauch anbraten.",
+      "Passierte Tomaten dazugeben und 10 Minuten köcheln lassen.",
       "Zucchininudeln unterheben und mit Basilikum servieren."
     ],
     "prep_time_min": 15,
@@ -9350,7 +9350,7 @@
     "warm_or_cold": "warm",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Zucchininudeln am besten erst beim Aufwaermen dazugeben, dann bleiben sie bissfest.",
+    "meal_prep_notes": "Zucchininudeln am besten erst beim Aufwärmen dazugeben, dann bleiben sie bissfest.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -9403,10 +9403,10 @@
       }
     ],
     "instructions": [
-      "Paprika in Streifen schneiden und anduensten.",
-      "Currypulver dazugeben und kurz mitroesten.",
+      "Paprika in Streifen schneiden und andünsten.",
+      "Currypulver dazugeben und kurz mitrösten.",
       "Kokosmilch angiessen und aufkochen.",
-      "Garnelen dazugeben und 3 bis 4 Minuten garen, mit Koriander bestreuen."
+      "Garnelen dazugeben und 3 bis 4 Minuten garen, mit Koriander bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 12,
@@ -9434,7 +9434,7 @@
   {
     "id": "mf52",
     "title": "Lachs im Ofen mit Spargel",
-    "short_description": "Ofenlachs mit gruenem Spargel und Zitrone, unkompliziert und schnell im Ofen.",
+    "short_description": "Ofenlachs mit grünem Spargel und Zitrone, unkompliziert und schnell im Ofen.",
     "image": null,
     "meal_type": [
       "abendessen"
@@ -9548,10 +9548,10 @@
       }
     ],
     "instructions": [
-      "Zwiebel wuerfeln und mit dem Hackfleisch anbraten.",
-      "Paprika wuerfeln und dazugeben.",
-      "Passierte Tomaten und Paprikapulver einruehren.",
-      "Ca. 15 Minuten koecheln lassen."
+      "Zwiebel würfeln und mit dem Hackfleisch anbraten.",
+      "Paprika würfeln und dazugeben.",
+      "Passierte Tomaten und Paprikapulver einrühren.",
+      "Ca. 15 Minuten köcheln lassen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 20,
@@ -9571,7 +9571,7 @@
     "warm_or_cold": "warm",
     "main_protein": "Rinderhack",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
+    "meal_prep_notes": "Schmeckt aufgewärmt besonders gut, ideal für den Meal Prep.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -9624,9 +9624,9 @@
       }
     ],
     "instructions": [
-      "Knoblauch andünsten, Currypulver dazugeben und kurz mitroesten.",
+      "Knoblauch andünsten, Currypulver dazugeben und kurz mitrösten.",
       "Kokosmilch angiessen und aufkochen.",
-      "Kabeljau in Stuecken dazugeben und 8 Minuten ziehen lassen.",
+      "Kabeljau in Stücken dazugeben und 8 Minuten ziehen lassen.",
       "Spinat kurz vor Ende der Garzeit unterheben."
     ],
     "prep_time_min": 10,
@@ -9654,8 +9654,8 @@
   },
   {
     "id": "mf55",
-    "title": "Haehnchen Gemuesepfanne mit Sesam",
-    "short_description": "Bunte Gemuesepfanne mit Hähnchen und geroestetem Sesam.",
+    "title": "Hähnchen Gemüsepfanne mit Sesam",
+    "short_description": "Bunte Gemüsepfanne mit Hähnchen und geröstetem Sesam.",
     "image": null,
     "meal_type": [
       "abendessen"
@@ -9702,8 +9702,8 @@
     "instructions": [
       "Hähnchenbrust in Streifen schneiden und in Öl anbraten.",
       "Zucchini und Karotten in Streifen schneiden und dazugeben.",
-      "Knackig braten, bis das Gemuese gar aber noch bissfest ist.",
-      "Mit Sesam bestreuen."
+      "Knackig braten, bis das Gemüse gar aber noch bissfest ist.",
+      "Mit Sesam bestreün."
     ],
     "prep_time_min": 12,
     "cook_time_min": 12,
@@ -9722,15 +9722,15 @@
     "warm_or_cold": "warm",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Laesst sich gut vorbereiten und am Folgetag aufwaermen.",
+    "meal_prep_notes": "Lässt sich gut vorbereiten und am Folgetag aufwärmen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf56",
-    "title": "Thunfisch Steak mit gruenem Spargel",
-    "short_description": "Kurz gebratenes Thunfischsteak mit gruenem Spargel und Zitrone.",
+    "title": "Thunfisch Steak mit grünem Spargel",
+    "short_description": "Kurz gebratenes Thunfischsteak mit grünem Spargel und Zitrone.",
     "image": null,
     "meal_type": [
       "abendessen"
@@ -9770,7 +9770,7 @@
     ],
     "instructions": [
       "Spargel in Öl anbraten, bis er gar aber noch bissfest ist.",
-      "Thunfischsteaks wuerzen und kurz von beiden Seiten scharf anbraten.",
+      "Thunfischsteaks würzen und kurz von beiden Seiten scharf anbraten.",
       "Mit Spargel anrichten.",
       "Mit Zitronensaft beträufeln."
     ],
@@ -9799,8 +9799,8 @@
   },
   {
     "id": "mf57",
-    "title": "Haehnchen Fruehstuecksfrikadellen mit Gurke",
-    "short_description": "Kleine wuerzige Hähnchenfrikadellen mit frischer Gurke, gut vorzubereiten.",
+    "title": "Hähnchen Frühstücksfrikadellen mit Gurke",
+    "short_description": "Kleine würzige Hähnchenfrikadellen mit frischer Gurke, gut vorzubereiten.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -9867,15 +9867,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch kalt lecker.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage, auch kalt lecker.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf58",
-    "title": "Raeucherlachs Ruehrei mit Tomaten",
-    "short_description": "Cremiges Ruehrei mit Raeucherlachs und frischen Tomaten.",
+    "title": "Räucherlachs Rührei mit Tomaten",
+    "short_description": "Cremiges Rührei mit Räucherlachs und frischen Tomaten.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -9889,7 +9889,7 @@
     ],
     "ingredients": [
       {
-        "name": "Raeucherlachs",
+        "name": "Räucherlachs",
         "amount": 200,
         "unit": "g",
         "category": "Proteinquellen"
@@ -9914,10 +9914,10 @@
       }
     ],
     "instructions": [
-      "Tomaten halbieren und in Öl kurz anduensten.",
+      "Tomaten halbieren und in Öl kurz andünsten.",
       "Eier verquirlen und dazugeben.",
-      "Unter Ruehren stocken lassen.",
-      "Raeucherlachs zum Schluss untermischen."
+      "Unter Rühren stocken lassen.",
+      "Räucherlachs zum Schluss untermischen."
     ],
     "prep_time_min": 8,
     "cook_time_min": 8,
@@ -9943,7 +9943,7 @@
   },
   {
     "id": "mf59",
-    "title": "Garnelen Fruehstuecksbowl mit Avocado",
+    "title": "Garnelen Frühstücksbowl mit Avocado",
     "short_description": "Frische Bowl mit angebratenen Garnelen, Avocado und Kirschtomaten.",
     "image": null,
     "meal_type": [
@@ -9990,7 +9990,7 @@
     ],
     "instructions": [
       "Garnelen in Öl kurz anbraten.",
-      "Avocado und Tomaten wuerfeln.",
+      "Avocado und Tomaten würfeln.",
       "Alles in Bowls anrichten.",
       "Mit Limettensaft beträufeln."
     ],
@@ -10018,7 +10018,7 @@
   },
   {
     "id": "mf60",
-    "title": "Haehnchen Fruehstuecksomelett mit Spinat",
+    "title": "Hähnchen Frühstücksomelett mit Spinat",
     "short_description": "Herzhaftes Omelett mit Hähnchen und Blattspinat, schnell in der Pfanne.",
     "image": null,
     "meal_type": [
@@ -10058,7 +10058,7 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust wuerfeln und in Öl braten.",
+      "Hähnchenbrust würfeln und in Öl braten.",
       "Spinat dazugeben und zusammenfallen lassen.",
       "Eier verquirlen und dazugiessen.",
       "Stocken lassen und zusammenklappen."
@@ -10089,7 +10089,7 @@
   {
     "id": "mf61",
     "title": "Thunfisch auf Reiswaffeln mit Ei",
-    "short_description": "Knusprige Reiswaffeln belegt mit Thunfisch und Ei, glutenfreie Fruehstuecksidee.",
+    "short_description": "Knusprige Reiswaffeln belegt mit Thunfisch und Ei, glutenfreie Frühstücksidee.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -10131,7 +10131,7 @@
       "Eier hart kochen, abschrecken, pellen und in Scheiben schneiden.",
       "Thunfisch abtropfen lassen.",
       "Reiswaffeln mit Thunfisch, Ei und Gurkenscheiben belegen.",
-      "Mit Salz und Pfeffer wuerzen."
+      "Mit Salz und Pfeffer würzen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 8,
@@ -10157,8 +10157,8 @@
   },
   {
     "id": "mf62",
-    "title": "Kabeljau Fruehstueckspfanne mit Tomaten",
-    "short_description": "Milde Kabeljaupfanne mit Kirschtomaten und frischen Kraeutern.",
+    "title": "Kabeljau Frühstückspfanne mit Tomaten",
+    "short_description": "Milde Kabeljaupfanne mit Kirschtomaten und frischen Kräutern.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -10197,10 +10197,10 @@
       }
     ],
     "instructions": [
-      "Tomaten halbieren und in Öl kurz anduensten.",
-      "Kabeljau in Stuecken dazugeben.",
+      "Tomaten halbieren und in Öl kurz andünsten.",
+      "Kabeljau in Stücken dazugeben.",
       "Zugedeckt ca. 8 Minuten gar ziehen lassen.",
-      "Mit Petersilie bestreuen."
+      "Mit Petersilie bestreün."
     ],
     "prep_time_min": 8,
     "cook_time_min": 12,
@@ -10226,8 +10226,8 @@
   },
   {
     "id": "mf63",
-    "title": "Haehnchen Fruehstuecksbowl mit Suesskartoffel und Ei",
-    "short_description": "Waermende Fruehstuecksbowl mit Hähnchen, gebackener Suesskartoffel und Ei.",
+    "title": "Hähnchen Frühstücksbowl mit Süsskartoffel und Ei",
+    "short_description": "Wärmende Frühstücksbowl mit Hähnchen, gebackener Süsskartoffel und Ei.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -10266,8 +10266,8 @@
       }
     ],
     "instructions": [
-      "Süßkartoffel wuerfeln und im Ofen bei 200 Grad ca. 20 Minuten backen.",
-      "Hähnchenbrust wuerfeln und in Öl braten.",
+      "Süßkartoffel würfeln und im Ofen bei 200 Grad ca. 20 Minuten backen.",
+      "Hähnchenbrust würfeln und in Öl braten.",
       "Eier weich kochen, abschrecken und pellen.",
       "Alles zusammen in Bowls anrichten."
     ],
@@ -10289,15 +10289,15 @@
     "warm_or_cold": "warm",
     "main_protein": "Hähnchen und Ei",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Suesskartoffel und Hähnchen koennen vorbereitet und aufgewaermt werden.",
+    "meal_prep_notes": "Süsskartoffel und Hähnchen können vorbereitet und aufgewärmt werden.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf64",
-    "title": "Lachs Frischkaese Haeppchen mit Kapern",
-    "short_description": "Feine Haeppchen mit Raeucherlachs, Frischkaese und Kapern.",
+    "title": "Lachs Frischkäse Häppchen mit Kapern",
+    "short_description": "Feine Häppchen mit Räucherlachs, Frischkäse und Kapern.",
     "image": null,
     "meal_type": [
       "snack"
@@ -10310,7 +10310,7 @@
     ],
     "ingredients": [
       {
-        "name": "Raeucherlachs",
+        "name": "Räucherlachs",
         "amount": 200,
         "unit": "g",
         "category": "Proteinquellen"
@@ -10336,8 +10336,8 @@
     ],
     "instructions": [
       "Reiswaffeln mit Frischkäse bestreichen.",
-      "Mit Raeucherlachs belegen.",
-      "Mit Kapern bestreuen."
+      "Mit Räucherlachs belegen.",
+      "Mit Kapern bestreün."
     ],
     "prep_time_min": 8,
     "cook_time_min": 0,
@@ -10363,8 +10363,8 @@
   },
   {
     "id": "mf65",
-    "title": "Mini Haehnchenspiesse mit Joghurt Dip",
-    "short_description": "Kleine Haehnchenspiesse mit einem frischen Joghurt Kraeuter Dip.",
+    "title": "Mini Hähnchenspiesse mit Joghurt Dip",
+    "short_description": "Kleine Hähnchenspiesse mit einem frischen Joghurt Kräuter Dip.",
     "image": null,
     "meal_type": [
       "snack"
@@ -10402,9 +10402,9 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust wuerfeln und auf kleine Spiesse stecken.",
+      "Hähnchenbrust würfeln und auf kleine Spiesse stecken.",
       "In Öl rundum braten, bis sie durch sind.",
-      "Joghurt mit Schnittlauch verruehren.",
+      "Joghurt mit Schnittlauch verrühren.",
       "Spiesse mit dem Dip servieren."
     ],
     "prep_time_min": 10,
@@ -10424,7 +10424,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, Dip separat mitnehmen.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage, Dip separat mitnehmen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -10470,10 +10470,10 @@
       }
     ],
     "instructions": [
-      "Garnelen kurz in Salzwasser garen und abkuehlen lassen.",
-      "Avocado wuerfeln.",
-      "Joghurt mit Zitronensaft, Salz und Pfeffer verruehren.",
-      "Alles in Glaesern schichten."
+      "Garnelen kurz in Salzwasser garen und abkühlen lassen.",
+      "Avocado würfeln.",
+      "Joghurt mit Zitronensaft, Salz und Pfeffer verrühren.",
+      "Alles in Gläsern schichten."
     ],
     "prep_time_min": 15,
     "cook_time_min": 5,
@@ -10567,8 +10567,8 @@
   },
   {
     "id": "mf68",
-    "title": "Raeucherlachs Ei Muffins",
-    "short_description": "Herzhafte Eiermuffins mit Raeucherlachs, ideal zum Vorbereiten und Mitnehmen.",
+    "title": "Räucherlachs Ei Muffins",
+    "short_description": "Herzhafte Eiermuffins mit Räucherlachs, ideal zum Vorbereiten und Mitnehmen.",
     "image": null,
     "meal_type": [
       "snack"
@@ -10582,7 +10582,7 @@
     ],
     "ingredients": [
       {
-        "name": "Raeucherlachs",
+        "name": "Räucherlachs",
         "amount": 200,
         "unit": "g",
         "category": "Proteinquellen"
@@ -10602,9 +10602,9 @@
     ],
     "instructions": [
       "Ofen auf 180 Grad vorheizen.",
-      "Eier verquirlen und mit Schnittlauch wuerzen.",
-      "Raeucherlachs klein schneiden und in ein Muffinblech verteilen.",
-      "Eiermasse darueber giessen und ca. 15 Minuten backen."
+      "Eier verquirlen und mit Schnittlauch würzen.",
+      "Räucherlachs klein schneiden und in ein Muffinblech verteilen.",
+      "Eiermasse darüber giessen und ca. 15 Minuten backen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 15,
@@ -10623,15 +10623,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Lachs und Ei",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage, auch kalt lecker.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 1 bis 2 Tage, auch kalt lecker.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf69",
-    "title": "Haehnchen Gemuese Muffins herzhaft",
-    "short_description": "Herzhafte Muffins mit Hähnchen und buntem Gemuese, praktisch fuer unterwegs.",
+    "title": "Hähnchen Gemüse Muffins herzhaft",
+    "short_description": "Herzhafte Muffins mit Hähnchen und buntem Gemüse, praktisch für unterwegs.",
     "image": null,
     "meal_type": [
       "snack"
@@ -10671,7 +10671,7 @@
     ],
     "instructions": [
       "Ofen auf 180 Grad vorheizen.",
-      "Hähnchenbrust und Gemuese fein wuerfeln.",
+      "Hähnchenbrust und Gemüse fein würfeln.",
       "Mit den verquirlten Eiern vermengen und in ein Muffinblech verteilen.",
       "Ca. 18 Minuten backen."
     ],
@@ -10692,15 +10692,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen und Ei",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch kalt lecker.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage, auch kalt lecker.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "vg1",
-    "title": "Tofu Ruehrei mit Kurkuma und Spinat",
-    "short_description": "Herzhaftes Ruehrei aus Tofu mit Kurkuma und Blattspinat, proteinreich und rein pflanzlich.",
+    "title": "Tofu Rührei mit Kurkuma und Spinat",
+    "short_description": "Herzhaftes Rührei aus Tofu mit Kurkuma und Blattspinat, proteinreich und rein pflanzlich.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -10738,7 +10738,7 @@
       }
     ],
     "instructions": [
-      "Tofu mit einer Gabel zerbroeckeln.",
+      "Tofu mit einer Gabel zerbröckeln.",
       "In Öl mit Kurkuma anbraten.",
       "Spinat dazugeben und zusammenfallen lassen.",
       "Mit Salz und Pfeffer abschmecken."
@@ -10767,8 +10767,8 @@
   },
   {
     "id": "vg2",
-    "title": "Linsen Fruehstuecksbowl mit Granatapfel",
-    "short_description": "Proteinreiche Bowl mit warmen Linsen, frischem Granatapfel und Kraeutern.",
+    "title": "Linsen Frühstücksbowl mit Granatapfel",
+    "short_description": "Proteinreiche Bowl mit warmen Linsen, frischem Granatapfel und Kräutern.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -10808,7 +10808,7 @@
     ],
     "instructions": [
       "Linsen nach Packungsanweisung weich kochen.",
-      "In Bowls verteilen und etwas abkuehlen lassen.",
+      "In Bowls verteilen und etwas abkühlen lassen.",
       "Mit Granatapfelkernen und Minze toppen.",
       "Mit Olivenöl beträufeln."
     ],
@@ -10830,7 +10830,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Linsen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage im Kühlschrank.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -10877,8 +10877,8 @@
       }
     ],
     "instructions": [
-      "Kichererbsenmehl mit Wasser und einer Prise Salz glatt verruehren.",
-      "Kurz 10 Minuten quellen lassen.",
+      "Kichererbsenmehl mit Wasser und einer Prise Salz glatt verrühren.",
+      "Kurz 10 Minuten qüllen lassen.",
       "In Öl von beiden Seiten goldbraun braten.",
       "Mit Avocadoscheiben servieren."
     ],
@@ -10947,9 +10947,9 @@
       }
     ],
     "instructions": [
-      "Haferflocken mit Hafermilch und Reisprotein verruehren.",
-      "Über Nacht im Kühlschrank quellen lassen.",
-      "Vor dem Servieren nochmal umruehren.",
+      "Haferflocken mit Hafermilch und Reisprotein verrühren.",
+      "Über Nacht im Kühlschrank qüllen lassen.",
+      "Vor dem Servieren nochmal umrühren.",
       "Mit Beeren toppen."
     ],
     "prep_time_min": 8,
@@ -10969,7 +10969,7 @@
     "warm_or_cold": "kalt",
     "main_protein": "Reisprotein",
     "storage_category": "roh_ungekocht",
-    "meal_prep_notes": "Am besten in einzelnen Gläsern mit Deckel vorbereiten, so fuer 2 bis 3 Tage haltbar.",
+    "meal_prep_notes": "Am besten in einzelnen Gläsern mit Deckel vorbereiten, so für 2 bis 3 Tage haltbar.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -10977,7 +10977,7 @@
   {
     "id": "vg5",
     "title": "Buchweizen Porridge mit Apfel und Ceylonzimt",
-    "short_description": "Waermendes Buchweizen Porridge mit gedünstetem Apfel und Ceylonzimt.",
+    "short_description": "Wärmendes Buchweizen Porridge mit gedünstetem Apfel und Ceylonzimt.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -11016,8 +11016,8 @@
       }
     ],
     "instructions": [
-      "Äpfel wuerfeln und mit etwas Ceylonzimt in einem Topf kurz anduensten.",
-      "Buchweizenflocken mit Hafermilch aufkochen und ca. 5 Minuten koecheln lassen.",
+      "Äpfel würfeln und mit etwas Ceylonzimt in einem Topf kurz andünsten.",
+      "Buchweizenflocken mit Hafermilch aufkochen und ca. 5 Minuten köcheln lassen.",
       "Zimtapfel unterheben.",
       "Warm servieren."
     ],
@@ -11039,15 +11039,15 @@
     "warm_or_cold": "warm",
     "main_protein": "Buchweizen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Am besten frisch warm genießen, laesst sich aber auch aufwaermen.",
+    "meal_prep_notes": "Am besten frisch warm genießen, lässt sich aber auch aufwärmen.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "suess"
   },
   {
     "id": "vg6",
-    "title": "Geroestete Kichererbsen mit Paprika",
-    "short_description": "Knusprig geroestete Kichererbsen mit Paprikapulver, idealer proteinreicher Snack.",
+    "title": "Geröstete Kichererbsen mit Paprika",
+    "short_description": "Knusprig geröstete Kichererbsen mit Paprikapulver, idealer proteinreicher Snack.",
     "image": null,
     "meal_type": [
       "snack"
@@ -11081,9 +11081,9 @@
     ],
     "instructions": [
       "Ofen auf 200 Grad vorheizen.",
-      "Kichererbsen abtropfen lassen, abspuelen und trockentupfen.",
+      "Kichererbsen abtropfen lassen, abspülen und trockentupfen.",
       "Mit Öl und Paprikapulver vermengen.",
-      "Ca. 25 bis 30 Minuten im Ofen knusprig roesten."
+      "Ca. 25 bis 30 Minuten im Ofen knusprig rösten."
     ],
     "prep_time_min": 5,
     "cook_time_min": 28,
@@ -11102,7 +11102,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Kichererbsen",
     "storage_category": "geroestet_trocken",
-    "meal_prep_notes": "Haelt sich luftdicht verpackt mehrere Tage knusprig.",
+    "meal_prep_notes": "Hält sich luftdicht verpackt mehrere Tage knusprig.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -11110,7 +11110,7 @@
   {
     "id": "vg7",
     "title": "Edamame mit Meersalz",
-    "short_description": "Gedaempfte Edamame Bohnen mit grobem Meersalz, schneller proteinreicher Snack.",
+    "short_description": "Gedämpfte Edamame Bohnen mit grobem Meersalz, schneller proteinreicher Snack.",
     "image": null,
     "meal_type": [
       "snack"
@@ -11138,7 +11138,7 @@
     "instructions": [
       "Edamame nach Packungsanweisung in Salzwasser kochen.",
       "Abgiessen und abtropfen lassen.",
-      "Mit grobem Meersalz bestreuen."
+      "Mit grobem Meersalz bestreün."
     ],
     "prep_time_min": 2,
     "cook_time_min": 6,
@@ -11157,15 +11157,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Edamame",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Am besten frisch warm oder abgekuehlt genießen.",
+    "meal_prep_notes": "Am besten frisch warm oder abgekühlt genießen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "vg8",
-    "title": "Rote Linsen Hummus mit Gemuesesticks",
-    "short_description": "Cremiger Hummus aus roten Linsen, dazu knackige Gemuesesticks.",
+    "title": "Rote Linsen Hummus mit Gemüsesticks",
+    "short_description": "Cremiger Hummus aus roten Linsen, dazu knackige Gemüsesticks.",
     "image": null,
     "meal_type": [
       "snack"
@@ -11210,10 +11210,10 @@
       }
     ],
     "instructions": [
-      "Linsen weich kochen und abkuehlen lassen.",
+      "Linsen weich kochen und abkühlen lassen.",
       "Mit Tahin und Zitronensaft fein pürieren.",
       "Mit Salz abschmecken.",
-      "Mit Gemuesesticks servieren."
+      "Mit Gemüsesticks servieren."
     ],
     "prep_time_min": 10,
     "cook_time_min": 15,
@@ -11232,7 +11232,7 @@
     "warm_or_cold": "kalt",
     "main_protein": "Linsen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Haelt sich gut verschlossen fuer 3 bis 4 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut verschlossen für 3 bis 4 Tage im Kühlschrank.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -11278,9 +11278,9 @@
       }
     ],
     "instructions": [
-      "Tofu wuerfeln und auf Spiesse stecken.",
+      "Tofu würfeln und auf Spiesse stecken.",
       "In Sesamöl rundum anbraten.",
-      "Tahin mit Sojasauce und etwas Wasser zu einer Sauce verruehren.",
+      "Tahin mit Sojasauce und etwas Wasser zu einer Sauce verrühren.",
       "Spiesse mit der Sauce servieren."
     ],
     "prep_time_min": 10,
@@ -11300,7 +11300,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Tofu",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 Tage im Kühlschrank.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -11347,9 +11347,9 @@
       }
     ],
     "instructions": [
-      "Chiasamen mit Kokosmilch verruehren.",
-      "Mindestens 4 Stunden oder über Nacht quellen lassen.",
-      "Mango wuerfeln.",
+      "Chiasamen mit Kokosmilch verrühren.",
+      "Mindestens 4 Stunden oder über Nacht qüllen lassen.",
+      "Mango würfeln.",
       "Pudding mit Mango und Kokosraspeln toppen."
     ],
     "prep_time_min": 8,
@@ -11369,7 +11369,7 @@
     "warm_or_cold": "kalt",
     "main_protein": "Chiasamen",
     "storage_category": "roh_ungekocht",
-    "meal_prep_notes": "Am besten in einzelnen Gläsern mit Deckel vorbereiten, haelt sich 2 bis 3 Tage.",
+    "meal_prep_notes": "Am besten in einzelnen Gläsern mit Deckel vorbereiten, hält sich 2 bis 3 Tage.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "suess"
@@ -11377,7 +11377,7 @@
   {
     "id": "vg11",
     "title": "Reisprotein Porridge mit Zimtbirnen",
-    "short_description": "Waermendes Porridge mit Reisprotein und warmen Zimtbirnen.",
+    "short_description": "Wärmendes Porridge mit Reisprotein und warmen Zimtbirnen.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -11422,9 +11422,9 @@
       }
     ],
     "instructions": [
-      "Birnen wuerfeln und mit Ceylonzimt in einem Topf anduensten.",
-      "Haferflocken mit Hafermilch aufkochen und quellen lassen.",
-      "Reisprotein einruehren.",
+      "Birnen würfeln und mit Ceylonzimt in einem Topf andünsten.",
+      "Haferflocken mit Hafermilch aufkochen und qüllen lassen.",
+      "Reisprotein einrühren.",
       "Mit Zimtbirnen toppen."
     ],
     "prep_time_min": 8,
@@ -11490,10 +11490,10 @@
       }
     ],
     "instructions": [
-      "Tofu zerbroeckeln und in Öl anbraten.",
+      "Tofu zerbröckeln und in Öl anbraten.",
       "Tomaten halbieren und dazugeben.",
       "Kurz mitbraten, bis die Tomaten weich werden.",
-      "Mit Basilikum bestreuen."
+      "Mit Basilikum bestreün."
     ],
     "prep_time_min": 8,
     "cook_time_min": 8,
@@ -11559,8 +11559,8 @@
       }
     ],
     "instructions": [
-      "Kichererbsenmehl mit Wasser und einer Prise Salz glatt verruehren.",
-      "10 Minuten quellen lassen.",
+      "Kichererbsenmehl mit Wasser und einer Prise Salz glatt verrühren.",
+      "10 Minuten qüllen lassen.",
       "Im Waffeleisen goldbraun backen.",
       "Mit Beeren servieren."
     ],
@@ -11588,7 +11588,7 @@
   },
   {
     "id": "vg14",
-    "title": "Quinoa Fruehstuecksbowl mit Granatapfel und Minze",
+    "title": "Quinoa Frühstücksbowl mit Granatapfel und Minze",
     "short_description": "Frische Quinoa Bowl mit Granatapfel, Minze und Zitrone.",
     "image": null,
     "meal_type": [
@@ -11628,7 +11628,7 @@
       }
     ],
     "instructions": [
-      "Quinoa nach Packungsanweisung kochen und abkuehlen lassen.",
+      "Quinoa nach Packungsanweisung kochen und abkühlen lassen.",
       "In Bowls verteilen.",
       "Mit Granatapfelkernen und Minze toppen.",
       "Mit Zitronensaft beträufeln."
@@ -11650,7 +11650,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Quinoa",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage im Kühlschrank.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -11703,9 +11703,9 @@
       }
     ],
     "instructions": [
-      "Zwei Äpfel raspeln und mit Haferflocken und Leinsamen vermengen, kurz quellen lassen.",
+      "Zwei Äpfel raspeln und mit Haferflocken und Leinsamen vermengen, kurz qüllen lassen.",
       "Kleine Bratlinge formen und in Öl von beiden Seiten braten.",
-      "Restlichen Apfel wuerfeln und mit Ceylonzimt weich duensten.",
+      "Restlichen Apfel würfeln und mit Ceylonzimt weich dünsten.",
       "Bratlinge mit dem Apfelmus servieren."
     ],
     "prep_time_min": 15,
@@ -11725,7 +11725,7 @@
     "warm_or_cold": "warm",
     "main_protein": "Hafer",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Bratlinge lassen sich gut vorbereiten und aufwaermen.",
+    "meal_prep_notes": "Bratlinge lassen sich gut vorbereiten und aufwärmen.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -11794,7 +11794,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Linsen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch kalt lecker.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage, auch kalt lecker.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -11845,8 +11845,8 @@
       }
     ],
     "instructions": [
-      "Haferflocken mit Kürbiskernen in einer Pfanne ohne Öl knusprig anroesten.",
-      "Sojajoghurt in Schuesseln verteilen.",
+      "Haferflocken mit Kürbiskernen in einer Pfanne ohne Öl knusprig anrösten.",
+      "Sojajoghurt in Schüsseln verteilen.",
       "Mit dem gerösteten Granola und Beeren toppen.",
       "Mit Ahornsirup beträufeln."
     ],
@@ -11874,8 +11874,8 @@
   },
   {
     "id": "vg18",
-    "title": "Geroestete Sonnenblumenkerne mit Paprika",
-    "short_description": "Knusprig geroestete Sonnenblumenkerne mit Paprikapulver, nussfreier Snack.",
+    "title": "Geröstete Sonnenblumenkerne mit Paprika",
+    "short_description": "Knusprig geröstete Sonnenblumenkerne mit Paprikapulver, nussfreier Snack.",
     "image": null,
     "meal_type": [
       "snack"
@@ -11909,8 +11909,8 @@
     ],
     "instructions": [
       "Sonnenblumenkerne mit Öl und Paprikapulver vermengen.",
-      "In einer Pfanne ohne zusaetzliches Öl knusprig anroesten.",
-      "Abkuehlen lassen.",
+      "In einer Pfanne ohne zusätzliches Öl knusprig anrösten.",
+      "Abkühlen lassen.",
       "In einem Glas aufbewahren."
     ],
     "prep_time_min": 3,
@@ -11930,7 +11930,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Sonnenblumenkerne",
     "storage_category": "geroestet_trocken",
-    "meal_prep_notes": "Haelt sich luftdicht verpackt mehrere Tage.",
+    "meal_prep_notes": "Hält sich luftdicht verpackt mehrere Tage.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -11977,10 +11977,10 @@
       }
     ],
     "instructions": [
-      "Avocado zerdruecken und mit Zitronensaft, Salz und Pfeffer verruehren.",
+      "Avocado zerdrücken und mit Zitronensaft, Salz und Pfeffer verrühren.",
       "Karotten und Sellerie in Sticks schneiden.",
-      "Dip in eine kleine Schale fuellen.",
-      "Mit den Gemuesesticks servieren."
+      "Dip in eine kleine Schale füllen.",
+      "Mit den Gemüsesticks servieren."
     ],
     "prep_time_min": 10,
     "cook_time_min": 0,
@@ -12006,8 +12006,8 @@
   },
   {
     "id": "vg20",
-    "title": "Energiebaellchen mit Datteln und Kakao",
-    "short_description": "Suesse Energiebaellchen aus Datteln, Kakao und Haferflocken, ganz ohne Zuckerzusatz.",
+    "title": "Energiebällchen mit Datteln und Kakao",
+    "short_description": "Süsse Energiebällchen aus Datteln, Kakao und Haferflocken, ganz ohne Zuckerzusatz.",
     "image": null,
     "meal_type": [
       "snack"
@@ -12049,7 +12049,7 @@
       "Datteln kurz in warmem Wasser einweichen.",
       "Mit Haferflocken und Kakaopulver fein pürieren.",
       "Kleine Kugeln formen.",
-      "In Kokosraspeln waelzen."
+      "In Kokosraspeln wälzen."
     ],
     "prep_time_min": 15,
     "cook_time_min": 0,
@@ -12068,7 +12068,7 @@
     "warm_or_cold": "kalt",
     "main_protein": "Hafer",
     "storage_category": "roh_ungekocht",
-    "meal_prep_notes": "Haelt sich gut verschlossen fuer 4 bis 5 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut verschlossen für 4 bis 5 Tage im Kühlschrank.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "suess"
@@ -12076,7 +12076,7 @@
   {
     "id": "vg21",
     "title": "Marinierter Tofu Snack mit Sesam",
-    "short_description": "Wuerziger marinierter Tofu mit geroestetem Sesam, schnell in der Pfanne.",
+    "short_description": "Würziger marinierter Tofu mit geröstetem Sesam, schnell in der Pfanne.",
     "image": null,
     "meal_type": [
       "snack"
@@ -12114,9 +12114,9 @@
       }
     ],
     "instructions": [
-      "Tofu wuerfeln und mit Sojasauce marinieren.",
+      "Tofu würfeln und mit Sojasauce marinieren.",
       "In Sesamöl von allen Seiten anbraten.",
-      "Mit Sesam bestreuen.",
+      "Mit Sesam bestreün.",
       "Warm oder kalt servieren."
     ],
     "prep_time_min": 10,
@@ -12136,15 +12136,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Tofu",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 Tage im Kühlschrank.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "vg22",
-    "title": "Kichererbsen Wrap Haeppchen mit Hummus",
-    "short_description": "Kleine Wrap Haeppchen gefuellt mit Hummus und knackigem Gemuese.",
+    "title": "Kichererbsen Wrap Häppchen mit Hummus",
+    "short_description": "Kleine Wrap Häppchen gefüllt mit Hummus und knackigem Gemüse.",
     "image": null,
     "meal_type": [
       "snack"
@@ -12191,7 +12191,7 @@
       "Kichererbsen abtropfen lassen und mit Tahin und Zitronensaft pürieren.",
       "Paprika in Streifen schneiden.",
       "Wraps mit Hummus bestreichen und mit Paprika belegen.",
-      "Fest aufrollen und in Stuecke schneiden."
+      "Fest aufrollen und in Stücke schneiden."
     ],
     "prep_time_min": 15,
     "cook_time_min": 0,
@@ -12210,7 +12210,7 @@
     "warm_or_cold": "kalt",
     "main_protein": "Kichererbsen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Haelt sich gut verschlossen fuer 2 Tage, ideal fuer die Arbeit.",
+    "meal_prep_notes": "Hält sich gut verschlossen für 2 Tage, ideal für die Arbeit.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -12264,8 +12264,8 @@
     ],
     "instructions": [
       "Linsen nach Packungsanweisung weich kochen.",
-      "Knoblauch in Öl anduensten, passierte Tomaten dazugeben.",
-      "Linsen einruehren und 10 Minuten koecheln lassen.",
+      "Knoblauch in Öl andünsten, passierte Tomaten dazugeben.",
+      "Linsen einrühren und 10 Minuten köcheln lassen.",
       "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten und unterheben."
     ],
     "prep_time_min": 15,
@@ -12286,7 +12286,7 @@
     "warm_or_cold": "warm",
     "main_protein": "Linsen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Zucchininudeln am besten erst beim Aufwaermen dazugeben, dann bleiben sie bissfest.",
+    "meal_prep_notes": "Zucchininudeln am besten erst beim Aufwärmen dazugeben, dann bleiben sie bissfest.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -12343,9 +12343,9 @@
       }
     ],
     "instructions": [
-      "Chiasamen mit Kokosmilch verruehren und über Nacht im Kühlschrank quellen lassen.",
-      "Himbeeren mit einer Gabel zu einem groben Mus zerdruecken.",
-      "In Gläsern schichten: zuerst Joghurt, dann Chiapudding, dann Himbeermus.",
+      "Chiasamen mit Kokosmilch verrühren und über Nacht im Kühlschrank qüllen lassen.",
+      "Himbeeren mit einer Gabel zu einem groben Mus zerdrücken.",
+      "In Gläsern schichten: zürst Joghurt, dann Chiapudding, dann Himbeermus.",
       "Mit Heidelbeeren und je einem Klecks Mandelmus toppen."
     ],
     "prep_time_min": 12,
@@ -12366,7 +12366,7 @@
     "warm_or_cold": "kalt",
     "main_protein": "Joghurt und Chiasamen",
     "storage_category": "milchprodukt_frisch",
-    "meal_prep_notes": "Am besten in einzelnen verschließbaren Gläsern vorbereiten, so haelt es sich 2 bis 3 Tage.",
+    "meal_prep_notes": "Am besten in einzelnen verschließbaren Gläsern vorbereiten, so hält es sich 2 bis 3 Tage.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "suess"
@@ -12427,8 +12427,8 @@
     "instructions": [
       "Kokosöl in einer Pfanne erhitzen.",
       "Haferflocken, Cashewkerne, Leinsamen und Kokosnusssplitter dazugeben.",
-      "Unter staendigem Wenden kurz anbraten, bis es angenehm duftet und leicht goldbraun ist.",
-      "Vom Herd nehmen, Rohhonig unterruehren und vollstaendig auskuehlen lassen, dabei wird es knusprig."
+      "Unter ständigem Wenden kurz anbraten, bis es angenehm duftet und leicht goldbraun ist.",
+      "Vom Herd nehmen, Rohhonig unterrühren und vollständig auskühlen lassen, dabei wird es knusprig."
     ],
     "prep_time_min": 5,
     "cook_time_min": 8,
@@ -12455,7 +12455,7 @@
   {
     "id": "sp3",
     "title": "Apfel Zimt Bowl mit knusprigem Granola",
-    "short_description": "Waermende Apfelwuerfel mit Ceylonzimt, cremigem Joghurt und knusprigem Granola.",
+    "short_description": "Wärmende Apfelwürfel mit Ceylonzimt, cremigem Joghurt und knusprigem Granola.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -12486,7 +12486,7 @@
         "category": "Kühlprodukte"
       },
       {
-        "name": "Haferflocken, geroestet",
+        "name": "Haferflocken, geröstet",
         "amount": 80,
         "unit": "g",
         "category": "Getreide & Beilagen"
@@ -12499,10 +12499,10 @@
       }
     ],
     "instructions": [
-      "Äpfel wuerfeln und für 1 bis 2 Minuten in der Mikrowelle oder kurz im Topf mit etwas Wasser weich duensten.",
+      "Äpfel würfeln und für 1 bis 2 Minuten in der Mikrowelle oder kurz im Topf mit etwas Wasser weich dünsten.",
       "Mit Ceylonzimt vermengen.",
       "Joghurt in Schalen verteilen und mit den Zimtäpfeln toppen.",
-      "Mit gerösteten Haferflocken und Kürbiskernen bestreuen."
+      "Mit gerösteten Haferflocken und Kürbiskernen bestreün."
     ],
     "prep_time_min": 8,
     "cook_time_min": 2,
@@ -12528,8 +12528,8 @@
   },
   {
     "id": "sp4",
-    "title": "Gemuese Pesto Omelett mit Oliven",
-    "short_description": "Herzhaftes Omelett mit Pilzen, gruenem Spargel, Pesto und Oliven statt Kapern.",
+    "title": "Gemüse Pesto Omelett mit Oliven",
+    "short_description": "Herzhaftes Omelett mit Pilzen, grünem Spargel, Pesto und Oliven statt Kapern.",
     "image": null,
     "meal_type": [
       "fruehstueck",
@@ -12580,10 +12580,10 @@
       }
     ],
     "instructions": [
-      "Champignons in Scheiben schneiden, die zaehen Enden vom Spargel entfernen.",
+      "Champignons in Scheiben schneiden, die zähen Enden vom Spargel entfernen.",
       "Beides in etwas Öl anbraten und beiseite stellen.",
       "Eier verquirlen und in einer Pfanne stocken lassen.",
-      "Pesto auf einer Haelfte verteilen, mit Gemuese, Oliven und Feta belegen, Omelett zusammenklappen."
+      "Pesto auf einer Hälfte verteilen, mit Gemüse, Oliven und Feta belegen, Omelett zusammenklappen."
     ],
     "prep_time_min": 12,
     "cook_time_min": 10,
@@ -12610,7 +12610,7 @@
   {
     "id": "sp5",
     "title": "Champignon Kichererbsen Bratlinge",
-    "short_description": "Herzhafte Bratlinge aus Champignons, Kichererbsen und Sonnenblumenkernen, ideal fuer Bowls und Salate.",
+    "short_description": "Herzhafte Bratlinge aus Champignons, Kichererbsen und Sonnenblumenkernen, ideal für Bowls und Salate.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -12669,8 +12669,8 @@
     ],
     "instructions": [
       "Ofen auf 180 Grad vorheizen.",
-      "Pilze und Zwiebel wuerfeln und ohne Öl weich duensten, abkuehlen lassen.",
-      "Mit Kichererbsen, Koriander, Haferflocken, Sonnenblumenkernen und Kurkuma pürieren, einige Stuecke duerfen bleiben.",
+      "Pilze und Zwiebel würfeln und ohne Öl weich dünsten, abkühlen lassen.",
+      "Mit Kichererbsen, Koriander, Haferflocken, Sonnenblumenkernen und Kurkuma pürieren, einige Stücke dürfen bleiben.",
       "Runde Taler formen und ca. 20 bis 25 Minuten im Ofen backen."
     ],
     "prep_time_min": 15,
@@ -12691,7 +12691,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Kichererbsen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch als Burger Patty geeignet.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage, auch als Burger Patty geeignet.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -12766,7 +12766,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Lachs",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage, schmeckt auch kalt.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 1 bis 2 Tage, schmeckt auch kalt.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -12819,7 +12819,7 @@
       }
     ],
     "instructions": [
-      "Rotkohl fein raspeln, Karotten spiralisieren oder in duenne Streifen schneiden.",
+      "Rotkohl fein raspeln, Karotten spiralisieren oder in dünne Streifen schneiden.",
       "Beides mit Olivenöl und etwas Zitronensaft vermengen.",
       "Lachsfilet in Öl von beiden Seiten braten, bis es gar ist.",
       "Auf dem Rotkohl Karotten Salat anrichten."
@@ -12849,7 +12849,7 @@
   },
   {
     "id": "sp8",
-    "title": "Wuerzige Blumenkohl Ecken mit Guacamole",
+    "title": "Würzige Blumenkohl Ecken mit Guacamole",
     "short_description": "Knusprig gebackene Blumenkohl Ecken in Kokospanade, dazu cremige Guacamole.",
     "image": null,
     "meal_type": [
@@ -12901,10 +12901,10 @@
       }
     ],
     "instructions": [
-      "Ofen auf 180 Grad vorheizen. Leinsamen mit etwas Wasser verruehren und quellen lassen.",
+      "Ofen auf 180 Grad vorheizen. Leinsamen mit etwas Wasser verrühren und qüllen lassen.",
       "Haferflocken fein mahlen und mit dem Leinsamen Ei vermischen.",
-      "Blumenkohl in Röschen teilen, in der Masse und danach in den Kokosflocken mit Paprikapulver waelzen.",
-      "Auf einem Backblech verteilen und 25 bis 30 Minuten backen. Avocado zu Guacamole zerdruecken und dazu servieren."
+      "Blumenkohl in Röschen teilen, in der Masse und danach in den Kokosflocken mit Paprikapulver wälzen.",
+      "Auf einem Backblech verteilen und 25 bis 30 Minuten backen. Avocado zu Guacamole zerdrücken und dazu servieren."
     ],
     "prep_time_min": 15,
     "cook_time_min": 28,
@@ -12930,8 +12930,8 @@
   },
   {
     "id": "sp9",
-    "title": "Herzhafte Gruenkohl Quiche mit Feta",
-    "short_description": "Quiche mit einem Boden aus Mandeln und Hafer, gefuellt mit Gruenkohl und Feta.",
+    "title": "Herzhafte Grünkohl Quiche mit Feta",
+    "short_description": "Quiche mit einem Boden aus Mandeln und Hafer, gefüllt mit Grünkohl und Feta.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -12988,8 +12988,8 @@
     ],
     "instructions": [
       "Ofen auf 180 Grad vorheizen.",
-      "Mandeln und Haferflocken im Mixer fein mahlen und in eine gefettete Form druecken, ca. 10 Minuten backen.",
-      "Grünkohl und Knoblauch klein schneiden und kurz anduensten, abkuehlen lassen.",
+      "Mandeln und Haferflocken im Mixer fein mahlen und in eine gefettete Form drücken, ca. 10 Minuten backen.",
+      "Grünkohl und Knoblauch klein schneiden und kurz andünsten, abkühlen lassen.",
       "Mit den verquirlten Eiern vermengen, auf den Boden geben, mit Feta und halbierten Tomaten belegen und 30 Minuten backen."
     ],
     "prep_time_min": 20,
@@ -13010,15 +13010,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Ei und Feta",
     "storage_category": "enthaelt_ei",
-    "meal_prep_notes": "Laesst sich gut vorbacken und portionsweise aufwaermen oder kalt genießen.",
+    "meal_prep_notes": "Lässt sich gut vorbacken und portionsweise aufwärmen oder kalt genießen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "sp10",
-    "title": "Asiatische Tofu Gemuesebowl mit Sonnenblumenkernsauce",
-    "short_description": "Bunte Bowl mit gebratenem Tofu, Gemuese und einer cremigen Sonnenblumenkernsauce.",
+    "title": "Asiatische Tofu Gemüsebowl mit Sonnenblumenkernsauce",
+    "short_description": "Bunte Bowl mit gebratenem Tofu, Gemüse und einer cremigen Sonnenblumenkernsauce.",
     "image": null,
     "meal_type": [
       "mittagessen"
@@ -13074,9 +13074,9 @@
       }
     ],
     "instructions": [
-      "Tofu wuerfeln und in Öl knusprig anbraten.",
-      "Brokkoli kurz gar duensten.",
-      "Sonnenblumenkernmus mit Sojasauce, Limettensaft und etwas Wasser zu einer Sauce verruehren.",
+      "Tofu würfeln und in Öl knusprig anbraten.",
+      "Brokkoli kurz gar dünsten.",
+      "Sonnenblumenkernmus mit Sojasauce, Limettensaft und etwas Wasser zu einer Sauce verrühren.",
       "Tofu, Brokkoli, Sojasprossen und Rotkohl in Schalen anrichten und mit der Sauce beträufeln."
     ],
     "prep_time_min": 15,
@@ -13096,15 +13096,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Tofu",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
+    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darüber geben.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "sp11",
-    "title": "Gruenkohl Ananas Salat mit Kuerbiskernen",
-    "short_description": "Knackiger Gruenkohl Salat mit gebratener Ananas und gerösteten Kuerbiskernen.",
+    "title": "Grünkohl Ananas Salat mit Kürbiskernen",
+    "short_description": "Knackiger Grünkohl Salat mit gebratener Ananas und gerösteten Kürbiskernen.",
     "image": null,
     "meal_type": [
       "mittagessen"
@@ -13155,7 +13155,7 @@
       }
     ],
     "instructions": [
-      "Grünkohl von den Stielen befreien, in Streifen schneiden und kurz mit den Haenden durchkneten.",
+      "Grünkohl von den Stielen befreien, in Streifen schneiden und kurz mit den Händen durchkneten.",
       "Ananas in Scheiben schneiden und in einer Pfanne kurz scharf anbraten.",
       "Karotten raspeln und mit Grünkohl vermengen.",
       "Mit Olivenöl und Ahornsirup anmachen, mit Ananas und Kürbiskernen toppen."
@@ -13177,15 +13177,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Kürbiskerne",
     "storage_category": "roh_ungekocht",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage, Ananas erst kurz vorher zugeben.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 Tage, Ananas erst kurz vorher zugeben.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "sp12",
-    "title": "Gefuellte Ofen Suesskartoffel mit Tahini",
-    "short_description": "Ofen Suesskartoffel gefuellt mit Kichererbsen, Rucola und einer Tahini Limetten Sauce.",
+    "title": "Gefüllte Ofen Süsskartoffel mit Tahini",
+    "short_description": "Ofen Süsskartoffel gefüllt mit Kichererbsen, Rucola und einer Tahini Limetten Sauce.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -13239,8 +13239,8 @@
     "instructions": [
       "Ofen auf 200 Grad vorheizen. Süßkartoffeln waschen, mit einer Gabel einstechen und ca. 45 bis 50 Minuten backen.",
       "Kichererbsen abtropfen lassen und kurz anbraten.",
-      "Tahin mit Limettensaft und etwas Wasser zu einer Sauce verruehren.",
-      "Süßkartoffeln aufschneiden und mit Kichererbsen, Rucola, Sonnenblumenkernen und der Sauce fuellen."
+      "Tahin mit Limettensaft und etwas Wasser zu einer Sauce verrühren.",
+      "Süßkartoffeln aufschneiden und mit Kichererbsen, Rucola, Sonnenblumenkernen und der Sauce füllen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 48,
@@ -13324,9 +13324,9 @@
       }
     ],
     "instructions": [
-      "Quinoa nach Packungsanweisung kochen und abkuehlen lassen.",
+      "Quinoa nach Packungsanweisung kochen und abkühlen lassen.",
       "Kichererbsen abtropfen lassen und in einer Pfanne knusprig anbraten.",
-      "Grapefruit filetieren, Gurke wuerfeln, Feta zerbroeckeln.",
+      "Grapefruit filetieren, Gurke würfeln, Feta zerbröckeln.",
       "Alles mit Rucola und Olivenöl vermengen und mit den Kichererbsen toppen."
     ],
     "prep_time_min": 15,
@@ -13346,7 +13346,7 @@
     "warm_or_cold": "kalt",
     "main_protein": "Kichererbsen und Feta",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage, Rucola erst kurz vorher zugeben.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 1 bis 2 Tage, Rucola erst kurz vorher zugeben.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -13354,7 +13354,7 @@
   {
     "id": "sp14",
     "title": "Bunter Rohkost Salat mit Sesam Dressing",
-    "short_description": "Knackiger Krautsalat mit buntem Gemuese und einem cremigen Sesam Dressing statt Erdnuss.",
+    "short_description": "Knackiger Krautsalat mit buntem Gemüse und einem cremigen Sesam Dressing statt Erdnuss.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -13412,10 +13412,10 @@
       }
     ],
     "instructions": [
-      "Rotkohl, Weißkohl und Paprika in duenne Streifen schneiden, Karotten raspeln.",
-      "Alles in eine große Schuessel geben.",
-      "Tahin mit Apfelessig und etwas Wasser zu einem Dressing verruehren.",
-      "Über den Salat geben, vermengen und mit Sesam bestreuen."
+      "Rotkohl, Weißkohl und Paprika in dünne Streifen schneiden, Karotten raspeln.",
+      "Alles in eine große Schüssel geben.",
+      "Tahin mit Apfelessig und etwas Wasser zu einem Dressing verrühren.",
+      "Über den Salat geben, vermengen und mit Sesam bestreün."
     ],
     "prep_time_min": 18,
     "cook_time_min": 0,
@@ -13434,7 +13434,7 @@
     "warm_or_cold": "kalt",
     "main_protein": "Tahin",
     "storage_category": "roh_ungekocht",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage im Kühlschrank.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -13487,10 +13487,10 @@
       }
     ],
     "instructions": [
-      "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten und kurz in einer Pfanne anduensten.",
-      "Joghurt mit gehacktem Dill und Zitronensaft verruehren.",
+      "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten und kurz in einer Pfanne andünsten.",
+      "Joghurt mit gehacktem Dill und Zitronensaft verrühren.",
       "Zucchininudeln mit der Sauce vermengen.",
-      "Mit gerösteten Sonnenblumenkernen bestreuen."
+      "Mit gerösteten Sonnenblumenkernen bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 3,
@@ -13567,8 +13567,8 @@
       }
     ],
     "instructions": [
-      "Tofu wuerfeln und in Öl von allen Seiten knusprig anbraten.",
-      "Ingwer fein reiben und mit Limettensaft und Olivenöl verruehren.",
+      "Tofu würfeln und in Öl von allen Seiten knusprig anbraten.",
+      "Ingwer fein reiben und mit Limettensaft und Olivenöl verrühren.",
       "Tofu mit der Marinade, Sprossen und Koriander vermengen.",
       "Für 1 bis 2 Stunden im Kühlschrank durchziehen lassen."
     ],
@@ -13589,7 +13589,7 @@
     "warm_or_cold": "kalt",
     "main_protein": "Tofu",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 1 bis 2 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 1 bis 2 Tage im Kühlschrank.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -13649,9 +13649,9 @@
     ],
     "instructions": [
       "Avocado, Kakaopulver, Banane und Hafermilch fein pürieren.",
-      "In kleine Schalen fuellen.",
+      "In kleine Schalen füllen.",
       "Mit Himbeeren toppen.",
-      "Mit gehackten Kürbiskernen bestreuen."
+      "Mit gehackten Kürbiskernen bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 0,
@@ -13677,8 +13677,8 @@
   },
   {
     "id": "sp18",
-    "title": "Zitronen Mandel Baellchen mit Kokosraspeln",
-    "short_description": "Kleine Energiebaellchen aus Mandeln, Zitrone und Datteln, gewaelzt in Kokosraspeln.",
+    "title": "Zitronen Mandel Bällchen mit Kokosraspeln",
+    "short_description": "Kleine Energiebällchen aus Mandeln, Zitrone und Datteln, gewälzt in Kokosraspeln.",
     "image": null,
     "meal_type": [
       "snack"
@@ -13719,7 +13719,7 @@
       "Mandeln, Zitronenschale und Datteln im Mixer pürieren, bis eine knetbare Masse entsteht.",
       "Kokosraspel auf einem Teller verteilen.",
       "Kleine Kugeln aus der Masse formen.",
-      "In den Kokosraspeln waelzen und kalt stellen."
+      "In den Kokosraspeln wälzen und kalt stellen."
     ],
     "prep_time_min": 15,
     "cook_time_min": 0,
@@ -13738,15 +13738,15 @@
     "warm_or_cold": "kalt",
     "main_protein": "Mandeln",
     "storage_category": "roh_ungekocht",
-    "meal_prep_notes": "Haelt sich gut verschlossen fuer eine Woche im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut verschlossen für eine Woche im Kühlschrank.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "suess"
   },
   {
     "id": "sp19",
-    "title": "Aprikosen Hafer Baellchen mit Sesam",
-    "short_description": "Saettigende Energiebaellchen aus Aprikosen, Datteln und Hafer, gewaelzt in Sesam.",
+    "title": "Aprikosen Hafer Bällchen mit Sesam",
+    "short_description": "Sättigende Energiebällchen aus Aprikosen, Datteln und Hafer, gewälzt in Sesam.",
     "image": null,
     "meal_type": [
       "snack"
@@ -13788,7 +13788,7 @@
       "Haferflocken fein mahlen.",
       "Mit Datteln und Aprikosen pürieren, bis eine knetbare Masse entsteht.",
       "Sesam auf einem Teller verteilen.",
-      "Kleine Kugeln formen und im Sesam waelzen."
+      "Kleine Kugeln formen und im Sesam wälzen."
     ],
     "prep_time_min": 12,
     "cook_time_min": 0,
@@ -13807,15 +13807,15 @@
     "warm_or_cold": "kalt",
     "main_protein": "Hafer",
     "storage_category": "roh_ungekocht",
-    "meal_prep_notes": "Haelt sich gut verschlossen fuer eine Woche im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut verschlossen für eine Woche im Kühlschrank.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "suess"
   },
   {
     "id": "mf70",
-    "title": "Haehnchen Buffalo Streifen mit Guacamole",
-    "short_description": "Wuerzig gebackene Hähnchenstreifen in einer Kokos Gewuerzpanade, dazu cremige Guacamole.",
+    "title": "Hähnchen Buffalo Streifen mit Guacamole",
+    "short_description": "Würzig gebackene Hähnchenstreifen in einer Kokos Gewürzpanade, dazu cremige Guacamole.",
     "image": null,
     "meal_type": [
       "snack",
@@ -13868,8 +13868,8 @@
     "instructions": [
       "Ofen auf 200 Grad vorheizen.",
       "Hähnchenbrust in Streifen schneiden. Kokosflocken mit Paprika und Chilipulver vermengen.",
-      "Streifen erst in verquirltem Ei, dann in der Kokosmischung waelzen.",
-      "Auf einem Backblech verteilen und ca. 18 bis 20 Minuten backen. Avocado zu Guacamole zerdruecken und dazu servieren."
+      "Streifen erst in verquirltem Ei, dann in der Kokosmischung wälzen.",
+      "Auf einem Backblech verteilen und ca. 18 bis 20 Minuten backen. Avocado zu Guacamole zerdrücken und dazu servieren."
     ],
     "prep_time_min": 15,
     "cook_time_min": 19,
@@ -13895,7 +13895,7 @@
   },
   {
     "id": "mf71",
-    "title": "Haehnchen Pesto Omelett mit Champignons",
+    "title": "Hähnchen Pesto Omelett mit Champignons",
     "short_description": "Herzhaftes Omelett mit gebratenem Hähnchen, Champignons und Pesto.",
     "image": null,
     "meal_type": [
@@ -13941,10 +13941,10 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust wuerfeln, Champignons in Scheiben schneiden.",
+      "Hähnchenbrust würfeln, Champignons in Scheiben schneiden.",
       "Beides in Öl anbraten und beiseite stellen.",
       "Eier verquirlen und in einer Pfanne stocken lassen.",
-      "Pesto auf einer Haelfte verteilen, mit Hähnchen, Champignons und Feta belegen, Omelett zusammenklappen."
+      "Pesto auf einer Hälfte verteilen, mit Hähnchen, Champignons und Feta belegen, Omelett zusammenklappen."
     ],
     "prep_time_min": 12,
     "cook_time_min": 14,
@@ -13970,8 +13970,8 @@
   },
   {
     "id": "mf72",
-    "title": "Haehnchen Kichererbsen Bratlinge",
-    "short_description": "Saftige Bratlinge aus Hähnchenhack und Kichererbsen, wuerzig abgeschmeckt.",
+    "title": "Hähnchen Kichererbsen Bratlinge",
+    "short_description": "Saftige Bratlinge aus Hähnchenhack und Kichererbsen, würzig abgeschmeckt.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -14023,8 +14023,8 @@
       }
     ],
     "instructions": [
-      "Kichererbsen abtropfen lassen und grob zerdruecken.",
-      "Mit Hackfleisch, Koriander, Kurkuma und Kreuzkuemmel vermengen.",
+      "Kichererbsen abtropfen lassen und grob zerdrücken.",
+      "Mit Hackfleisch, Koriander, Kurkuma und Kreuzkümmel vermengen.",
       "Runde Taler formen.",
       "In Öl von beiden Seiten goldbraun braten, bis sie durch sind."
     ],
@@ -14046,7 +14046,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen und Kichererbsen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 bis 3 Tage, auch als Burger Patty geeignet.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 bis 3 Tage, auch als Burger Patty geeignet.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -14054,7 +14054,7 @@
   {
     "id": "mf73",
     "title": "Lachs Quiche mit Spinat und Feta",
-    "short_description": "Quiche mit einem Boden aus Mandeln und Hafer, gefuellt mit Raeucherlachs, Spinat und Feta.",
+    "short_description": "Quiche mit einem Boden aus Mandeln und Hafer, gefüllt mit Räucherlachs, Spinat und Feta.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -14079,7 +14079,7 @@
         "category": "Getreide & Beilagen"
       },
       {
-        "name": "Raeucherlachs",
+        "name": "Räucherlachs",
         "amount": 150,
         "unit": "g",
         "category": "Proteinquellen"
@@ -14105,8 +14105,8 @@
     ],
     "instructions": [
       "Ofen auf 180 Grad vorheizen.",
-      "Mandeln und Haferflocken im Mixer fein mahlen und in eine gefettete Form druecken, ca. 10 Minuten backen.",
-      "Spinat kurz zusammenfallen lassen und abkuehlen.",
+      "Mandeln und Haferflocken im Mixer fein mahlen und in eine gefettete Form drücken, ca. 10 Minuten backen.",
+      "Spinat kurz zusammenfallen lassen und abkühlen.",
       "Mit den verquirlten Eiern vermengen, auf den Boden geben, mit Lachs und Feta belegen und 30 Minuten backen."
     ],
     "prep_time_min": 20,
@@ -14127,15 +14127,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Lachs und Ei",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Laesst sich gut vorbacken und portionsweise aufwaermen oder kalt genießen.",
+    "meal_prep_notes": "Lässt sich gut vorbacken und portionsweise aufwärmen oder kalt genießen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf74",
-    "title": "Asiatische Haehnchen Bowl mit Sonnenblumenkernsauce",
-    "short_description": "Bunte Bowl mit gebratenem Hähnchen, Gemuese und einer cremigen Sonnenblumenkernsauce.",
+    "title": "Asiatische Hähnchen Bowl mit Sonnenblumenkernsauce",
+    "short_description": "Bunte Bowl mit gebratenem Hähnchen, Gemüse und einer cremigen Sonnenblumenkernsauce.",
     "image": null,
     "meal_type": [
       "mittagessen"
@@ -14192,8 +14192,8 @@
     ],
     "instructions": [
       "Hähnchenbrust in Streifen schneiden und in Öl anbraten.",
-      "Brokkoli kurz gar duensten.",
-      "Sonnenblumenkernmus mit Sojasauce, Limettensaft und etwas Wasser zu einer Sauce verruehren.",
+      "Brokkoli kurz gar dünsten.",
+      "Sonnenblumenkernmus mit Sojasauce, Limettensaft und etwas Wasser zu einer Sauce verrühren.",
       "Hähnchen, Brokkoli, Sojasprossen und Rotkohl in Schalen anrichten und mit der Sauce beträufeln."
     ],
     "prep_time_min": 15,
@@ -14213,15 +14213,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
+    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darüber geben.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf75",
-    "title": "Gefuellte Ofen Suesskartoffel mit Haehnchen",
-    "short_description": "Ofen Suesskartoffel gefuellt mit gebratenem Hähnchen, Rucola und Tahini Limetten Sauce.",
+    "title": "Gefüllte Ofen Süsskartoffel mit Hähnchen",
+    "short_description": "Ofen Süsskartoffel gefüllt mit gebratenem Hähnchen, Rucola und Tahini Limetten Sauce.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -14274,9 +14274,9 @@
     ],
     "instructions": [
       "Ofen auf 200 Grad vorheizen. Süßkartoffeln waschen, mit einer Gabel einstechen und ca. 45 bis 50 Minuten backen.",
-      "Hähnchenbrust wuerfeln und in Öl braten.",
-      "Tahin mit Limettensaft und etwas Wasser zu einer Sauce verruehren.",
-      "Süßkartoffeln aufschneiden und mit Hähnchen, Rucola und der Sauce fuellen."
+      "Hähnchenbrust würfeln und in Öl braten.",
+      "Tahin mit Limettensaft und etwas Wasser zu einer Sauce verrühren.",
+      "Süßkartoffeln aufschneiden und mit Hähnchen, Rucola und der Sauce füllen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 50,
@@ -14303,8 +14303,8 @@
   },
   {
     "id": "mf76",
-    "title": "Gruenkohl Ananas Salat mit Garnelen",
-    "short_description": "Knackiger Gruenkohl Salat mit gebratener Ananas, Garnelen und gerösteten Kuerbiskernen.",
+    "title": "Grünkohl Ananas Salat mit Garnelen",
+    "short_description": "Knackiger Grünkohl Salat mit gebratener Ananas, Garnelen und gerösteten Kürbiskernen.",
     "image": null,
     "meal_type": [
       "mittagessen"
@@ -14355,7 +14355,7 @@
       }
     ],
     "instructions": [
-      "Grünkohl von den Stielen befreien, in Streifen schneiden und kurz mit den Haenden durchkneten.",
+      "Grünkohl von den Stielen befreien, in Streifen schneiden und kurz mit den Händen durchkneten.",
       "Ananas in Scheiben und Garnelen in einer Pfanne kurz scharf anbraten.",
       "Grünkohl mit Olivenöl und Ahornsirup anmachen.",
       "Mit Ananas, Garnelen und Kürbiskernen toppen."
@@ -14384,8 +14384,8 @@
   },
   {
     "id": "mf77",
-    "title": "Bunter Rohkost Salat mit Haehnchen",
-    "short_description": "Knackiger Krautsalat mit buntem Gemuese, gebratenem Hähnchen und Sesam Dressing.",
+    "title": "Bunter Rohkost Salat mit Hähnchen",
+    "short_description": "Knackiger Krautsalat mit buntem Gemüse, gebratenem Hähnchen und Sesam Dressing.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -14444,9 +14444,9 @@
     ],
     "instructions": [
       "Hähnchenbrust in Streifen schneiden und in Öl braten.",
-      "Rotkohl, Weißkohl in duenne Streifen schneiden, Karotten raspeln.",
-      "Tahin mit Apfelessig und etwas Wasser zu einem Dressing verruehren.",
-      "Alles vermengen und mit Sesam bestreuen."
+      "Rotkohl, Weißkohl in dünne Streifen schneiden, Karotten raspeln.",
+      "Tahin mit Apfelessig und etwas Wasser zu einem Dressing verrühren.",
+      "Alles vermengen und mit Sesam bestreün."
     ],
     "prep_time_min": 15,
     "cook_time_min": 10,
@@ -14465,7 +14465,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage im Kühlschrank.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 Tage im Kühlschrank.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -14524,9 +14524,9 @@
       }
     ],
     "instructions": [
-      "Quinoa nach Packungsanweisung kochen und abkuehlen lassen.",
+      "Quinoa nach Packungsanweisung kochen und abkühlen lassen.",
       "Garnelen in Öl kurz anbraten.",
-      "Grapefruit filetieren, Gurke wuerfeln.",
+      "Grapefruit filetieren, Gurke würfeln.",
       "Alles mit Rucola und Olivenöl vermengen und mit den Garnelen toppen."
     ],
     "prep_time_min": 15,
@@ -14553,7 +14553,7 @@
   },
   {
     "id": "mf79",
-    "title": "Haehnchen Zoodles mit Joghurt Dill Sauce",
+    "title": "Hähnchen Zoodles mit Joghurt Dill Sauce",
     "short_description": "Zucchininudeln mit gebratenem Hähnchen in einer cremigen Joghurt Dill Sauce.",
     "image": null,
     "meal_type": [
@@ -14599,8 +14599,8 @@
     ],
     "instructions": [
       "Hähnchenbrust in Streifen schneiden und in Öl braten.",
-      "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten und kurz anduensten.",
-      "Joghurt mit gehacktem Dill und Zitronensaft verruehren.",
+      "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten und kurz andünsten.",
+      "Joghurt mit gehacktem Dill und Zitronensaft verrühren.",
       "Zucchininudeln mit Hähnchen und der Sauce vermengen."
     ],
     "prep_time_min": 12,
@@ -14627,8 +14627,8 @@
   },
   {
     "id": "nb1",
-    "title": "Gruener Fruehstuecks Smoothie mit Avocado",
-    "short_description": "Cremiger gruener Smoothie mit Banane, Spinat und Avocado, in wenigen Minuten fertig.",
+    "title": "Grüner Frühstücks Smoothie mit Avocado",
+    "short_description": "Cremiger grüner Smoothie mit Banane, Spinat und Avocado, in wenigen Minuten fertig.",
     "image": null,
     "meal_type": [
       "fruehstueck"
@@ -14673,7 +14673,7 @@
       }
     ],
     "instructions": [
-      "Banane schaelen und grob zerteilen.",
+      "Banane schälen und grob zerteilen.",
       "Alle Zutaten in einen Mixer geben.",
       "Cremig pürieren.",
       "Direkt genießen."
@@ -14702,7 +14702,7 @@
   },
   {
     "id": "nb2",
-    "title": "Bunte Quinoa Gemuese Bowl mit Tahini Zitronen Sauce",
+    "title": "Bunte Quinoa Gemüse Bowl mit Tahini Zitronen Sauce",
     "short_description": "Warme Quinoa Bowl mit Brokkoli, Karotten und einer cremigen Tahini Zitronen Sauce.",
     "image": null,
     "meal_type": [
@@ -14750,8 +14750,8 @@
     "instructions": [
       "Quinoa nach Packungsanweisung kochen.",
       "Brokkoli und Karotten dämpfen, bis sie gar aber noch bissfest sind.",
-      "Tahin mit Zitronensaft und etwas Wasser zu einer Sauce verruehren.",
-      "Quinoa und Gemuese in Bowls anrichten und mit der Sauce beträufeln."
+      "Tahin mit Zitronensaft und etwas Wasser zu einer Sauce verrühren.",
+      "Quinoa und Gemüse in Bowls anrichten und mit der Sauce beträufeln."
     ],
     "prep_time_min": 10,
     "cook_time_min": 15,
@@ -14770,7 +14770,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Quinoa",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
+    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darüber geben.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -14778,7 +14778,7 @@
   {
     "id": "nb3",
     "title": "Mildes Blumenkohl Kokos Curry mit Kichererbsen",
-    "short_description": "Waermendes Curry mit Blumenkohl, Kokosmilch und Kichererbsen, mild gewuerzt.",
+    "short_description": "Wärmendes Curry mit Blumenkohl, Kokosmilch und Kichererbsen, mild gewürzt.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -14831,9 +14831,9 @@
     ],
     "instructions": [
       "Blumenkohl in Röschen teilen.",
-      "Currypulver und Kurkuma kurz in einem Topf anroesten.",
+      "Currypulver und Kurkuma kurz in einem Topf anrösten.",
       "Kokosmilch angiessen, Blumenkohl und Kichererbsen dazugeben.",
-      "10 bis 15 Minuten koecheln lassen, mit Koriander bestreuen."
+      "10 bis 15 Minuten köcheln lassen, mit Koriander bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 15,
@@ -14853,7 +14853,7 @@
     "warm_or_cold": "warm",
     "main_protein": "Kichererbsen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
+    "meal_prep_notes": "Schmeckt aufgewärmt besonders gut, ideal für den Meal Prep.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -14941,8 +14941,8 @@
   },
   {
     "id": "nb5",
-    "title": "Ofengemuese mit Kichererbsen Hummus",
-    "short_description": "Wuerzig geroestetes Ofengemuese mit selbst gemachtem Kichererbsen Hummus.",
+    "title": "Ofengemüse mit Kichererbsen Hummus",
+    "short_description": "Würzig geröstetes Ofengemüse mit selbst gemachtem Kichererbsen Hummus.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -15006,10 +15006,10 @@
       }
     ],
     "instructions": [
-      "Ofen auf 200 Grad vorheizen. Gemuese in Stuecke schneiden, mit Öl und Kreuzkuemmel vermengen.",
+      "Ofen auf 200 Grad vorheizen. Gemüse in Stücke schneiden, mit Öl und Kreuzkümmel vermengen.",
       "Auf einem Blech verteilen und ca. 20 bis 25 Minuten backen.",
-      "Fuer den Hummus Kichererbsen abtropfen lassen und mit Tahin, Zitronensaft und etwas Wasser cremig pürieren.",
-      "Ofengemuese mit dem Hummus servieren."
+      "Für den Hummus Kichererbsen abtropfen lassen und mit Tahin, Zitronensaft und etwas Wasser cremig pürieren.",
+      "Ofengemüse mit dem Hummus servieren."
     ],
     "prep_time_min": 15,
     "cook_time_min": 23,
@@ -15028,15 +15028,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Kichererbsen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Gemuese und Hummus getrennt aufbewahren, haelt sich gut fuer 2 bis 3 Tage.",
+    "meal_prep_notes": "Gemüse und Hummus getrennt aufbewahren, hält sich gut für 2 bis 3 Tage.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "nb6",
-    "title": "Rote Bete Salat mit Feta und Kuerbiskernen",
-    "short_description": "Erdiger Rote Bete Salat mit Rucola, cremigem Feta und gerösteten Kuerbiskernen.",
+    "title": "Rote Bete Salat mit Feta und Kürbiskernen",
+    "short_description": "Erdiger Rote Bete Salat mit Rucola, cremigem Feta und gerösteten Kürbiskernen.",
     "image": null,
     "meal_type": [
       "mittagessen"
@@ -15086,7 +15086,7 @@
       }
     ],
     "instructions": [
-      "Rote Bete in Wuerfel schneiden.",
+      "Rote Bete in Würfel schneiden.",
       "Mit Rucola vermengen.",
       "Mit Olivenöl und Apfelessig anmachen.",
       "Mit Feta und Kürbiskernen toppen."
@@ -15109,15 +15109,15 @@
     "warm_or_cold": "kalt",
     "main_protein": "Feta",
     "storage_category": "roh_ungekocht",
-    "meal_prep_notes": "Haelt sich gut vorbereitet fuer 2 Tage, Rucola erst kurz vorher zugeben.",
+    "meal_prep_notes": "Hält sich gut vorbereitet für 2 Tage, Rucola erst kurz vorher zugeben.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "nb7",
-    "title": "Cremige Brokkoli Suesskartoffel Suppe",
-    "short_description": "Sanfte cremige Suppe aus Brokkoli und Suesskartoffel, mit Kuerbiskernen bestreut.",
+    "title": "Cremige Brokkoli Süsskartoffel Suppe",
+    "short_description": "Sanfte cremige Suppe aus Brokkoli und Süsskartoffel, mit Kürbiskernen bestreut.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -15163,10 +15163,10 @@
       }
     ],
     "instructions": [
-      "Zwiebel wuerfeln und in etwas Öl anbraten.",
-      "Brokkoli und Süßkartoffel wuerfeln und dazugeben.",
-      "Mit Gemuesebruehe aufgiessen und 20 Minuten koecheln lassen.",
-      "Fein pürieren und mit Kürbiskernen bestreuen."
+      "Zwiebel würfeln und in etwas Öl anbraten.",
+      "Brokkoli und Süßkartoffel würfeln und dazugeben.",
+      "Mit Gemüsebrühe aufgiessen und 20 Minuten köcheln lassen.",
+      "Fein pürieren und mit Kürbiskernen bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 22,
@@ -15186,15 +15186,15 @@
     "warm_or_cold": "warm",
     "main_protein": "Süßkartoffel",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Laesst sich gut portionsweise einfrieren und aufwaermen.",
+    "meal_prep_notes": "Lässt sich gut portionsweise einfrieren und aufwärmen.",
     "high_protein": false,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf80",
-    "title": "Mildes Haehnchen Kokos Curry mit Blumenkohl",
-    "short_description": "Waermendes Curry mit Hähnchen, Blumenkohl und cremiger Kokosmilch.",
+    "title": "Mildes Hähnchen Kokos Curry mit Blumenkohl",
+    "short_description": "Wärmendes Curry mit Hähnchen, Blumenkohl und cremiger Kokosmilch.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -15246,10 +15246,10 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust wuerfeln und anbraten.",
-      "Currypulver und Kurkuma kurz mitroesten.",
+      "Hähnchenbrust würfeln und anbraten.",
+      "Currypulver und Kurkuma kurz mitrösten.",
       "Kokosmilch angiessen, Blumenkohl dazugeben.",
-      "10 bis 15 Minuten koecheln lassen, mit Koriander bestreuen."
+      "10 bis 15 Minuten köcheln lassen, mit Koriander bestreün."
     ],
     "prep_time_min": 10,
     "cook_time_min": 18,
@@ -15269,7 +15269,7 @@
     "warm_or_cold": "warm",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Schmeckt aufgewaermt besonders gut, ideal fuer den Meal Prep.",
+    "meal_prep_notes": "Schmeckt aufgewärmt besonders gut, ideal für den Meal Prep.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -15325,7 +15325,7 @@
       "Quinoa nach Packungsanweisung kochen.",
       "Brokkoli dämpfen, bis er gar aber noch bissfest ist.",
       "Garnelen in Öl kurz anbraten.",
-      "Tahin mit Zitronensaft und etwas Wasser zu einer Sauce verruehren, alles in Bowls anrichten und beträufeln."
+      "Tahin mit Zitronensaft und etwas Wasser zu einer Sauce verrühren, alles in Bowls anrichten und beträufeln."
     ],
     "prep_time_min": 10,
     "cook_time_min": 15,
@@ -15344,15 +15344,15 @@
     "warm_or_cold": "beides",
     "main_protein": "Garnelen",
     "storage_category": "enthaelt_fisch",
-    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darueber geben.",
+    "meal_prep_notes": "Sauce separat mitnehmen und erst kurz vor dem Essen darüber geben.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf82",
-    "title": "Cremige Brokkoli Suppe mit Haehnchen",
-    "short_description": "Sanfte cremige Brokkolisuppe mit gebratenem Hähnchen, mit Kuerbiskernen bestreut.",
+    "title": "Cremige Brokkoli Suppe mit Hähnchen",
+    "short_description": "Sanfte cremige Brokkolisuppe mit gebratenem Hähnchen, mit Kürbiskernen bestreut.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -15404,9 +15404,9 @@
       }
     ],
     "instructions": [
-      "Hähnchenbrust wuerfeln und in Öl anbraten, beiseite stellen.",
-      "Zwiebel, Brokkoli und Süßkartoffel im gleichen Topf anduensten.",
-      "Mit Gemuesebruehe aufgiessen und 20 Minuten koecheln lassen, fein pürieren.",
+      "Hähnchenbrust würfeln und in Öl anbraten, beiseite stellen.",
+      "Zwiebel, Brokkoli und Süßkartoffel im gleichen Topf andünsten.",
+      "Mit Gemüsebrühe aufgiessen und 20 Minuten köcheln lassen, fein pürieren.",
       "Mit Hähnchen und Kürbiskernen toppen."
     ],
     "prep_time_min": 12,
@@ -15427,15 +15427,15 @@
     "warm_or_cold": "warm",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Laesst sich gut portionsweise einfrieren und aufwaermen.",
+    "meal_prep_notes": "Lässt sich gut portionsweise einfrieren und aufwärmen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
   },
   {
     "id": "mf83",
-    "title": "Ofengemuese mit Haehnchen und Hummus",
-    "short_description": "Wuerzig geroestetes Ofengemuese mit Hähnchen und selbst gemachtem Kichererbsen Hummus.",
+    "title": "Ofengemüse mit Hähnchen und Hummus",
+    "short_description": "Würzig geröstetes Ofengemüse mit Hähnchen und selbst gemachtem Kichererbsen Hummus.",
     "image": null,
     "meal_type": [
       "mittagessen",
@@ -15499,10 +15499,10 @@
       }
     ],
     "instructions": [
-      "Ofen auf 200 Grad vorheizen. Hähnchenbrust und Gemuese in Stuecke schneiden, mit Öl und Kreuzkuemmel vermengen.",
+      "Ofen auf 200 Grad vorheizen. Hähnchenbrust und Gemüse in Stücke schneiden, mit Öl und Kreuzkümmel vermengen.",
       "Auf einem Blech verteilen und ca. 20 bis 25 Minuten backen.",
-      "Fuer den Hummus Kichererbsen abtropfen lassen und mit Tahin, Zitronensaft und etwas Wasser cremig pürieren.",
-      "Hähnchen und Ofengemuese mit dem Hummus servieren."
+      "Für den Hummus Kichererbsen abtropfen lassen und mit Tahin, Zitronensaft und etwas Wasser cremig pürieren.",
+      "Hähnchen und Ofengemüse mit dem Hummus servieren."
     ],
     "prep_time_min": 15,
     "cook_time_min": 23,
@@ -15521,7 +15521,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen und Kichererbsen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Gemuese, Hähnchen und Hummus getrennt aufbewahren, haelt sich gut fuer 2 bis 3 Tage.",
+    "meal_prep_notes": "Gemüse, Hähnchen und Hummus getrennt aufbewahren, hält sich gut für 2 bis 3 Tage.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
