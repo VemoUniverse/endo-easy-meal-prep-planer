@@ -3,7 +3,7 @@
 
   // Bumped on every content/logic change so browsers can't serve a stale
   // cached copy of the JSON data files after a republish.
-  var ASSET_VERSION = "v28";
+  var ASSET_VERSION = "v29";
 
   var ENERGY_RANK = { low: 0, normal: 1, motiviert: 2 };
   var MEAL_TYPE_ORDER = ["fruehstueck", "mittagessen", "abendessen", "snack"];
@@ -536,11 +536,42 @@
 
   // ---------- Plan generation ----------
 
-  function scaleFactorFor(recipe) {
-    var neededPortions = state.days * state.persons;
-    var factor = neededPortions / recipe.servings;
-    factor = Math.max(1, Math.round(factor * 2) / 2);
-    return factor;
+  // Assigns each chosen dish to exactly one meal type (the first one from
+  // the natural day order that both the user asked for and the recipe
+  // covers), so a dish tagged for several meal types is only counted once.
+  function primaryMealTypeFor(recipe) {
+    for (var i = 0; i < MEAL_TYPE_ORDER.length; i++) {
+      var mt = MEAL_TYPE_ORDER[i];
+      if (state.mealTypes.indexOf(mt) !== -1 && recipe.meal_type.indexOf(mt) !== -1) {
+        return mt;
+      }
+    }
+    return recipe.meal_type[0];
+  }
+
+  // The needed amount per meal type (Tage x Personen) is split evenly across
+  // however many dishes were chosen for that meal type, so picking several
+  // dishes for the same meal doesn't multiply the total quantity needed.
+  function computeScaleFactors(chosen) {
+    var groups = {};
+    chosen.forEach(function (r) {
+      var mt = primaryMealTypeFor(r);
+      if (!groups[mt]) groups[mt] = [];
+      groups[mt].push(r);
+    });
+
+    var factors = {};
+    Object.keys(groups).forEach(function (mt) {
+      var dishesInGroup = groups[mt];
+      var neededPortions = state.days * state.persons;
+      var portionsPerDish = neededPortions / dishesInGroup.length;
+      dishesInGroup.forEach(function (r) {
+        var factor = portionsPerDish / r.servings;
+        factor = Math.max(1, Math.round(factor * 2) / 2);
+        factors[r.id] = factor;
+      });
+    });
+    return factors;
   }
 
   function buildPlan() {
@@ -549,18 +580,19 @@
     });
     if (chosen.length === 0) return;
 
-    renderShoppingList(chosen);
+    var scaleFactors = computeScaleFactors(chosen);
+    renderShoppingList(chosen, scaleFactors);
     renderIngredientTips(chosen);
-    renderPrepPlan(chosen);
+    renderPrepPlan(chosen, scaleFactors);
     renderStorageNotes(chosen);
     showScreen("plan");
   }
 
-  function renderPrepPlan(chosen) {
+  function renderPrepPlan(chosen, scaleFactors) {
     var ordered = chosen.slice().sort(function (a, b) { return b.total_time_min - a.total_time_min; });
     var html = '<p class="hint">Zutaten bereitlegen, dann in dieser Reihenfolge vorbereiten. Die aufwendigeren Gerichte zuerst, damit z. B. der Ofen parallel laufen kann.</p>';
     ordered.forEach(function (r) {
-      var factor = scaleFactorFor(r);
+      var factor = scaleFactors[r.id];
       var portions = Math.round(r.servings * factor);
       html += '<div class="plan-block"><h4>' + r.title + " (ergibt " + portions + " Portionen)</h4>";
       html += '<p class="plan-ingredients-label">Zutaten für dieses Gericht:</p><ul class="plan-ingredients">';
@@ -588,10 +620,10 @@
     return Math.round(amount * 2) / 2;
   }
 
-  function renderShoppingList(chosen) {
+  function renderShoppingList(chosen, scaleFactors) {
     var merged = {}; // key: normalizedName|unit -> { name, unit, amount, category }
     chosen.forEach(function (r) {
-      var factor = scaleFactorFor(r);
+      var factor = scaleFactors[r.id];
       r.ingredients.forEach(function (ing) {
         var key = normalizeName(ing.name) + "|" + ing.unit;
         var amount = ing.amount * factor;
