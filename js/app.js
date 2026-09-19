@@ -3,7 +3,7 @@
 
   // Bumped on every content/logic change so browsers can't serve a stale
   // cached copy of the JSON data files after a republish.
-  var ASSET_VERSION = "v29";
+  var ASSET_VERSION = "v30";
 
   var ENERGY_RANK = { low: 0, normal: 1, motiviert: 2 };
   var MEAL_TYPE_ORDER = ["fruehstueck", "mittagessen", "abendessen", "snack"];
