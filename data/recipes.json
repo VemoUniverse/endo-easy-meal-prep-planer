@@ -60,7 +60,7 @@
     ],
     "instructions": [
       "Chiasamen, Kokosmilch, Ahornsirup und Vanille in einer großen Schüssel verrühren.",
-      "Mindestens 4 Stunden oder über Nacht im Kühlschrank qüllen lassen, zwischendurch einmal umrühren.",
+      "Mindestens 4 Stunden oder über Nacht im Kühlschrank quellen lassen, zwischendurch einmal umrühren.",
       "Vor dem Servieren auf Gläser verteilen.",
       "Mit Beeren, Kürbiskernen und Hanfsamen toppen."
     ],
@@ -405,8 +405,8 @@
     ],
     "instructions": [
       "Haferflocken, Hafermilch, Rohkakaopulver, Mandelmus und Ahornsirup verrühren.",
-      "In Gläser füllen und über Nacht im Kühlschrank qüllen lassen.",
-      "Vor dem Servieren mit gehackten Walnüssen und Hanfsamen bestreün."
+      "In Gläser füllen und über Nacht im Kühlschrank quellen lassen.",
+      "Vor dem Servieren mit gehackten Walnüssen und Hanfsamen bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 0,
@@ -602,7 +602,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Hähnchen",
     "storage_category": "enthaelt_fleisch",
-    "meal_prep_notes": "Lässt sich hervorragend in Portionsboxen einfrieren. Einfach über Nacht auftaün und aufwärmen.",
+    "meal_prep_notes": "Lässt sich hervorragend in Portionsboxen einfrieren. Einfach über Nacht auftauen und aufwärmen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -1373,7 +1373,7 @@
       "Zwiebel anschwitzen, Hack anbraten, mit Kräutern würzen.",
       "Jeweils etwas Hackfleisch auf einen Zucchinistreifen geben und aufrollen.",
       "Röllchen in eine Auflaufform setzen, mit passierten Tomaten übergießen.",
-      "Mit Parmesan bestreün und ca. 20 Minuten bei 200°C backen."
+      "Mit Parmesan bestreuen und ca. 20 Minuten bei 200°C backen."
     ],
     "prep_time_min": 20,
     "cook_time_min": 20,
@@ -1460,7 +1460,7 @@
     "instructions": [
       "Zwiebel andünsten, Karotten in Scheiben dazugeben.",
       "Tomaten, Kichererbsen, Aprikosen und Gewürze hinzufügen, ca. 20 Minuten köcheln lassen.",
-      "Couscous parallel mit heißem Wasser aufgießen und qüllen lassen.",
+      "Couscous parallel mit heißem Wasser aufgießen und quellen lassen.",
       "Eintopf über dem Couscous servieren."
     ],
     "prep_time_min": 10,
@@ -1549,7 +1549,7 @@
       "Tofu würfeln, in einer Pfanne knusprig anbraten.",
       "Brokkoli Röschen dazugeben, kurz mitbraten.",
       "Sojasauce, Sesamöl und geriebenen Ingwer dazugeben, gut vermengen.",
-      "Mit Sesam bestreün und auf dem Reis servieren."
+      "Mit Sesam bestreuen und auf dem Reis servieren."
     ],
     "prep_time_min": 10,
     "cook_time_min": 20,
@@ -2491,7 +2491,7 @@
       "Reis nach Packungsanweisung kochen.",
       "Tofu würfeln und in einer Pfanne knusprig anbraten.",
       "Spargel in Stücken dazugeben, kurz mitbraten.",
-      "Mit Sojasauce und Sesamöl ablöschen, mit Sesam bestreün."
+      "Mit Sojasauce und Sesamöl ablöschen, mit Sesam bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 15,
@@ -2728,7 +2728,7 @@
     ],
     "instructions": [
       "Chiasamen mit Hafermilch und Ahornsirup verrühren.",
-      "Mindestens 4 Stunden im Kühlschrank qüllen lassen.",
+      "Mindestens 4 Stunden im Kühlschrank quellen lassen.",
       "Erdbeeren pürieren und unterrühren oder als Topping verwenden.",
       "Mit Hanfsamen und fein geschnittenem Basilikum garnieren."
     ],
@@ -2988,7 +2988,7 @@
   {
     "id": "fr4",
     "title": "Rhabarber Chia Kompott mit Joghurt",
-    "short_description": "Leicht säürliches Rhabarberkompott auf cremigem Joghurt. Der Frühlingsklassiker zum Frühstück.",
+    "short_description": "Leicht säuerliches Rhabarberkompott auf cremigem Joghurt. Der Frühlingsklassiker zum Frühstück.",
     "image": null,
     "meal_type": [
       "fruehstueck",
@@ -3419,7 +3419,7 @@
       "Nudeln kochen, abkühlen lassen.",
       "Tomaten halbieren.",
       "Nudeln mit Pesto, Tomaten und Rucola vermengen.",
-      "Mit Pinienkernen bestreün."
+      "Mit Pinienkernen bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 10,
@@ -3572,9 +3572,9 @@
     ],
     "instructions": [
       "Chiasamen mit Kokosmilch und Ahornsirup verrühren.",
-      "Mindestens 4 Stunden im Kühlschrank qüllen lassen.",
+      "Mindestens 4 Stunden im Kühlschrank quellen lassen.",
       "Pfirsiche würfeln und untermengen oder als Topping verwenden.",
-      "Mit Hanfsamen bestreün."
+      "Mit Hanfsamen bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 0,
@@ -3836,7 +3836,7 @@
     "warm_or_cold": "beides",
     "main_protein": "Kichererbsen",
     "storage_category": "pflanzlich_gegart",
-    "meal_prep_notes": "Falafel getrennt von den Wraps lagern und erst kurz vor dem Essen zusammenbaün.",
+    "meal_prep_notes": "Falafel getrennt von den Wraps lagern und erst kurz vor dem Essen zusammenbauen.",
     "high_protein": true,
     "sugar_free": true,
     "taste": "herzhaft"
@@ -3963,7 +3963,7 @@
     ],
     "instructions": [
       "Ofen auf 200°C vorheizen.",
-      "Edamame auftaün lassen, trocken tupfen.",
+      "Edamame auftauen lassen, trocken tupfen.",
       "Mit Öl und Gewürzen vermengen, auf einem Blech verteilen.",
       "Ca. 20 Minuten rösten, bis sie leicht knusprig sind."
     ],
@@ -4159,7 +4159,7 @@
   {
     "id": "hw3",
     "title": "Geschmorte Rotkohl Hähnchen Pfanne",
-    "short_description": "Zartes Hähnchen mit süß säürlichem Rotkohl aus einer Pfanne.",
+    "short_description": "Zartes Hähnchen mit süß säuerlichem Rotkohl aus einer Pfanne.",
     "image": null,
     "meal_type": [
       "abendessen"
@@ -4453,7 +4453,7 @@
       "Zwiebel und Knoblauch andünsten, Pilze dazugeben und anbraten.",
       "Mit etwas Gemüsebrühe ablöschen, kurz köcheln lassen.",
       "Polenta parallel nach Packungsanweisung mit Gemüsebrühe zubereiten.",
-      "Ragout auf der Polenta anrichten, mit Petersilie bestreün."
+      "Ragout auf der Polenta anrichten, mit Petersilie bestreuen."
     ],
     "prep_time_min": 15,
     "cook_time_min": 20,
@@ -4533,7 +4533,7 @@
       "Äpfel würfeln und mit Ceylonzimt in einem Topf kurz andünsten.",
       "Haferflocken mit Hafermilch aufkochen und ca. 5 Minuten köcheln lassen.",
       "Porridge auf Schalen verteilen, mit einem Klecks Skyr toppen.",
-      "Mit Zimtapfel und Walnüssen bestreün."
+      "Mit Zimtapfel und Walnüssen bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 10,
@@ -4851,7 +4851,7 @@
       "Ofen auf 200°C vorheizen.",
       "Kartoffeln in dünne Scheiben schneiden, Wirsing grob schneiden, Zwiebel würfeln.",
       "Alles in eine Auflaufform schichten, mit Joghurt und Muskat vermengt übergießen.",
-      "Mit Gouda bestreün und ca. 35 Minuten backen."
+      "Mit Gouda bestreuen und ca. 35 Minuten backen."
     ],
     "prep_time_min": 20,
     "cook_time_min": 35,
@@ -5316,7 +5316,7 @@
     ],
     "instructions": [
       "Birnen würfeln und mit Ceylonzimt in einem Topf andünsten.",
-      "Hafermilch aufkochen, Grieß einrühren und qüllen lassen.",
+      "Hafermilch aufkochen, Grieß einrühren und quellen lassen.",
       "Grießbrei auf Schalen verteilen, mit Skyr toppen.",
       "Mit Zimtbirnen und Ahornsirup servieren."
     ],
@@ -5627,7 +5627,7 @@
       "Eier verquirlen, mit Salz und Pfeffer würzen.",
       "Butter in einer Pfanne erhitzen, Eier bei geringer Hitze langsam stocken lassen.",
       "Räucherlachs in Streifen schneiden und unterheben.",
-      "Mit Schnittlauch bestreün und servieren."
+      "Mit Schnittlauch bestreuen und servieren."
     ],
     "prep_time_min": 10,
     "cook_time_min": 10,
@@ -7034,7 +7034,7 @@
       "Knoblauch in Öl kurz andünsten.",
       "Garnelen dazugeben und 3 bis 4 Minuten braten.",
       "Mit Zitronensaft ablöschen.",
-      "Mit Petersilie bestreün."
+      "Mit Petersilie bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 8,
@@ -7416,7 +7416,7 @@
       "Garnelen in Butter kurz anbraten.",
       "Eier verquirlen und dazugeben.",
       "Unter Rühren stocken lassen.",
-      "Mit Petersilie bestreün."
+      "Mit Petersilie bestreuen."
     ],
     "prep_time_min": 8,
     "cook_time_min": 8,
@@ -7710,7 +7710,7 @@
       "Thunfisch abtropfen lassen und mit den verquirlten Eiern vermischen.",
       "Tomaten halbieren.",
       "Öl in einer Pfanne erhitzen, Eiermasse hineingeben.",
-      "Tomaten daraufgeben und stocken lassen, mit Basilikum bestreün."
+      "Tomaten daraufgeben und stocken lassen, mit Basilikum bestreuen."
     ],
     "prep_time_min": 8,
     "cook_time_min": 10,
@@ -8003,7 +8003,7 @@
       "Garnelen auf Spiesse stecken.",
       "Mit Öl und Limettensaft beträufeln.",
       "In einer Pfanne kurz von beiden Seiten braten.",
-      "Mit Koriander bestreün."
+      "Mit Koriander bestreuen."
     ],
     "prep_time_min": 8,
     "cook_time_min": 6,
@@ -9256,7 +9256,7 @@
       "Lachs würfeln und in Öl anbraten.",
       "Brokkoli in Röschen teilen und dazugeben.",
       "Mit Sojasauce ablöschen und garen, bis der Lachs durch ist.",
-      "Mit Sesam bestreün."
+      "Mit Sesam bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 12,
@@ -9406,7 +9406,7 @@
       "Paprika in Streifen schneiden und andünsten.",
       "Currypulver dazugeben und kurz mitrösten.",
       "Kokosmilch angiessen und aufkochen.",
-      "Garnelen dazugeben und 3 bis 4 Minuten garen, mit Koriander bestreün."
+      "Garnelen dazugeben und 3 bis 4 Minuten garen, mit Koriander bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 12,
@@ -9703,7 +9703,7 @@
       "Hähnchenbrust in Streifen schneiden und in Öl anbraten.",
       "Zucchini und Karotten in Streifen schneiden und dazugeben.",
       "Knackig braten, bis das Gemüse gar aber noch bissfest ist.",
-      "Mit Sesam bestreün."
+      "Mit Sesam bestreuen."
     ],
     "prep_time_min": 12,
     "cook_time_min": 12,
@@ -10200,7 +10200,7 @@
       "Tomaten halbieren und in Öl kurz andünsten.",
       "Kabeljau in Stücken dazugeben.",
       "Zugedeckt ca. 8 Minuten gar ziehen lassen.",
-      "Mit Petersilie bestreün."
+      "Mit Petersilie bestreuen."
     ],
     "prep_time_min": 8,
     "cook_time_min": 12,
@@ -10337,7 +10337,7 @@
     "instructions": [
       "Reiswaffeln mit Frischkäse bestreichen.",
       "Mit Räucherlachs belegen.",
-      "Mit Kapern bestreün."
+      "Mit Kapern bestreuen."
     ],
     "prep_time_min": 8,
     "cook_time_min": 0,
@@ -10878,7 +10878,7 @@
     ],
     "instructions": [
       "Kichererbsenmehl mit Wasser und einer Prise Salz glatt verrühren.",
-      "Kurz 10 Minuten qüllen lassen.",
+      "Kurz 10 Minuten quellen lassen.",
       "In Öl von beiden Seiten goldbraun braten.",
       "Mit Avocadoscheiben servieren."
     ],
@@ -10948,7 +10948,7 @@
     ],
     "instructions": [
       "Haferflocken mit Hafermilch und Reisprotein verrühren.",
-      "Über Nacht im Kühlschrank qüllen lassen.",
+      "Über Nacht im Kühlschrank quellen lassen.",
       "Vor dem Servieren nochmal umrühren.",
       "Mit Beeren toppen."
     ],
@@ -11138,7 +11138,7 @@
     "instructions": [
       "Edamame nach Packungsanweisung in Salzwasser kochen.",
       "Abgiessen und abtropfen lassen.",
-      "Mit grobem Meersalz bestreün."
+      "Mit grobem Meersalz bestreuen."
     ],
     "prep_time_min": 2,
     "cook_time_min": 6,
@@ -11348,7 +11348,7 @@
     ],
     "instructions": [
       "Chiasamen mit Kokosmilch verrühren.",
-      "Mindestens 4 Stunden oder über Nacht qüllen lassen.",
+      "Mindestens 4 Stunden oder über Nacht quellen lassen.",
       "Mango würfeln.",
       "Pudding mit Mango und Kokosraspeln toppen."
     ],
@@ -11423,7 +11423,7 @@
     ],
     "instructions": [
       "Birnen würfeln und mit Ceylonzimt in einem Topf andünsten.",
-      "Haferflocken mit Hafermilch aufkochen und qüllen lassen.",
+      "Haferflocken mit Hafermilch aufkochen und quellen lassen.",
       "Reisprotein einrühren.",
       "Mit Zimtbirnen toppen."
     ],
@@ -11493,7 +11493,7 @@
       "Tofu zerbröckeln und in Öl anbraten.",
       "Tomaten halbieren und dazugeben.",
       "Kurz mitbraten, bis die Tomaten weich werden.",
-      "Mit Basilikum bestreün."
+      "Mit Basilikum bestreuen."
     ],
     "prep_time_min": 8,
     "cook_time_min": 8,
@@ -11560,7 +11560,7 @@
     ],
     "instructions": [
       "Kichererbsenmehl mit Wasser und einer Prise Salz glatt verrühren.",
-      "10 Minuten qüllen lassen.",
+      "10 Minuten quellen lassen.",
       "Im Waffeleisen goldbraun backen.",
       "Mit Beeren servieren."
     ],
@@ -11703,7 +11703,7 @@
       }
     ],
     "instructions": [
-      "Zwei Äpfel raspeln und mit Haferflocken und Leinsamen vermengen, kurz qüllen lassen.",
+      "Zwei Äpfel raspeln und mit Haferflocken und Leinsamen vermengen, kurz quellen lassen.",
       "Kleine Bratlinge formen und in Öl von beiden Seiten braten.",
       "Restlichen Apfel würfeln und mit Ceylonzimt weich dünsten.",
       "Bratlinge mit dem Apfelmus servieren."
@@ -12116,7 +12116,7 @@
     "instructions": [
       "Tofu würfeln und mit Sojasauce marinieren.",
       "In Sesamöl von allen Seiten anbraten.",
-      "Mit Sesam bestreün.",
+      "Mit Sesam bestreuen.",
       "Warm oder kalt servieren."
     ],
     "prep_time_min": 10,
@@ -12343,9 +12343,9 @@
       }
     ],
     "instructions": [
-      "Chiasamen mit Kokosmilch verrühren und über Nacht im Kühlschrank qüllen lassen.",
+      "Chiasamen mit Kokosmilch verrühren und über Nacht im Kühlschrank quellen lassen.",
       "Himbeeren mit einer Gabel zu einem groben Mus zerdrücken.",
-      "In Gläsern schichten: zürst Joghurt, dann Chiapudding, dann Himbeermus.",
+      "In Gläsern schichten: zuerst Joghurt, dann Chiapudding, dann Himbeermus.",
       "Mit Heidelbeeren und je einem Klecks Mandelmus toppen."
     ],
     "prep_time_min": 12,
@@ -12502,7 +12502,7 @@
       "Äpfel würfeln und für 1 bis 2 Minuten in der Mikrowelle oder kurz im Topf mit etwas Wasser weich dünsten.",
       "Mit Ceylonzimt vermengen.",
       "Joghurt in Schalen verteilen und mit den Zimtäpfeln toppen.",
-      "Mit gerösteten Haferflocken und Kürbiskernen bestreün."
+      "Mit gerösteten Haferflocken und Kürbiskernen bestreuen."
     ],
     "prep_time_min": 8,
     "cook_time_min": 2,
@@ -12901,7 +12901,7 @@
       }
     ],
     "instructions": [
-      "Ofen auf 180 Grad vorheizen. Leinsamen mit etwas Wasser verrühren und qüllen lassen.",
+      "Ofen auf 180 Grad vorheizen. Leinsamen mit etwas Wasser verrühren und quellen lassen.",
       "Haferflocken fein mahlen und mit dem Leinsamen Ei vermischen.",
       "Blumenkohl in Röschen teilen, in der Masse und danach in den Kokosflocken mit Paprikapulver wälzen.",
       "Auf einem Backblech verteilen und 25 bis 30 Minuten backen. Avocado zu Guacamole zerdrücken und dazu servieren."
@@ -13415,7 +13415,7 @@
       "Rotkohl, Weißkohl und Paprika in dünne Streifen schneiden, Karotten raspeln.",
       "Alles in eine große Schüssel geben.",
       "Tahin mit Apfelessig und etwas Wasser zu einem Dressing verrühren.",
-      "Über den Salat geben, vermengen und mit Sesam bestreün."
+      "Über den Salat geben, vermengen und mit Sesam bestreuen."
     ],
     "prep_time_min": 18,
     "cook_time_min": 0,
@@ -13490,7 +13490,7 @@
       "Zucchini mit dem Spiralschneider zu Nudeln verarbeiten und kurz in einer Pfanne andünsten.",
       "Joghurt mit gehacktem Dill und Zitronensaft verrühren.",
       "Zucchininudeln mit der Sauce vermengen.",
-      "Mit gerösteten Sonnenblumenkernen bestreün."
+      "Mit gerösteten Sonnenblumenkernen bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 3,
@@ -13651,7 +13651,7 @@
       "Avocado, Kakaopulver, Banane und Hafermilch fein pürieren.",
       "In kleine Schalen füllen.",
       "Mit Himbeeren toppen.",
-      "Mit gehackten Kürbiskernen bestreün."
+      "Mit gehackten Kürbiskernen bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 0,
@@ -14446,7 +14446,7 @@
       "Hähnchenbrust in Streifen schneiden und in Öl braten.",
       "Rotkohl, Weißkohl in dünne Streifen schneiden, Karotten raspeln.",
       "Tahin mit Apfelessig und etwas Wasser zu einem Dressing verrühren.",
-      "Alles vermengen und mit Sesam bestreün."
+      "Alles vermengen und mit Sesam bestreuen."
     ],
     "prep_time_min": 15,
     "cook_time_min": 10,
@@ -14833,7 +14833,7 @@
       "Blumenkohl in Röschen teilen.",
       "Currypulver und Kurkuma kurz in einem Topf anrösten.",
       "Kokosmilch angiessen, Blumenkohl und Kichererbsen dazugeben.",
-      "10 bis 15 Minuten köcheln lassen, mit Koriander bestreün."
+      "10 bis 15 Minuten köcheln lassen, mit Koriander bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 15,
@@ -15166,7 +15166,7 @@
       "Zwiebel würfeln und in etwas Öl anbraten.",
       "Brokkoli und Süßkartoffel würfeln und dazugeben.",
       "Mit Gemüsebrühe aufgiessen und 20 Minuten köcheln lassen.",
-      "Fein pürieren und mit Kürbiskernen bestreün."
+      "Fein pürieren und mit Kürbiskernen bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 22,
@@ -15249,7 +15249,7 @@
       "Hähnchenbrust würfeln und anbraten.",
       "Currypulver und Kurkuma kurz mitrösten.",
       "Kokosmilch angiessen, Blumenkohl dazugeben.",
-      "10 bis 15 Minuten köcheln lassen, mit Koriander bestreün."
+      "10 bis 15 Minuten köcheln lassen, mit Koriander bestreuen."
     ],
     "prep_time_min": 10,
     "cook_time_min": 18,
